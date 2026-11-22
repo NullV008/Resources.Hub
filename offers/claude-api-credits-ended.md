@@ -22,3 +22,7 @@ Anthropic previously offered student developers a $50 API trial credit. This app
 ## How to claim
 
 This trial credit has ended. Do not apply for the $50 credit using the old form anymore.
+
+## 标签 / Tags
+
+`活动已结束`

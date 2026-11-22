@@ -22,3 +22,7 @@ Stanford, University of Washington, Cornell, and Carnegie Mellon once offered Cl
 ## How to claim
 
 This discount has ended and will no longer be available at $1 per month. The current price is subject to the settlement page on the official Claude website.
+
+## 标签 / Tags
+
+`活动已结束`

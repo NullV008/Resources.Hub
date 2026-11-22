@@ -22,3 +22,7 @@ Previously, logging in with an education account allowed you to claim two months
 ## How to claim
 
 This two-month free trial has ended. Logging in with an education account will no longer automatically activate SuperGrok.
+
+## 标签 / Tags
+
+`活动已结束`

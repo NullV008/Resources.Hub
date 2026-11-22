@@ -22,3 +22,7 @@ Schools such as Northeastern University, the London School of Economics and Poli
 ## How to claim
 
 This benefit has ended. Do not follow the old registration instructions or ask classmates for access. For any ongoing partnerships with your school, please refer to official announcements from the school itself.
+
+## 标签 / Tags
+
+`活动已结束`

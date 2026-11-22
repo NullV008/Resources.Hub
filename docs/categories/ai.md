@@ -42,11 +42,11 @@
 | 36 | [Claude 非营利组织优惠 / Claude for Nonprofits](https://edu.52it.de/zh/offer/claude-for-nonprofits) | claude.com | 合格非营利组织和 K-12 学校可买 Claude Team 优惠价。页面展示约 $8/人/月，低收入和中等收入国家约 $3/人/月，席位约 2–150。需 Goodstack 核验。 | `折扣` | Active |
 | 37 | [OpenAI 非营利组织优惠 / OpenAI for Nonprofits](https://edu.52it.de/zh/offer/openai-for-nonprofits) | help.openai.com | 合格非营利组织购买 ChatGPT Business 标准席位可享优惠：年付约 $8/人/月，月付约 $10/人/月。高级席位不打折。Enterprise 可联系销售，最高约 75% 折扣。 | `75% 折扣` | Active |
 | 38 | [Scira Pro 学校邮箱价 / Scira Pro School Email Price](https://edu.52it.de/zh/offer/scira-pro-school-email-price) | scira.ai | 用学校邮箱登录后，Scira Pro 结账价为 $9/月；普通邮箱为 $15/月。邮箱域名匹配即可，不需要优惠码。 | `折扣` | Active |
-| 39 | [Claude 高校免费版（已结束） / Claude Free Version for High Schools](https://edu.52it.de/zh/offer/claude-free-version-ended) | claude.northeastern.edu | 东北大学、伦敦政治经济学院、尚普兰学院等学校曾经向本校账号提供免费 Claude。该校内通道已结束，现在不能按旧入口领取。 |  | Ended |
-| 40 | [Claude Pro 高校优惠（已结束） / Claude Pro University Discount](https://edu.52it.de/zh/offer/claude-pro-discount-ended) | anthropic.com | 斯坦福、华盛顿大学、康奈尔和卡内基梅隆曾经提供 Claude Pro 约 $1/月。该限时校内优惠已结束。 |  | Ended |
-| 41 | [Claude API 学生体验金（已结束） / Claude API Student Trial Credit](https://edu.52it.de/zh/offer/claude-api-credits-ended) | anthropic.com | Anthropic 曾经向学生开发者提供 $50 API 体验金。该申请通道已结束。 |  | Ended |
-| 42 | [You.com Pro 高校会员（已结束） / You.com Pro University Membership](https://edu.52it.de/zh/offer/you-com-pro-membership-ended) | you.com | You.com 曾经向高校用户提供一年 Pro，可使用多个模型。该大学通道已结束。 |  | Ended |
-| 43 | [Grok SuperGrok 教育优惠（已结束） / Grok SuperGrok Education Discount](https://edu.52it.de/zh/offer/grok-supergrok-ended) | grok.com | 用教育账号登录曾经可以领取两个月 SuperGrok。该活动已结束。 |  | Ended |
+| 39 | [Claude 高校免费版（已结束） / Claude Free Version for High Schools](https://edu.52it.de/zh/offer/claude-free-version-ended) | claude.northeastern.edu | 东北大学、伦敦政治经济学院、尚普兰学院等学校曾经向本校账号提供免费 Claude。该校内通道已结束，现在不能按旧入口领取。 | `活动已结束` | Ended |
+| 40 | [Claude Pro 高校优惠（已结束） / Claude Pro University Discount](https://edu.52it.de/zh/offer/claude-pro-discount-ended) | anthropic.com | 斯坦福、华盛顿大学、康奈尔和卡内基梅隆曾经提供 Claude Pro 约 $1/月。该限时校内优惠已结束。 | `活动已结束` | Ended |
+| 41 | [Claude API 学生体验金（已结束） / Claude API Student Trial Credit](https://edu.52it.de/zh/offer/claude-api-credits-ended) | anthropic.com | Anthropic 曾经向学生开发者提供 $50 API 体验金。该申请通道已结束。 | `活动已结束` | Ended |
+| 42 | [You.com Pro 高校会员（已结束） / You.com Pro University Membership](https://edu.52it.de/zh/offer/you-com-pro-membership-ended) | you.com | You.com 曾经向高校用户提供一年 Pro，可使用多个模型。该大学通道已结束。 | `活动已结束` | Ended |
+| 43 | [Grok SuperGrok 教育优惠（已结束） / Grok SuperGrok Education Discount](https://edu.52it.de/zh/offer/grok-supergrok-ended) | grok.com | 用教育账号登录曾经可以领取两个月 SuperGrok。该活动已结束。 | `活动已结束` | Ended |
 
 ---
 

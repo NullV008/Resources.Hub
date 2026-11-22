@@ -97,11 +97,11 @@
 | [Claude 非营利组织优惠 / Claude for Nonprofits](https://edu.52it.de/zh/offer/claude-for-nonprofits) | claude.com | `折扣` |
 | [OpenAI 非营利组织优惠 / OpenAI for Nonprofits](https://edu.52it.de/zh/offer/openai-for-nonprofits) | help.openai.com | `75% 折扣` |
 | [Scira Pro 学校邮箱价 / Scira Pro School Email Price](https://edu.52it.de/zh/offer/scira-pro-school-email-price) | scira.ai | `折扣` |
-| [Claude 高校免费版（已结束） / Claude Free Version for High Schools](https://edu.52it.de/zh/offer/claude-free-version-ended) | claude.northeastern.edu |  |
-| [Claude Pro 高校优惠（已结束） / Claude Pro University Discount](https://edu.52it.de/zh/offer/claude-pro-discount-ended) | anthropic.com |  |
-| [Claude API 学生体验金（已结束） / Claude API Student Trial Credit](https://edu.52it.de/zh/offer/claude-api-credits-ended) | anthropic.com |  |
-| [You.com Pro 高校会员（已结束） / You.com Pro University Membership](https://edu.52it.de/zh/offer/you-com-pro-membership-ended) | you.com |  |
-| [Grok SuperGrok 教育优惠（已结束） / Grok SuperGrok Education Discount](https://edu.52it.de/zh/offer/grok-supergrok-ended) | grok.com |  |
+| [Claude 高校免费版（已结束） / Claude Free Version for High Schools](https://edu.52it.de/zh/offer/claude-free-version-ended) | claude.northeastern.edu | `活动已结束` |
+| [Claude Pro 高校优惠（已结束） / Claude Pro University Discount](https://edu.52it.de/zh/offer/claude-pro-discount-ended) | anthropic.com | `活动已结束` |
+| [Claude API 学生体验金（已结束） / Claude API Student Trial Credit](https://edu.52it.de/zh/offer/claude-api-credits-ended) | anthropic.com | `活动已结束` |
+| [You.com Pro 高校会员（已结束） / You.com Pro University Membership](https://edu.52it.de/zh/offer/you-com-pro-membership-ended) | you.com | `活动已结束` |
+| [Grok SuperGrok 教育优惠（已结束） / Grok SuperGrok Education Discount](https://edu.52it.de/zh/offer/grok-supergrok-ended) | grok.com | `活动已结束` |
 
 </details>
 

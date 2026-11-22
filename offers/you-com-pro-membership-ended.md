@@ -22,3 +22,7 @@ You.com previously offered a one-year Pro subscription to university users, allo
 ## How to claim
 
 This one-year Pro promotion has ended. For any new educational pricing, please refer to the current You.com page.
+
+## 标签 / Tags
+
+`活动已结束`
