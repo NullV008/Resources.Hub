@@ -1,13 +1,30 @@
 # Adobe Creative Cloud 学生/教师版
 
-**Adobe Creative Cloud for Students & Teachers**
+> Adobe Creative Cloud for Students & Teachers
 
-- 分类 / Category: [设计与创意 / Design & Creative](../docs/categories/design.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: adobe.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/adobe-creative-cloud-for-students-and-teachers) · [English](https://edu.52it.de/en/offer/adobe-creative-cloud-for-students-and-teachers)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 设计与创意 / Design & Creative |
+| 🎁 福利类型 / Benefit | 折扣 / Discount（$19.99/mo） |
+| 👥 适用人群 / Audience | 所有人（含师生） / Everyone (incl. students & teachers) |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | adobe.com |
 
-## 简介
+## 🚀 官网领取链接
+
+[**点击前往官方领取 →**](https://www.adobe.com/education/students/creativecloud.html)
+
+`https://www.adobe.com/education/students/creativecloud.html`
+
+## 📋 领取步骤
+
+1. 先问本校信息中心、图书馆或软件中心是否有 Adobe 校园授权（个别学校可免费使用完整 Creative Cloud）。
+2. 若没有校园授权，打开本页的「前往官网领取」购买学生/教师折扣。
+3. 完成 Adobe 学生或教师身份验证后下单。
+4. 美国站官方写首年约 $19.99/月（年付按月），之后约 $39.99/月；各地价格以结账页为准。
+
+## 📝 福利简介
 
 学生和教师可购 Creative Cloud Pro 教育折扣（美国站官方首年约 $19.99/月…
 
@@ -15,6 +32,10 @@
 
 Students and teachers can buy Creative Cloud Pro at the education price (US site lists about $19.99/mo the first year) with 20+ apps such as…
 
-## 标签 / Tags
+## 🏷️ 标签 / Tags
 
-`$19.99/月` `含教师`
+`Adobe` `Creative Cloud` `Photoshop`
+
+---
+
+← [返回 设计与创意 分类](../docs/categories/design.md) · [返回首页](../README.md)

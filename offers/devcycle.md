@@ -1,32 +1,40 @@
 # DevCycle 学生一年免费
 
-**DevCycle Free for Students for One Year**
+> DevCycle Free for Students for One Year
 
-- 分类 / Category: [开发者工具 / Developer Tools](../docs/categories/dev.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: devcycle.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/devcycle) · [English](https://edu.52it.de/en/offer/devcycle)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 开发者工具 / Developer Tools |
+| 🎁 福利类型 / Benefit | 免费 / Free（1 year free） |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-11-04 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | devcycle.com |
 
-## 简介
+## 🚀 官网领取链接
 
-GitHub 学生包提供 DevCycle Starter 一年免费，不限席位、功能开关和用量，用来做功能开关、灰度发布和 A/B 测试。平台已由 Dynatrace 接手，领取以学生包页面为准。
+[**点击前往官方领取 →**](https://devcycle.com/blog/devcycle-joins-github-student-developer-pack)
 
-## Description
+`https://devcycle.com/blog/devcycle-joins-github-student-developer-pack`
 
-The GitHub Student Pack offers one year of free DevCycle Starter, with no limits on seats, feature flags, or usage, for implementing feature flags, canary releases, and A/B testing. The platform has been taken over by Dynatrace; please refer to the Student Pack page for enrollment details.
-
-## 如何领取
+## 📋 领取步骤
 
 1. 先完成 GitHub Education 学生认证。
 2. 在学生包页面找到 DevCycle，按页面提示用已认证的 GitHub 账号开通。
 3. 本页的「前往官网领取」仍可查看；2026 年 1 月起服务由 Dynatrace 提供，入口有变化时以学生包为准。
 
-## How to claim
+## 📝 福利简介
 
-1. First, complete your student verification at GitHub Education.
-2. Find DevCycle on the Student Pack page and follow the instructions to activate it using your verified GitHub account.
-3. The the "Get it on the official site" button on this page remains available; starting January 2026, the service will be provided by Dynatrace, so refer to the Student Pack page if the access point changes.
+GitHub 学生包提供 DevCycle Starter 一年免费，不限席位、功能开关和用量，用来做功能开关、灰度发布和 A/B 测试…
 
-## 标签 / Tags
+## Description
 
-`免费 1 年`
+The GitHub Student Pack offers one year of free DevCycle Starter, with no limits on seats, feature flags, or usage, for implementing feature flags…
+
+## 🏷️ 标签 / Tags
+
+`DevCycle` `功能开关` `Feature Flag`
+
+---
+
+← [返回 开发者工具 分类](../docs/categories/dev.md) · [返回首页](../README.md)

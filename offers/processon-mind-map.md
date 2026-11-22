@@ -1,13 +1,28 @@
 # ProcessOn 学生 45 天
 
-**ProcessOn Student 45 Days**
+> ProcessOn Student 45 Days
 
-- 分类 / Category: [效率工具 / Productivity](../docs/categories/productivity.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: processon.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/processon-mind-map) · [English](https://edu.52it.de/en/offer/processon-mind-map)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 效率工具 / Productivity |
+| 🎁 福利类型 / Benefit | 免费 / Free |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-11-05 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | processon.com |
 
-## 简介
+## 🚀 官网领取链接
+
+[**点击前往官方领取 →**](https://www.processon.com/coupon?source=edu)
+
+`https://www.processon.com/coupon?source=edu`
+
+## 📋 领取步骤
+
+1. 点击本页的「前往官网领取」，登录 ProcessOn。
+2. 提交学生认证。45 天从通过那天起算，到期后恢复免费版。
+
+## 📝 福利简介
 
 ProcessOn 用来画思维导图和流程图。学生认证通过后送 45 天会员，不是一年。
 
@@ -15,16 +30,10 @@ ProcessOn 用来画思维导图和流程图。学生认证通过后送 45 天会
 
 ProcessOn is used for creating mind maps and flowcharts. After student verification is approved, you'll receive a 45-day membership, not a year.
 
-## 如何领取
+## 🏷️ 标签 / Tags
 
-1. 点击本页的「前往官网领取」，登录 ProcessOn。
-2. 提交学生认证。45 天从通过那天起算，到期后恢复免费版。
+`思维导图` `流程图` `在线制作`
 
-## How to claim
+---
 
-1. Click "Go to Official Website to Claim" on this page and log in to ProcessOn.
-2. Submit your student verification. The 45-day period starts from the day of approval, and the free version will be restored after it expires.
-
-## 标签 / Tags
-
-`免费`
+← [返回 效率工具 分类](../docs/categories/productivity.md) · [返回首页](../README.md)

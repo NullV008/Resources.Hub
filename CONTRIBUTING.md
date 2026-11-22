@@ -11,26 +11,26 @@
 
 ## 数据说明
 
-所有内容来自公开网页 [edu.52it.de](https://edu.52it.de/) 的抓取快照。
+本仓库自包含，不需要跳转到任何第三方站点即可查看全部字段。公开数据文件如下：
 
-- `data/category_*.json` — 按分类的原始抓取数据
-- `data/offers.json` — 合并后的统一数据集
+- `data/offers.json` — 合并后的统一数据集（301 条）
 - `data/offers.csv` — 表格版本
+- `docs/categories/*.md` — 分类索引
+- `offers/*.md` — 每个项目的完整详情页，包含领取步骤、福利类型、适用人群、最近核实、官网领取链接
 
-如需重新生成派生文件：
+## 如何更新
 
-```bash
-python3 build.py            # 合并分类数据 → offers.json / offers.csv / categories.json / docs/
-python3 generate_readme.py  # 重新生成 README.md
-```
+1. 直接编辑 `data/offers.json`，保持字段结构一致。
+2. 同步更新对应的 `offers/<slug>.md` 详情页，确保领取步骤、福利类型、适用人群、最近核实、官网领取链接齐全。
+3. 如涉及分类变更，同步更新 `docs/categories/*.md` 与 `README.md` 中的统计信息。
 
 ## PR 规范
 
 1. Fork 仓库并创建分支
-2. 修改 `data/category_<分类>.json`（保持 schema 一致）
-3. 运行 `python3 build.py && python3 generate_readme.py`
-4. 提交 PR，并说明数据来源链接
+2. 修改对应数据文件与详情页
+3. 检查 `data/offers.json` 为合法 JSON、CSV 与 JSON 内容一致
+4. 提交 PR，并说明数据来源与核实日期
 
 ## 免责声明
 
-本仓库仅作信息索引，与 edu.52it.de 及任何福利提供方无隶属关系。优惠随时可能变化，使用前请以官方页面为准。
+本仓库仅作信息索引，与任何福利提供方无隶属关系。优惠随时可能变化，使用前请以官方页面为准。

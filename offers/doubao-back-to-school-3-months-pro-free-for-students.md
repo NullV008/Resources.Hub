@@ -1,21 +1,23 @@
 # 豆包开学季：免费领 3 个月专业版
 
-**Doubao Back-to-School: 3 Months Pro Free for Students**
+> Doubao Back-to-School: 3 Months Pro Free for Students
 
-- 分类 / Category: [AI 助手 / AI Assistants](../docs/categories/ai.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: doubao.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/doubao-back-to-school-3-months-pro-free-for-students) · [English](https://edu.52it.de/en/offer/doubao-back-to-school-3-months-pro-free-for-students)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | AI 助手 / AI Assistants |
+| 🎁 福利类型 / Benefit | 免费 / Free（3 months free） |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | doubao.com |
 
-## 简介
+## 🚀 官网领取链接
 
-字节跳动豆包面向在校大学生推出 2026 开学季福利：完成学生认证可免费领取 3 个月专业版订阅，另享 2.5 倍免费额度，专业版标准套餐学生价 38 元/月（原价 68 元）。
+[**点击前往官方领取 →**](https://www.doubao.com/pc/2026-back-to-school)
 
-## Description
+`https://www.doubao.com/pc/2026-back-to-school`
 
-ByteDance Doubao's 2026 back-to-school offer: verified college students get 3 months of Pro free, 2.5× free quota, and Pro Standard at ¥38/mo (was ¥68).
-
-## 如何领取
+## 📋 领取步骤
 
 1. 更新并打开豆包电脑版（活动主要在 PC 端参与，每账号限领一次）。
 2. 进入「设置 → 豆包专业版订阅」，点击右上角「学生权益」；或在工作任务模式发送「我要领取学生优惠」。
@@ -25,16 +27,18 @@ ByteDance Doubao's 2026 back-to-school offer: verified college students get 3 mo
 
 注意：开学季期间有效，具体以官方页面为准。
 
-## How to claim
+## 📝 福利简介
 
-1. Update and open Doubao Desktop (the activity is mainly on PC; each account can claim once).
-2. Go to "Settings → Doubao Pro Subscription" and click "Student Benefits" in the upper right; or send "I want to claim the student discount" in Work Task mode.
-3. Follow the prompts to link your Douyin account, and complete student identity verification with your student ID or CHSI online verification report.
-4. After verification is approved, claim the 3-month Pro subscription; you can also get 2.5x free quota and the standard Pro plan student price of 38 CNY/month.
-5. In the sidebar "Skills · Connectors · Work Partners" → "Back-to-School Season" section, you can try student skills such as freshman registration, course learning, presentation PPT, and fall recruitment job hunting.
+字节跳动豆包面向在校大学生推出 2026 开学季福利：完成学生认证可免费领取 3 个月专业版订阅，另享 2.5 倍免费额度…
 
-Note: Valid during the back-to-school season; subject to the official page.
+## Description
 
-## 标签 / Tags
+ByteDance Doubao’s 2026 back-to-school offer: verified college students get 3 months of Pro free, 2.5× free quota, and Pro Standard at ¥38/mo (was…
 
-`免费 3 个月`
+## 🏷️ 标签 / Tags
+
+`豆包` `Doubao` `字节跳动`
+
+---
+
+← [返回 AI 助手 分类](../docs/categories/ai.md) · [返回首页](../README.md)

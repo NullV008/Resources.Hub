@@ -1,32 +1,40 @@
 # Astah UML 学生免费许可
 
-**Astah UML Free Student License**
+> Astah UML Free Student License
 
-- 分类 / Category: [开发者工具 / Developer Tools](../docs/categories/dev.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: astah.net
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/astah-uml-student) · [English](https://edu.52it.de/en/offer/astah-uml-student)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 开发者工具 / Developer Tools |
+| 🎁 福利类型 / Benefit | 免费 / Free |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | astah.net |
 
-## 简介
+## 🚀 官网领取链接
 
-有学术邮箱的学生可免费领取 Astah UML，仅限本人在自己的电脑上使用，不能装到教室公用电脑，教师不能使用这个学生许可。许可每年 8 月底到期，到期前重新提交表单即可续领。
+[**点击前往官方领取 →**](https://astah.net/products/free-student-license/)
+
+`https://astah.net/products/free-student-license/`
+
+## 📋 领取步骤
+
+用学术邮箱提交页面上的申请表，不要再上传附件。
+查收 [email protected] 的邮件（主题含 Free Student License），没有的话看垃圾箱。
+每年 8 月前重新提交一次。
+
+## 📝 福利简介
+
+有学术邮箱的学生可免费领取 Astah UML，仅限本人在自己的电脑上使用，不能装到教室公用电脑，教师不能使用这个学生许可…
 
 ## Description
 
-Students with an academic email can get Astah UML for free. It is for personal use on your own computer only; it cannot be installed on shared classroom computers, and teachers cannot use this student license. The license expires at the end of August each year; resubmit the form before it expires to renew.
+Students with an academic email can get Astah UML for free. It is for personal use on your own computer only; it cannot be installed on shared…
 
-## 如何领取
+## 🏷️ 标签 / Tags
 
-用学术邮箱提交页面上的申请表，不要再上传附件。
-查收 support@astah.net 的邮件（主题含 Free Student License），没有的话看垃圾箱。
-每年 8 月前重新提交一次。
+`Astah` `UML`
 
-## How to claim
+---
 
-Submit the application form on the page with your academic email; do not upload attachments.
-Check for an email from support@astah.net (subject contains Free Student License); if you don't see it, check your spam folder.
-Resubmit once before August each year.
-
-## 标签 / Tags
-
-`免费`
+← [返回 开发者工具 分类](../docs/categories/dev.md) · [返回首页](../README.md)

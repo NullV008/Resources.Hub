@@ -1,13 +1,29 @@
 # Descript 教育/非营利折扣（Hobbyist 价）
 
-**Descript Education & Nonprofit Plan**
+> Descript Education & Nonprofit Plan
 
-- 分类 / Category: [设计与创意 / Design & Creative](../docs/categories/design.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: help.descript.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/descript-education-and-nonprofit-plan) · [English](https://edu.52it.de/en/offer/descript-education-and-nonprofit-plan)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 设计与创意 / Design & Creative |
+| 🎁 福利类型 / Benefit | 折扣 / Discount |
+| 👥 适用人群 / Audience | 所有人（含师生） / Everyone (incl. students & teachers) |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | help.descript.com |
 
-## 简介
+## 🚀 官网领取链接
+
+[**点击前往官方领取 →**](https://help.descript.com/billing-payments-plans/nfp-edu)
+
+`https://help.descript.com/billing-payments-plans/nfp-edu`
+
+## 📋 领取步骤
+
+1. 用学校或非营利机构邮箱注册免费 Descript 账号：www.descript.com
+2. 在账号里添加支付方式（审核通过前不会扣费）。
+3. 按帮助页提交 EDU/NFP 申请：本页的「前往官网领取」，官方审核后邮件通知。
+
+## 📝 福利简介
 
 认证高校学生、教师、行政人员及合规非营利可申请 EDU/NFP：Hobbyist 功能，$12/席/月或年付 $8/席/月…
 
@@ -15,6 +31,10 @@
 
 Students, educators, school staff, and qualifying nonprofits can get Descript EDU/NFP (Hobbyist features) at $12/editor/mo or $8/editor/mo billed…
 
-## 标签 / Tags
+## 🏷️ 标签 / Tags
 
-`折扣` `含教师`
+`Descript` `剪辑` `播客`
+
+---
+
+← [返回 设计与创意 分类](../docs/categories/design.md) · [返回首页](../README.md)

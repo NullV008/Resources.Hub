@@ -1,30 +1,39 @@
 # Google Gemini 学生一年
 
-**Google Gemini Student Plan (1 Year)**
+> Google Gemini Student Plan (1 Year)
 
-- 分类 / Category: [AI 助手 / AI Assistants](../docs/categories/ai.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: gemini.google
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/google-gemini-for-students) · [English](https://edu.52it.de/en/offer/google-gemini-for-students)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | AI 助手 / AI Assistants |
+| 🎁 福利类型 / Benefit | 免费 / Free（1 year free） |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-11-05 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | gemini.google |
 
-## 简介
+## 🚀 官网领取链接
+
+[**点击前往官方领取 →**](https://gemini.google/students/)
+
+`https://gemini.google/students/`
+
+## 📋 领取步骤
+
+1. 点击本页的「前往官网领取」，用页面要求的 Google 账号登录。
+2. 完成学生验证。通过后看账户里的 12 个月到期日，到期前取消才会避免续费。
+
+## 📝 福利简介
 
 符合条件的学生可以免费使用 Gemini 的学生方案 12 个月。名额、国家和地区经常变，以学生页能不能验证为准，不是所有学校邮箱都能过。
 
 ## Description
 
-Eligible students can use Gemini's student plan for free for 12 months. Availability, quotas, and eligible countries/regions change frequently. Approval depends on whether you can complete verification on the student page; not all school email addresses will work.
+Eligible students can use Gemini's student plan for free for 12 months. Availability, quotas, and eligible countries/regions change frequently…
 
-## 如何领取
+## 🏷️ 标签 / Tags
 
-1. 点击本页的「前往官网领取」，用页面要求的 Google 账号登录。
-2. 完成学生验证。通过后看账户里的 12 个月到期日，到期前取消才会避免续费。
+`AI助手` `对话` `创作`
 
-## How to claim
+---
 
-1. Click "Go to the official website to claim" on this page and sign in with the Google account required by the page.
-2. Complete student verification. Once approved, check the 12-month expiration date in your account. Cancel before the expiration date to avoid automatic renewal.
-
-## 标签 / Tags
-
-`免费 1 年`
+← [返回 AI 助手 分类](../docs/categories/ai.md) · [返回首页](../README.md)

@@ -1,32 +1,40 @@
 # Arduino Cloud 学生包
 
-**Arduino for GitHub Students**
+> Arduino for GitHub Students
 
-- 分类 / Category: [开发者工具 / Developer Tools](../docs/categories/dev.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: arduino.cc
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/arduino-for-github-students) · [English](https://edu.52it.de/en/offer/arduino-for-github-students)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 开发者工具 / Developer Tools |
+| 🎁 福利类型 / Benefit | 折扣 / Discount（50% off） |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | arduino.cc |
 
-## 简介
+## 🚀 官网领取链接
 
-GitHub Student Developer Pack 学生可领 6 个月 Arduino Cloud Maker，以及认证考试约 5 折和部分开发板折扣（如 Micro 约 7 折、Due 约 5 折）。
+[**点击前往官方领取 →**](https://www.arduino.cc/education/github-students/)
 
-## Description
+`https://www.arduino.cc/education/github-students/`
 
-GitHub Student Developer Pack members can claim 6 months of Arduino Cloud Maker, about 50% off Arduino Certification, and hardware discounts such as about 30% off Micro and 50% off Due.
-
-## 如何领取
+## 📋 领取步骤
 
 1. 先通过 GitHub Student Developer Pack。
 2. 打开本页的「前往官网领取」，用 GitHub 登录领取优惠码。
 3. 软件为 6 个月 Cloud Maker。硬件折扣在 Arduino 商店结账时填写优惠码。
 
-## How to claim
+## 📝 福利简介
 
-1. First get approved for the GitHub Student Developer Pack.
-2. Open the "Get it on the official site" button on this page and sign in with GitHub to claim the discount code.
-3. Software is 6 months of Cloud Maker. For hardware discounts, enter the discount code at checkout in the Arduino Store.
+GitHub Student Developer Pack 学生可领 6 个月 Arduino Cloud Maker…
 
-## 标签 / Tags
+## Description
 
-`50% 折扣`
+GitHub Student Developer Pack members can claim 6 months of Arduino Cloud Maker, about 50% off Arduino Certification, and hardware discounts such as…
+
+## 🏷️ 标签 / Tags
+
+`Arduino` `云` `GitHub`
+
+---
+
+← [返回 开发者工具 分类](../docs/categories/dev.md) · [返回首页](../README.md)

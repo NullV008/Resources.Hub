@@ -1,13 +1,29 @@
 # POEditor 学生一年 Plus
 
-**POEditor for GitHub Students**
+> POEditor for GitHub Students
 
-- 分类 / Category: [开发者工具 / Developer Tools](../docs/categories/dev.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: poeditor.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/poeditor-for-github-students) · [English](https://edu.52it.de/en/offer/poeditor-for-github-students)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 开发者工具 / Developer Tools |
+| 🎁 福利类型 / Benefit | 免费 / Free |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | poeditor.com |
 
-## 简介
+## 🚀 官网领取链接
+
+[**点击前往官方领取 →**](https://poeditor.com/register/github_education)
+
+`https://poeditor.com/register/github_education`
+
+## 📋 领取步骤
+
+1. 先加入 GitHub Student Developer Pack。
+2. 打开本页的「前往官网领取」领取一年 Plus。
+3. 问题可写 [email protected]。
+
+## 📝 福利简介
 
 GitHub Student Developer Pack 学生可免费使用一年 POEditor Plan Plus，用于应用文案本地化。
 
@@ -15,18 +31,10 @@ GitHub Student Developer Pack 学生可免费使用一年 POEditor Plan Plus，�
 
 GitHub Student Developer Pack members get one free year of POEditor Plan Plus for app localization.
 
-## 如何领取
+## 🏷️ 标签 / Tags
 
-1. 先加入 GitHub Student Developer Pack。
-2. 打开本页的「前往官网领取」领取一年 Plus。
-3. 问题可写 info@poeditor.com。
+`POEditor` `本地化` `翻译`
 
-## How to claim
+---
 
-1. First join the GitHub Student Developer Pack.
-2. Open the "Get it on the official site" button on this page to claim one year of Plus.
-3. For questions, write to info@poeditor.com.
-
-## 标签 / Tags
-
-`免费`
+← [返回 开发者工具 分类](../docs/categories/dev.md) · [返回首页](../README.md)

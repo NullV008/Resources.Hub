@@ -1,34 +1,41 @@
 # Windsurf 学生优惠
 
-**Windsurf for Students**
+> Windsurf for Students
 
-- 分类 / Category: [开发者工具 / Developer Tools](../docs/categories/dev.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: windsurf.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/windsurf-for-students) · [English](https://edu.52it.de/en/offer/windsurf-for-students)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 开发者工具 / Developer Tools |
+| 🎁 福利类型 / Benefit | 折扣 / Discount（50% off） |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | windsurf.com |
 
-## 简介
+## 🚀 官网领取链接
 
-Windsurf 是专为保持编程心流状态设计的 AI 代码编辑器。使用.edu 邮箱注册即可享受 Pro 订阅超过 5 折优惠，无需额外验证。
+[**点击前往官方领取 →**](https://windsurf.com/editor/students)
 
-## Description
+`https://windsurf.com/editor/students`
 
-Windsurf is an AI code editor built to keep you in flow state. Sign up with a .edu email to get over 50% off on a Pro subscription — no extra verification needed.
-
-## 如何领取
+## 📋 领取步骤
 
 1. 访问本页的「前往官网领取」
 2. 点击「Sign up with school email」，使用.edu 邮箱注册账号
 3. 注册成功后自动获得 Pro 订阅超 50% 折扣
 4. 如学校不使用.edu 邮箱，可通过页面 FAQ 联系官方申请
 
-## How to claim
+## 📝 福利简介
 
-1. Visit the "Get it on the official site" button on this page
-2. Click "Sign up with school email" and register an account with a .edu email
-3. After successful registration, you automatically get over 50% off a Pro subscription
-4. If your school does not use .edu email, contact the official team through the FAQ on the page to apply
+Windsurf 是专为保持编程心流状态设计的 AI 代码编辑器。使用.edu 邮箱注册即可享受 Pro 订阅超过 5 折优惠…
 
-## 标签 / Tags
+## Description
 
-`50% 折扣`
+Windsurf is an AI code editor built to keep you in flow state. Sign up with a.edu email to get over 50% off on a Pro subscription — no extra…
+
+## 🏷️ 标签 / Tags
+
+`AI` `代码编辑器` `Windsurf`
+
+---
+
+← [返回 开发者工具 分类](../docs/categories/dev.md) · [返回首页](../README.md)

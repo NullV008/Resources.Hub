@@ -1,32 +1,40 @@
 # Claude for Teachers（美国 K-12）
 
-**Claude for Teachers (US K-12)**
+> Claude for Teachers (US K-12)
 
-- 分类 / Category: [AI 助手 / AI Assistants](../docs/categories/ai.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: claude.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/claude-for-teachers-us-k-12) · [English](https://edu.52it.de/en/offer/claude-for-teachers-us-k-12)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | AI 助手 / AI Assistants |
+| 🎁 福利类型 / Benefit | 免费 / Free |
+| 👥 适用人群 / Audience | 所有人（含师生） / Everyone (incl. students & teachers) |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | claude.com |
 
-## 简介
+## 🚀 官网领取链接
 
-美国 K-12 教师和学区可免费使用 Claude 教师功能，包括备课技能和对接各州课程标准。默认不拿内容训练模型。
+[**点击前往官方领取 →**](https://claude.com/solutions/teachers)
 
-## Description
+`https://claude.com/solutions/teachers`
 
-US K-12 educators and districts get free access to Claude for Teachers, including teaching skills and state-standards curricula. Training on your content is off by default.
-
-## 如何领取
+## 📋 领取步骤
 
 1. 打开本页的「前往官网领取」。
 2. 以美国 K-12 教师身份申请；学区管理员可为全校开通，含权限和 SSO。
 3. 仅面向美国 K-12，不是全球高校学生计划。
 
-## How to claim
+## 📝 福利简介
 
-1. Open the "Get it on the official site" button on this page.
-2. Apply as a US K-12 teacher; district administrators can enable it for the whole school, including permissions and SSO.
-3. Only for US K-12, not the global higher education student program.
+美国 K-12 教师和学区可免费使用 Claude 教师功能，包括备课技能和对接各州课程标准。默认不拿内容训练模型。
 
-## 标签 / Tags
+## Description
 
-`免费` `含教师`
+US K-12 educators and districts get free access to Claude for Teachers, including teaching skills and state-standards curricula. Training on your…
+
+## 🏷️ 标签 / Tags
+
+`Claude` `Anthropic` `K-12`
+
+---
+
+← [返回 AI 助手 分类](../docs/categories/ai.md) · [返回首页](../README.md)

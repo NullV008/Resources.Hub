@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Internal build scripts and raw crawl artifacts are kept locally only.
+/*.py
+/data/*
+!/data/offers.json
+!/data/offers.csv

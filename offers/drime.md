@@ -1,30 +1,39 @@
 # Drime 教育存储
 
-**Drime Education Storage**
+> Drime Education Storage
 
-- 分类 / Category: [效率工具 / Productivity](../docs/categories/productivity.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: drime.cloud
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/drime) · [English](https://edu.52it.de/en/offer/drime)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 效率工具 / Productivity |
+| 🎁 福利类型 / Benefit | 免费 / Free |
+| 👥 适用人群 / Audience | 所有人（含师生） / Everyone (incl. students & teachers) |
+| ✅ 最近核实 / Last verified | 2026-11-05 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | drime.cloud |
 
-## 简介
+## 🚀 官网领取链接
+
+[**点击前往官方领取 →**](https://drime.cloud/solutions/education)
+
+`https://drime.cloud/solutions/education`
+
+## 📋 领取步骤
+
+1. 点击本页的「前往官网领取」，用学校邮箱注册。
+2. 提交教育申请。通过后再看实际容量和到期日，不要按广告里的最大数字当已到手。
+
+## 📝 福利简介
 
 Drime 给教育场景提供云存储，包含较大空间、文件历史和 AI 助手。学生或教师需要在教育页申请，容量以申请结果为准。
 
 ## Description
 
-Drime provides cloud storage for educational use cases, including large storage space, file history, and an AI assistant. Students or teachers need to apply on the education page; the allocated capacity will be based on the application result.
+Drime provides cloud storage for educational use cases, including large storage space, file history, and an AI assistant. Students or teachers need…
 
-## 如何领取
+## 🏷️ 标签 / Tags
 
-1. 点击本页的「前往官网领取」，用学校邮箱注册。
-2. 提交教育申请。通过后再看实际容量和到期日，不要按广告里的最大数字当已到手。
+`存储` `人工智能` `AI`
 
-## How to claim
+---
 
-1. Click "Go to Official Website to Claim" on this page and register with your school email.
-2. Submit your education application. Check the actual capacity and expiration date after approval; do not assume you've received the maximum capacity advertised.
-
-## 标签 / Tags
-
-`免费` `含教师`
+← [返回 效率工具 分类](../docs/categories/productivity.md) · [返回首页](../README.md)

@@ -1,21 +1,23 @@
 # Raycast Pro 学生五折
 
-**Raycast Pro 50% Off for Students**
+> Raycast Pro 50% Off for Students
 
-- 分类 / Category: [效率工具 / Productivity](../docs/categories/productivity.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: raycastapp.typeform.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/raycast-pro-50-off-for-students) · [English](https://edu.52it.de/en/offer/raycast-pro-50-off-for-students)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 效率工具 / Productivity |
+| 🎁 福利类型 / Benefit | 折扣 / Discount（50% off） |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | raycastapp.typeform.com |
 
-## 简介
+## 🚀 官网领取链接
 
-认证学生可申请 Raycast Pro 五折（不含更高档 AI 加购）。填写官方表单，审核通过后用优惠码开通。
+[**点击前往官方领取 →**](https://raycastapp.typeform.com/to/hSoIknLJ)
 
-## Description
+`https://raycastapp.typeform.com/to/hSoIknLJ`
 
-Verified students get 50% off Raycast Pro (not higher AI add-ons). Apply via the official form; redeem the promo code after approval.
-
-## 如何领取
+## 📋 领取步骤
 
 1. 打开申请表本页的「前往官网领取」（官网说明见 www.raycast.com/pricing）。
 2. 填写学校、学生邮箱、在读信息；如需可附在读证明。
@@ -23,14 +25,18 @@ Verified students get 50% off Raycast Pro (not higher AI add-ons). Apply via the
 
 注意：折扣只适用于 Pro，不含更高档 AI 加购。
 
-## How to claim
+## 📝 福利简介
 
-1. Open the application form the "Get it on the official site" button on this page (official details at www.raycast.com/pricing).
-2. Fill in your school, student email, and enrollment details; attach proof of enrollment if needed.
-3. After approval, you'll receive a discount code by email. Enter it when upgrading to Pro in Raycast or on the website.
+认证学生可申请 Raycast Pro 五折（不含更高档 AI 加购）。填写官方表单，审核通过后用优惠码开通。
 
-Note: The discount applies only to Pro and does not include higher-tier AI add-ons.
+## Description
 
-## 标签 / Tags
+Verified students get 50% off Raycast Pro (not higher AI add-ons). Apply via the official form; redeem the promo code after approval.
 
-`50% 折扣`
+## 🏷️ 标签 / Tags
+
+`Raycast` `Mac` `效率`
+
+---
+
+← [返回 效率工具 分类](../docs/categories/productivity.md) · [返回首页](../README.md)

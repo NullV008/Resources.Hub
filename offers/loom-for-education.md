@@ -1,28 +1,38 @@
 # Loom 教育场景
 
-**Loom for Education**
+> Loom for Education
 
-- 分类 / Category: [效率工具 / Productivity](../docs/categories/productivity.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: loom.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/loom-for-education) · [English](https://edu.52it.de/en/offer/loom-for-education)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 效率工具 / Productivity |
+| 🎁 福利类型 / Benefit | 折扣 / Discount |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | loom.com |
 
-## 简介
+## 🚀 官网领取链接
+
+[**点击前往官方领取 →**](https://www.loom.com/use-case/education)
+
+`https://www.loom.com/use-case/education`
+
+## 📋 领取步骤
+
+打开本页的「前往官网领取」了解教学用法。页面未提供师生免费方案，账户类型以 Loom 定价页为准。
+
+## 📝 福利简介
 
 Loom 的教育页介绍用录屏做讲解、作业说明和答疑。该页没有单独的免费教育许可或学生折扣。
 
 ## Description
 
-Loom's education page shows how to use screen recordings for lessons, assignments, and answers. It does not list a separate free education license or student discount.
+Loom’s education page shows how to use screen recordings for lessons, assignments, and answers. It does not list a separate free education license or…
 
-## 如何领取
+## 🏷️ 标签 / Tags
 
-打开本页的「前往官网领取」了解教学用法。页面未提供师生免费方案，账户类型以 Loom 定价页为准。
+`Loom` `录屏` `教学`
 
-## How to claim
+---
 
-Open the "Get it on the official site" button on this page to learn about teaching uses. The page does not provide a free plan for teachers and students; refer to Loom's pricing page for account types.
-
-## 标签 / Tags
-
-`折扣`
+← [返回 效率工具 分类](../docs/categories/productivity.md) · [返回首页](../README.md)

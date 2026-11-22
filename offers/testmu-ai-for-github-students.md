@@ -1,32 +1,40 @@
 # TestMu AI 学生测试云
 
-**TestMu AI for GitHub Students**
+> TestMu AI for GitHub Students
 
-- 分类 / Category: [开发者工具 / Developer Tools](../docs/categories/dev.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: testmuai.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/testmu-ai-for-github-students) · [English](https://edu.52it.de/en/offer/testmu-ai-for-github-students)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 开发者工具 / Developer Tools |
+| 🎁 福利类型 / Benefit | 免费 / Free |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | testmuai.com |
 
-## 简介
+## 🚀 官网领取链接
 
-GitHub 学生可免费使用一年 TestMu AI（原 LambdaTest）Live 单并行会话，在 3000+ 浏览器环境里做手动测试、截图和响应式检查。
+[**点击前往官方领取 →**](https://www.testmuai.com/github-students/)
 
-## Description
+`https://www.testmuai.com/github-students/`
 
-GitHub students get one year of TestMu AI (formerly LambdaTest) Live with 1 parallel session: unlimited manual testing, screenshots, and responsive checks on 3000+ browser environments.
-
-## 如何领取
+## 📋 领取步骤
 
 1. 先加入 GitHub Student Developer Pack。
 2. 打开本页的「前往官网领取」，用 GitHub 注册领取。
 3. 官方说明为 Live-1 并行会话、一年。
 
-## How to claim
+## 📝 福利简介
 
-1. First join the GitHub Student Developer Pack.
-2. Open the "Get it on the official site" button on this page and sign up with GitHub to claim.
-3. The official description is Live-1 parallel session, one year.
+GitHub 学生可免费使用一年 TestMu AI（原 LambdaTest）Live 单并行会话…
 
-## 标签 / Tags
+## Description
 
-`免费`
+GitHub students get one year of TestMu AI (formerly LambdaTest) Live with 1 parallel session: unlimited manual testing, screenshots, and responsive…
+
+## 🏷️ 标签 / Tags
+
+`TestMu` `LambdaTest` `测试`
+
+---
+
+← [返回 开发者工具 分类](../docs/categories/dev.md) · [返回首页](../README.md)

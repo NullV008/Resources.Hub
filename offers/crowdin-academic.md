@@ -1,30 +1,39 @@
 # Crowdin 学术许可
 
-**Crowdin Academic License**
+> Crowdin Academic License
 
-- 分类 / Category: [开发者工具 / Developer Tools](../docs/categories/dev.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: crowdin.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/crowdin-academic) · [English](https://edu.52it.de/en/offer/crowdin-academic)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 开发者工具 / Developer Tools |
+| 🎁 福利类型 / Benefit | 免费 / Free |
+| 👥 适用人群 / Audience | 所有人（含师生） / Everyone (incl. students & teachers) |
+| ✅ 最近核实 / Last verified | 2026-11-05 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | crowdin.com |
 
-## 简介
+## 🚀 官网领取链接
 
-Crowdin 给学校项目学术许可。邮箱域名必须是学校的。公开项目用 Open 许可，免费且不限人数；要限制访问的私有项目用 Private 许可。只能用于教学，不能用于商业项目。
+[**点击前往官方领取 →**](https://crowdin.com/product/for-academic)
 
-## Description
+`https://crowdin.com/product/for-academic`
 
-Crowdin offers academic licenses for school projects. The email domain must belong to the school. Public projects use the Open license, which is free and has no user limit; private projects requiring restricted access use the Private license. This license is only for educational purposes and cannot be used for commercial projects.
-
-## 如何领取
+## 📋 领取步骤
 
 1. 准备一个学校域名的邮箱。
 2. 点击本页的「前往官网领取」，说明项目是公开还是私有，然后提交学术许可申请。
 
-## How to claim
+## 📝 福利简介
 
-1. Prepare an email address with a school domain.
-2. Click "Go to the official website to claim" on this page, specify whether the project is public or private, and then submit your academic license application.
+Crowdin 给学校项目学术许可。邮箱域名必须是学校的。公开项目用 Open 许可，免费且不限人数；要限制访问的私有项目用 Private…
 
-## 标签 / Tags
+## Description
 
-`免费` `含教师`
+Crowdin offers academic licenses for school projects. The email domain must belong to the school. Public projects use the Open license, which is free…
+
+## 🏷️ 标签 / Tags
+
+`本地化` `Crowdin`
+
+---
+
+← [返回 开发者工具 分类](../docs/categories/dev.md) · [返回首页](../README.md)

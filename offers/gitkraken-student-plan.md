@@ -1,34 +1,41 @@
 # GitKraken 学生计划
 
-**GitKraken Student Plan**
+> GitKraken Student Plan
 
-- 分类 / Category: [开发者工具 / Developer Tools](../docs/categories/dev.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: gitkraken.com
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/gitkraken-student-plan) · [English](https://edu.52it.de/en/offer/gitkraken-student-plan)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 开发者工具 / Developer Tools |
+| 🎁 福利类型 / Benefit | 折扣 / Discount（80% off） |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-09-25 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | gitkraken.com |
 
-## 简介
+## 🚀 官网领取链接
 
-通过 GitHub Student Developer Pack 可免费使用 GitKraken 学生计划 6 个月（Desktop、GitLens、CLI 等）。之后仍是学生可按官方学生价续，约等于 Pro 的 2–3 折。
+[**点击前往官方领取 →**](https://gitkraken.com/github-student-developer-pack-bundle)
 
-## Description
+`https://gitkraken.com/github-student-developer-pack-bundle`
 
-Verified GitHub Student Developer Pack members get 6 months of the GitKraken Student plan free (Desktop, GitLens, CLI, and more). After that, enrolled students can keep the discounted student price — official copy says about 75–80% off Pro.
-
-## 如何领取
+## 📋 领取步骤
 
 1. 先加入 GitHub Student Developer Pack 并完成学生验证。
 2. 用 GitHub 注册 GitKraken，或把已有账号绑到 GitHub。
 3. 在 Pack 仪表盘点 GitKraken，或打开本页的「前往官网领取」领取 6 个月。
 4. 到期仍是学生可续学生价；GitHub 教育资格失效后优惠可能消失。
 
-## How to claim
+## 📝 福利简介
 
-1. First join the GitHub Student Developer Pack and complete student verification.
-2. Sign up for GitKraken with GitHub, or link your existing account to GitHub.
-3. In the Pack dashboard, click GitKraken, or open the "Get it on the official site" button on this page to claim 6 months.
-4. When it expires, if you're still a student, you can renew at the student price; after your GitHub education eligibility expires, the discount may disappear.
+通过 GitHub Student Developer Pack 可免费使用 GitKraken 学生计划 6 个月（Desktop、Git…
 
-## 标签 / Tags
+## Description
 
-`80% 折扣`
+Verified GitHub Student Developer Pack members get 6 months of the GitKraken Student plan free (Desktop, GitLens, CLI, and more). After that…
+
+## 🏷️ 标签 / Tags
+
+`GitKraken` `GitLens` `Git`
+
+---
+
+← [返回 开发者工具 分类](../docs/categories/dev.md) · [返回首页](../README.md)

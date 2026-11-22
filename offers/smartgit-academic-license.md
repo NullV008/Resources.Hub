@@ -1,32 +1,40 @@
 # SmartGit 学术许可
 
-**SmartGit Academic License**
+> SmartGit Academic License
 
-- 分类 / Category: [开发者工具 / Developer Tools](../docs/categories/dev.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: smartgit.dev
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/smartgit-academic-license) · [English](https://edu.52it.de/en/offer/smartgit-academic-license)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 开发者工具 / Developer Tools |
+| 🎁 福利类型 / Benefit | 免费 / Free |
+| 👥 适用人群 / Audience | 所有人（含师生） / Everyone (incl. students & teachers) |
+| ✅ 最近核实 / Last verified | 2026-09-25 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | smartgit.dev |
 
-## 简介
+## 🚀 官网领取链接
 
-公立教育机构的学生和教职工可申请免费非商用 SmartGit 许可。需真实姓名，学校邮箱域名要在官方名单内，人工审核后邮件发密钥。
+[**点击前往官方领取 →**](https://www.smartgit.dev/register-non-commercial/#academic)
 
-## Description
+`https://www.smartgit.dev/register-non-commercial/#academic`
 
-Students and employees of public educational institutions can apply for a free non-commercial SmartGit license. Use your real name. The school email domain must be on their list. Keys are emailed after a manual review.
-
-## 如何领取
+## 📋 领取步骤
 
 1. 打开本页的「前往官网领取」，选择学术用途。
 2. 填写护照上的真实姓名和学校邮箱。域名需在官方 swot 名单内。
 3. 确认许可不共享。人工审核通过后，密钥发到邮箱。
 
-## How to claim
+## 📝 福利简介
 
-1. Open the "Get it on the official site" button on this page and select academic use.
-2. Fill in your real name as on your passport and school email. The domain must be in the official swot list.
-3. Confirm that the license will not be shared. After manual review, the key will be sent to your email.
+公立教育机构的学生和教职工可申请免费非商用 SmartGit 许可。需真实姓名，学校邮箱域名要在官方名单内，人工审核后邮件发密钥。
 
-## 标签 / Tags
+## Description
 
-`免费` `含教师`
+Students and employees of public educational institutions can apply for a free non-commercial SmartGit license. Use your real name. The school email…
+
+## 🏷️ 标签 / Tags
+
+`SmartGit` `Git` `学术`
+
+---
+
+← [返回 开发者工具 分类](../docs/categories/dev.md) · [返回首页](../README.md)

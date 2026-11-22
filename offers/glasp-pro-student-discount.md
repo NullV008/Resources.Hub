@@ -1,13 +1,29 @@
 # Glasp Pro 学生年付 6 折
 
-**Glasp Pro Student Discount**
+> Glasp Pro Student Discount
 
-- 分类 / Category: [效率工具 / Productivity](../docs/categories/productivity.md)
-- 状态 / Status: Active
-- 官网域名 / Domain: glasp.co
-- 源页面 / Source: [中文](https://edu.52it.de/zh/offer/glasp-pro-student-discount) · [English](https://edu.52it.de/en/offer/glasp-pro-student-discount)
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 效率工具 / Productivity |
+| 🎁 福利类型 / Benefit | 折扣 / Discount（40% off） |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | glasp.co |
 
-## 简介
+## 🚀 官网领取链接
+
+[**点击前往官方领取 →**](https://glasp.co/students)
+
+`https://glasp.co/students`
+
+## 📋 领取步骤
+
+1. 用.edu 或.ac 大学邮箱注册 Glasp，账号邮箱必须和验证邮箱一致。
+2. 打开本页的「前往官网领取」，点 Verify Status 完成学生验证。
+3. 折扣只用于 Pro 年付。其他学校邮箱后缀目前不支持。
+
+## 📝 福利简介
 
 用.edu 或.ac 结尾的大学邮箱完成验证后，Glasp Pro 年付可享 6 折。月付不参加，且为限时优惠。
 
@@ -15,18 +31,10 @@
 
 Verified university students with a.edu or.ac email get 40% off Glasp Pro yearly. Monthly plans are excluded. The offer is limited-time.
 
-## 如何领取
+## 🏷️ 标签 / Tags
 
-1. 用.edu 或.ac 大学邮箱注册 Glasp，账号邮箱必须和验证邮箱一致。
-2. 打开本页的「前往官网领取」，点 Verify Status 完成学生验证。
-3. 折扣只用于 Pro 年付。其他学校邮箱后缀目前不支持。
+`Glasp` `高亮` `笔记`
 
-## How to claim
+---
 
-1. Register for Glasp with a.edu or.ac university email. The account email must match the verification email.
-2. Go to the "Get it on the official site" button on this page and click Verify Status to complete student verification.
-3. The discount only applies to Pro annual. Other school email suffixes are currently not supported.
-
-## 标签 / Tags
-
-`40% 折扣`
+← [返回 效率工具 分类](../docs/categories/productivity.md) · [返回首页](../README.md)
