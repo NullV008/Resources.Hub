@@ -3,7 +3,7 @@
 
 > Global Student Resources & Education Discounts Hub · 全球学生 / 教师优惠与免费资源完整索引
 
-[![Offers](https://img.shields.io/badge/offers-301-blue)](data/offers.json) [![Categories](https://img.shields.io/badge/categories-9-green)](data/categories.json) [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)](LICENSE)
+[![Offers](https://img.shields.io/badge/offers-301-blue)](data/offers.json) [![Categories](https://img.shields.io/badge/categories-9-green)](docs/categories/) [![Nav](https://img.shields.io/badge/nav-267-purple)](data/nav_offers.json) [![Buy](https://img.shields.io/badge/buy-6-orange)](docs/buy-recommendations.md) [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)](LICENSE)
 
 ## 📊 概览 / Overview
 
@@ -16,6 +16,8 @@
 | 分类数 / Categories | **9** |
 | 含官网领取链接 / With official links | 301 |
 | 含领取步骤 / With claim steps | 301 |
+| nav 项目数据 / Nav records | 267 |
+| 购买参考入口 / Purchase entries | 6 |
 | 语言 / Languages | 简体中文 · English |
 
 > 💡 本仓库收录每项福利的**完整信息**（领取步骤、福利类型、适用人群、最近核实时间、官网领取链接），可直接查看，无需跳转任何第三方网站。
@@ -46,6 +48,25 @@
 | [Google Gemini 学生一年](offers/google-gemini-for-students.md) | 免费 | 学生 | [领取 →](https://gemini.google/students/) |
 | [Notion 教育版](offers/notion-ai-notes.md) | 免费 | 所有人（含师生） | [领取 →](https://www.notion.com/help/notion-for-education) |
 | [Spotify Premium 学生版](offers/spotify-premium-student.md) | 折扣 | 学生 | [领取 →](https://www.spotify.com/student/) |
+
+## 🛒 购买建议 / Purchase Reference
+
+> 仅整理 `buy.edumails.cn` 公开列出的 6 个入口，以及各站公开可见的售后、商品线和学术文件说明。**不构成推荐、价格承诺或平台背书。**
+
+> ⚠️ 购买或使用非本人学籍的 edu 邮箱申请学生优惠，可能违反服务商条款并导致封号；伪造或买卖学术文件可能涉及违法。请只使用真实、合法、属于本人的学籍与材料。
+
+| 网站 | 建站时间 | 售后（站点宣称） | 主营美国 edu | 主营国外 edu | 学术文件 |
+| --- | --- | --- | :---: | :---: | :---: |
+| [edumailshop.com](https://edumailshop.com) | 2025-03-08 | 永久 | ✅ | ✅ | ✅ 部分产品 |
+| [edumailshop.net](https://edumailshop.net) | 2021-11-13 | 永久 | ✅ | ✅ | ✅ 部分产品 |
+| [vip.stulink.cn](https://vip.stulink.cn) | 2020-04-29 | 永久 | ✅ | ✅ | ✅ 部分产品 |
+| [edumail.vip](https://edumail.vip) | 2022-10-13 | 永久 | ✅ | ✅ | ✅ 部分产品 |
+| [edumark.net](https://edumark.net) | 2022-07-19 | 永久 | ✅ | ✅ | ✅ 部分产品 |
+| [us.mailschool.me](https://us.mailschool.me) | 2022-08-16 | 永久 | ✅ | ✅ | ✅ 部分产品 |
+
+> 建站时间取域名 RDAP / WHOIS 的注册时间；`vip.stulink.cn`、`us.mailschool.me` 使用根域名 `stulink.cn`、`mailschool.me` 的注册时间，仅作参考。
+
+详见 **[购买建议与风险提示 →](docs/buy-recommendations.md)**（含入口选择、字段口径、购买前核对清单）。
 
 ## 📚 全部福利 / All Offers
 
@@ -433,15 +454,19 @@
 
 ## 📦 数据文件 / Data
 
-- [`data/offers.json`](data/offers.json) — 完整结构化数据（中英双语 + 领取步骤 + 官网链接 + 核实日期）
-- [`data/offers.csv`](data/offers.csv) — 表格版本
-- [`data/categories.json`](data/categories.json) — 分类元数据
-- [`docs/categories/`](docs/categories/) — 分类清单
+- [`data/offers.json`](data/offers.json) — 301 条福利结构化数据（中英双语 + 领取步骤 + 官网链接 + 核实日期）
+- [`data/offers.csv`](data/offers.csv) — 福利表格版本
+- [`data/nav_offers.json`](data/nav_offers.json) — 267 条 nav 项目数据（含教程演示、适配邮箱、官网链接、标签）
+- [`data/buy_recommendations.json`](data/buy_recommendations.json) — 6 个购买参考入口（建站时间、售后、主营邮箱类型、学术文件）
+- [`docs/categories/`](docs/categories/) — 9 个分类清单
+- [`docs/buy-recommendations.md`](docs/buy-recommendations.md) — 购买建议与风险提示
 - [`offers/`](offers/) — 301 篇完整详情页
 
 ## ⚠️ 免责声明 / Disclaimer
 
 - 本仓库仅为信息索引，与任何福利提供方无隶属关系。
+- 「购买建议」模块只整理公开入口与公开说明，不构成推荐、价格承诺或平台背书。
+- 购买或使用非本人学籍的 edu 邮箱申请学生优惠，可能违反服务商条款并导致封号；学术文件必须真实、合法、属于本人。
 - 优惠的可用性、地区限制、资格条件会随时变化；申请前请务必前往官方页面核实。
 - 欢迎通过 Issue / PR 指正错误信息。
 

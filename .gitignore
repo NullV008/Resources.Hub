@@ -8,3 +8,4 @@ __pycache__/
 !/data/offers.json
 !/data/offers.csv
 !/data/nav_offers.json
+!/data/buy_recommendations.json
