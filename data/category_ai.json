@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "apevon-science-academic",
+    "category": "ai",
+    "name_zh": "Apevon Science 学术认证会员",
+    "name_en": "Apevon Science Academic Certification Membership",
+    "domain": "apevonscience.com",
+    "desc_zh": "面向科研的 AI 智能体。高校教师和硕博研究生完成学术认证后，体验礼进会员卡包，自己选时候用：教师是 Plus 一个月（2 万积分…",
+    "desc_en": "An AI agent designed for scientific research. After completing academic certification, university faculty and master's/PhD students can access the…",
+    "badges_zh": [
+      "免费 1 个月",
+      "含教师"
+    ],
+    "badges_en": [
+      "1 month free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "roboflow-research-credits",
+    "category": "ai",
+    "name_zh": "Roboflow 科研计划额度",
+    "name_en": "Roboflow Research Plan Quota",
+    "domain": "research.roboflow.com",
+    "desc_zh": "用学术邮箱、做非商业科研或教学，可申请 Research Plan：每月 50 额度、15 名成员、20 个项目、增强增强…",
+    "desc_en": "If you're using an academic email address for non-commercial research or educational purposes, you can apply for the Research Plan: 50 quota per…",
+    "badges_zh": [
+      "每月 50 积分",
+      "含教师"
+    ],
+    "badges_en": [
+      "50 credits/mo",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "wandb-academic",
+    "category": "ai",
+    "name_zh": "Weights & Biases 学术免费",
+    "name_en": "Weights & Biases Free for Academics",
+    "domain": "wandb.ai",
+    "desc_zh": "学生、教师和高校科研人员可以一直免费使用 W&B，用来记录实验、对比模型、做报告和团队协作…",
+    "desc_en": "Students, teachers, and university researchers can use W&B for free indefinitely to log experiments, compare models, create reports, and collaborate…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "microsoft-copilot-nonprofit",
+    "category": "ai",
+    "name_zh": "Microsoft 365 Copilot 非营利折扣",
+    "name_en": "Microsoft 365 Copilot Nonprofit Discount",
+    "domain": "microsoft.com",
+    "desc_zh": "已验证的非营利组织购买 Microsoft 365 Copilot 可少 15%，年付为 25.50 美元/人/月…",
+    "desc_en": "Verified nonprofits can save 15% on Microsoft 365 Copilot, at $25.50 per user per month when paid annually. An eligible Microsoft 365 license must…",
+    "badges_zh": [
+      "15% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "15% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "fish-audio",
+    "category": "ai",
+    "name_zh": "Fish Audio 学生额度",
+    "name_en": "Fish Audio Student Quota",
+    "domain": "fish.audio",
+    "desc_zh": "认证高校的本科生和研究生，用 .edu 邮箱申请后可以领取免费语音额度，用来做课件配音、课程项目和黑客松。只限教育和非商业用途…",
+    "desc_en": "Undergraduate and graduate students at accredited universities can apply using a .edu email address to receive a free voice quota for creating course…",
+    "badges_zh": [
+      "额度"
+    ],
+    "badges_en": [
+      "Credits"
+    ]
+  },
+  {
+    "slug": "mistral-education",
+    "category": "ai",
+    "name_zh": "Mistral 教育版",
+    "name_en": "Mistral Education Edition",
+    "domain": "chat.mistral.ai",
+    "desc_zh": "学生和教师用学校或教育机构邮箱验证后，可以按教育价订阅 Mistral Pro。个人邮箱不行，学生证和在读证明也不能代替机构邮箱…",
+    "desc_en": "Students and teachers can subscribe to Mistral Pro at the education rate after verifying their school or educational institution email address…",
+    "badges_zh": [
+      "折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "Discount",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "camber",
+    "category": "ai",
+    "name_zh": "Camber 学生科研算力",
+    "name_en": "Camber Student Research Computing Power",
+    "domain": "cambercloud.com",
+    "desc_zh": "在读期间免费使用 Camber Student：每月 40 CPU 小时、5 GPU 小时、50 GB 存储和 50 条 Agent 消息…",
+    "desc_en": "Free access to Camber Student during your studies: 40 CPU hours, 5 GPU hours, 50 GB of storage, and 50 Agent messages per month. Connect to Postgres…",
+    "badges_zh": [
+      "在读期间"
+    ],
+    "badges_en": [
+      "During your studies"
+    ]
+  },
+  {
+    "slug": "workbuddy-edu",
+    "category": "ai",
+    "name_zh": "WorkBuddy 教育公益版 教师每月 2000 积分",
+    "name_en": "WorkBuddy Education Public Welfare Edition: 2000 Points per Month for Teachers",
+    "domain": "workbuddy.cn",
+    "desc_zh": "腾讯 SSV 数字教育实验室和 WorkBuddy 团队面向全国在职教师的 AI 教学助理，不限地区和学段…",
+    "desc_en": "The Tencent SSV Digital Education Lab and the WorkBuddy team are offering an AI teaching assistant to all working teachers across China, regardless…",
+    "badges_zh": [
+      "每月 2000 积分",
+      "含教师"
+    ],
+    "badges_en": [
+      "2000 Points per Month",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "antigravity-for-scientists",
+    "category": "ai",
+    "name_zh": "Google Antigravity 科研人员免费最高档",
+    "name_en": "Google Antigravity Free Access to the Highest Tier for Researchers",
+    "domain": "antigravity.google",
+    "desc_zh": "最多 1 万名入选的科研人员，可免费使用 Google Antigravity 最高用量档 6 个月，并使用 Gemini 4 Argon…",
+    "desc_en": "Up to 10,000 selected researchers will receive free access to the highest usage tier of Google Antigravity for 6 months, along with access to Gemini…",
+    "badges_zh": [
+      "最高档 · 6 个月",
+      "含教师"
+    ],
+    "badges_en": [
+      "Highest Tier · 6 Months",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "rosalind-academic-plan",
+    "category": "ai",
+    "name_zh": "Rosalind Academic Plan 实验室免费席位",
+    "name_en": "Rosalind Academic Plan Free Seats for Labs",
+    "domain": "openai.com",
+    "desc_zh": "面向美国大学的学术实验室。由 PI 或实验室负责人申请，审核通过后最多 30 个 ChatGPT Business Standard 席位可…",
+    "desc_en": "For academic labs at U.S. universities. Applications are submitted by the PI or lab director. Upon approval, up to 30 ChatGPT Business Standard seats…",
+    "badges_zh": [
+      "最多 30 席 · 12 个月",
+      "含教师"
+    ],
+    "badges_en": [
+      "Up to 30 seats · 12 months",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "openasi",
+    "category": "ai",
+    "name_zh": "OpenASI 吉大师生免费前沿模型算力",
+    "name_en": "OpenASI: Free Cutting-Edge Model Computing Power for Jilin University Students and Faculty",
+    "domain": "app.openasi.bitmiracle.cn",
+    "desc_zh": "OpenASI 是面向吉林大学师生的非营利开放平台，由吉大学生初创企业 BitMiracle AI Lab 全资赞助…",
+    "desc_en": "OpenASI is a non-profit open platform for students and faculty at Jilin University, fully sponsored by BitMiracle AI Lab, a startup founded by Jilin…",
+    "badges_zh": [
+      "限量免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Limited Free Access",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "granola-for-students",
+    "category": "ai",
+    "name_zh": "Granola 学生免费 12 个月",
+    "name_en": "Granola Free for Students for 12 Months",
+    "domain": "granola.ai",
+    "desc_zh": "美国、英国和加拿大认证高校的在读生（含博士）可申请 12 个月免费的 Granola Business，把课堂录音整理成可搜索的笔记…",
+    "desc_en": "Currently enrolled students (including doctoral students) at accredited universities in the United States, United Kingdom, and Canada can apply for…",
+    "badges_zh": [
+      "12个月"
+    ],
+    "badges_en": [
+      "12 months"
+    ]
+  },
+  {
+    "slug": "ai-student-pack",
+    "category": "ai",
+    "name_zh": "AI Student Pack",
+    "name_en": "AI Student Pack",
+    "domain": "aistudentpack.com",
+    "desc_zh": "为学生用户提供丰富的 AI 工具，涵盖语音生成、智能笔记、设计开发等实用领域。",
+    "desc_en": "Provide student users with a wealth of AI tools, covering practical fields such as voice generation, intelligent note-taking, and design and…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "google-gemini-for-students",
+    "category": "ai",
+    "name_zh": "Google Gemini 学生一年",
+    "name_en": "Google Gemini Student Plan (1 Year)",
+    "domain": "gemini.google",
+    "desc_zh": "符合条件的学生可以免费使用 Gemini 的学生方案 12 个月。名额、国家和地区经常变，以学生页能不能验证为准，不是所有学校邮箱都能过。",
+    "desc_en": "Eligible students can use Gemini's student plan for free for 12 months. Availability, quotas, and eligible countries/regions change frequently…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "dify-ai-agent-platform",
+    "category": "ai",
+    "name_zh": "Dify 教育专业版",
+    "name_en": "Dify Education Professional Edition",
+    "domain": "dify.ai",
+    "desc_zh": "Dify 是搭建 AI 应用和智能体的平台。教育用户可以申请教育专业版，通过后免费使用一年。",
+    "desc_en": "Dify is a platform for building AI applications and agents. Education users can apply for the Education Professional Edition and use it for free for…",
+    "badges_zh": [
+      "免费 1 年",
+      "含教师"
+    ],
+    "badges_en": [
+      "1 year free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "iask-ai-search-engine",
+    "category": "ai",
+    "name_zh": "iAsk Pro 学生一年",
+    "name_en": "iAsk Pro Student One-Year Plan",
+    "domain": "iask.ai",
+    "desc_zh": "iAsk 是带问答的 AI 搜索。学生完成身份验证后，可免费使用 Pro 一年。",
+    "desc_en": "iAsk is an AI-powered search with Q&A. Students can use the Pro version for free for one year after completing identity verification.",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "perplexity-pro-50-off",
+    "category": "ai",
+    "name_zh": "Perplexity Pro 限时五折",
+    "name_en": "Perplexity Pro 50% off",
+    "domain": "perplexity.ai",
+    "desc_zh": "Perplexity 是带引用来源的 AI 搜索。限时五折升级 Pro：年付约 $9/月…",
+    "desc_en": "Perplexity is an AI search engine with cited sources. Limited-time 50% off Pro: about $9/month when billed annually. Includes deep research, top AI…",
+    "badges_zh": [
+      "50% 折扣"
+    ],
+    "badges_en": [
+      "50% off"
+    ]
+  },
+  {
+    "slug": "manus-ai-agent",
+    "category": "ai",
+    "name_zh": "Manus 学生积分",
+    "name_en": "Manus Student Credits",
+    "domain": "manus.im",
+    "desc_zh": "Manus 是 AI 助手。学生注册不需要邀请码，可以直接获得 1000 积分，用于对话和创作。",
+    "desc_en": "Manus is an AI assistant. Students can register without an invitation code and receive 1000 credits directly for conversations and creation.",
+    "badges_zh": [
+      "1000 积分"
+    ],
+    "badges_en": [
+      "1000 credits"
+    ]
+  },
+  {
+    "slug": "free-ai-education-pro-access",
+    "category": "ai",
+    "name_zh": "Free.ai 教育版 Pro",
+    "name_en": "Free.ai Education Pro Access",
+    "domain": "free.ai",
+    "desc_zh": "使用.edu 邮箱验证即可免费获得 Free.ai Pro 权限，每月 50 万 Token…",
+    "desc_en": "Verify your.edu email to get free Pro access to Free.ai — 500,000 tokens/month, 400+ AI tools, 370+ models including GPT-4o, Claude and Gemini. No…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "chatgpt-for-clinicians",
+    "category": "ai",
+    "name_zh": "ChatGPT 临床医疗工作区",
+    "name_en": "ChatGPT for Clinicians",
+    "domain": "chatgpt.com",
+    "desc_zh": "OpenAI 面向美国持牌临床医生提供专属医疗工作区，通过身份验证后可访问专为临床工作流程设计的安全 ChatGPT 环境。",
+    "desc_en": "OpenAI offers a secure ChatGPT medical workspace built for clinical workflows. US licensed clinicians can verify their credentials to gain access.",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "claude-builder-club-free-claude-pro-education",
+    "category": "ai",
+    "name_zh": "Claude Builder Club 教育账户",
+    "name_en": "Claude Builder Club - Free Claude Pro / Education",
+    "domain": "form.jotform.com",
+    "desc_zh": "Claude Builder Club 面向学生和教育者提供免费的 Claude Pro 或 Claude 教育版账户，助力学习和研究。",
+    "desc_en": "Claude Builder Club offers eligible students and educators a free Claude Pro or Claude education account to support learning and research.",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "chatgpt",
+    "category": "ai",
+    "name_zh": "ChatGPT Plus 退伍军人免费一年",
+    "name_en": "ChatGPT Plus Free for One Year for Veterans",
+    "domain": "chatgpt.com",
+    "desc_zh": "面向美国军人：过去 12 个月内从现役退伍或退休的人，以及未来 12 个月内即将离开现役的军人。用 ID.me 验证后…",
+    "desc_en": "For U.S. military personnel: Individuals who have been discharged from active duty or retired within the past 12 months, as well as those who will…",
+    "badges_zh": [
+      "一年 Plus"
+    ],
+    "badges_en": [
+      "One Year of Plus"
+    ]
+  },
+  {
+    "slug": "chatgpt-for-teachers",
+    "category": "ai",
+    "name_zh": "ChatGPT 教师版 免费至 2028 年 6 月",
+    "name_en": "ChatGPT for Educators: Free Until June 2028",
+    "domain": "chatgpt.com",
+    "desc_zh": "面向美国认证 K–12 学校或学区在职的教师、职员、校领导和学区管理员，学生不能申请。验证学校邮箱后…",
+    "desc_en": "Available to active teachers, staff, school leaders, and district administrators at U.S.-accredited K–12 schools or school districts. Students are…",
+    "badges_zh": [
+      "免费至 2028-06",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free until 2028-06",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "siliconflow",
+    "category": "ai",
+    "name_zh": "硅基流动学生体验金",
+    "name_en": "SiliconFlow Student Trial Credit",
+    "domain": "siliconflow.feishu.cn",
+    "desc_zh": "硅基流动面向学生的新用户体验金，用来试用模型 API。金额和有效期以飞书文档里的当期活动为准。",
+    "desc_en": "A new user trial credit from SiliconFlow for students, intended for testing the model API. The amount and validity period are subject to the current…",
+    "badges_zh": [
+      "额度"
+    ],
+    "badges_en": [
+      "Credits"
+    ]
+  },
+  {
+    "slug": "google-colab-pro-education",
+    "category": "ai",
+    "name_zh": "Google Colab Pro 教育一年",
+    "name_en": "Google Colab Pro Education for One Year",
+    "domain": "colab.research.google.com",
+    "desc_zh": "用教育邮箱可以免费使用 Colab Pro 一年，比免费版有更好的 GPU 和更长的运行时间。一年结束后不会自动再送…",
+    "desc_en": "You can use Colab Pro for free for one year with an educational email account, which offers better GPUs and longer runtime compared to the free…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "notegpt",
+    "category": "ai",
+    "name_zh": "NoteGPT 学生一个月",
+    "name_en": "NoteGPT for Students – One Month",
+    "domain": "notegpt.io",
+    "desc_zh": "NoteGPT 用来总结 YouTube 等视频。学生可以免费使用一个月，之后是否收费以定价页为准。",
+    "desc_en": "NoteGPT is used to summarize videos from YouTube and other platforms. Students can use it for free for one month. Whether it will be paid afterward…",
+    "badges_zh": [
+      "免费 1 个月"
+    ],
+    "badges_en": [
+      "1 month free"
+    ]
+  },
+  {
+    "slug": "anthropic-claude-for-education",
+    "category": "ai",
+    "name_zh": "Anthropic Claude教育版",
+    "name_en": "Anthropic Claude for Education",
+    "domain": "anthropic.com",
+    "desc_zh": "Anthropic与Northeastern University、LSE和Champlain College等高校合作…",
+    "desc_en": "Campus wide partnerships: Northeastern University, LSE and Champlain College providing Claude AI services for educational institutions",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "alibaba-cloud-qoderwork-cn-student-and-teacher-benefits",
+    "category": "ai",
+    "name_zh": "阿里云 QoderWork CN 高校专属权益",
+    "name_en": "Alibaba Cloud QoderWork CN Student & Teacher Benefits",
+    "domain": "university.aliyun.com",
+    "desc_zh": "QoderWork CN 是阿里云推出的桌面级 AI 智能体助手，支持通过对话完成 PPT 编写美化、论文排版查重、数据分析与可视化、代码生…",
+    "desc_en": "QoderWork CN is Alibaba Cloud's desktop AI agent assistant for completing study tasks via conversation: PPT creation, paper editing, data analysis &…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "chatgpt-for-academic-researchers",
+    "category": "ai",
+    "name_zh": "ChatGPT 学术研究人员计划",
+    "name_en": "ChatGPT for Academic Researchers",
+    "domain": "help.openai.com",
+    "desc_zh": "OpenAI 面向高校教职人员和博士后研究人员推出的专属计划，审核通过后可免费获得 12 个月的专属 ChatGPT 工作空间…",
+    "desc_en": "OpenAI's exclusive program for university faculty and postdoctoral researchers. Approved applicants receive 12 months of complimentary access to a…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "chatgpt-plus-free-for-students",
+    "category": "ai",
+    "name_zh": "ChatGPT Plus 学生免费订阅",
+    "name_en": "ChatGPT Plus free student subscription",
+    "domain": "chatgpt.com",
+    "desc_zh": "OpenAI 面向在读大学生推出的 ChatGPT Plus 免费订阅活动。通过 SheerID 验证在校学生身份后…",
+    "desc_en": "OpenAI's free ChatGPT Plus subscription offer for current university students. After verifying your student status through SheerID, you get several…",
+    "badges_zh": [
+      "免费 4 个月"
+    ],
+    "badges_en": [
+      "4 months free"
+    ]
+  },
+  {
+    "slug": "claude-team-plan-for-scientists",
+    "category": "ai",
+    "name_zh": "Claude 科研团队计划",
+    "name_en": "Claude Team Plan for Scientists",
+    "domain": "claude.com",
+    "desc_zh": "Anthropic 面向高校及非营利科研机构学者免费提供 Claude Team 标准席位…",
+    "desc_en": "Anthropic offers verified PIs at universities and nonprofit research institutes free Claude Team Standard seats (Claude Science, Code, Cowork), with…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "doubao-back-to-school-3-months-pro-free-for-students",
+    "category": "ai",
+    "name_zh": "豆包开学季：免费领 3 个月专业版",
+    "name_en": "Doubao Back-to-School: 3 Months Pro Free for Students",
+    "domain": "doubao.com",
+    "desc_zh": "字节跳动豆包面向在校大学生推出 2026 开学季福利：完成学生认证可免费领取 3 个月专业版订阅，另享 2.5 倍免费额度…",
+    "desc_en": "ByteDance Doubao’s 2026 back-to-school offer: verified college students get 3 months of Pro free, 2.5× free quota, and Pro Standard at ¥38/mo (was…",
+    "badges_zh": [
+      "免费 3 个月"
+    ],
+    "badges_en": [
+      "3 months free"
+    ]
+  },
+  {
+    "slug": "tavily-student-4-months-project-plan-free",
+    "category": "ai",
+    "name_zh": "Tavily 学生免费 4 个月 Project（4000 credits/月）",
+    "name_en": "Tavily Student: 4 Months Project Plan Free",
+    "domain": "help.tavily.com",
+    "desc_zh": "学生可免费领取 4 个月 Tavily Project：每月 4000 API credits，适合课程、科研和黑客松…",
+    "desc_en": "Students get 4 months of Tavily Project free (4,000 API credits/month) for research, coursework, and hackathons. Verify with a school email or…",
+    "badges_zh": [
+      "免费 4 个月"
+    ],
+    "badges_en": [
+      "4 months free"
+    ]
+  },
+  {
+    "slug": "yc-ai-stack-for-students",
+    "category": "ai",
+    "name_zh": "YC AI Stack 学生福利",
+    "name_en": "YC AI Stack for Students",
+    "domain": "deals.ycombinator.com",
+    "desc_zh": "参加 YC 高校活动后，可领取价值超过 $25,000 的学生免费额度：AWS、Azure 各 $10,000，OpenAI $1,000…",
+    "desc_en": "After a YC university event, students can redeem over $25,000 in free credits: $10,000 AWS, $10,000 Azure, $1,000 OpenAI, $500 Anthropic, plus AI…",
+    "badges_zh": [
+      "$25,000 额度"
+    ],
+    "badges_en": [
+      "$25,000 credit"
+    ]
+  },
+  {
+    "slug": "claude-for-teachers-us-k-12",
+    "category": "ai",
+    "name_zh": "Claude for Teachers（美国 K-12）",
+    "name_en": "Claude for Teachers (US K-12)",
+    "domain": "claude.com",
+    "desc_zh": "美国 K-12 教师和学区可免费使用 Claude 教师功能，包括备课技能和对接各州课程标准。默认不拿内容训练模型。",
+    "desc_en": "US K-12 educators and districts get free access to Claude for Teachers, including teaching skills and state-standards curricula. Training on your…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "claude-for-nonprofits",
+    "category": "ai",
+    "name_zh": "Claude 非营利组织优惠",
+    "name_en": "Claude for Nonprofits",
+    "domain": "claude.com",
+    "desc_zh": "合格非营利组织和 K-12 学校可买 Claude Team 优惠价。页面展示约 $8/人/月，低收入和中等收入国家约 $3/人/月…",
+    "desc_en": "Eligible nonprofits and K-12 schools can buy Claude Team at a nonprofit rate. The page shows about $8 per user per month, or about $3 in low- and…",
+    "badges_zh": [
+      "折扣"
+    ],
+    "badges_en": [
+      "Discount"
+    ]
+  },
+  {
+    "slug": "openai-for-nonprofits",
+    "category": "ai",
+    "name_zh": "OpenAI 非营利组织优惠",
+    "name_en": "OpenAI for Nonprofits",
+    "domain": "help.openai.com",
+    "desc_zh": "合格非营利组织购买 ChatGPT Business 标准席位可享优惠：年付约 $8/人/月，月付约 $10/人/月。高级席位不打折…",
+    "desc_en": "Eligible nonprofits can get ChatGPT Business Standard seats at about $8 per user per month billed annually, or $10 monthly. Premium seats are…",
+    "badges_zh": [
+      "75% 折扣"
+    ],
+    "badges_en": [
+      "75% off"
+    ]
+  },
+  {
+    "slug": "scira-pro-school-email-price",
+    "category": "ai",
+    "name_zh": "Scira Pro 学校邮箱价",
+    "name_en": "Scira Pro School Email Price",
+    "domain": "scira.ai",
+    "desc_zh": "用学校邮箱登录后，Scira Pro 结账价为 $9/月；普通邮箱为 $15/月。邮箱域名匹配即可，不需要优惠码。",
+    "desc_en": "Sign in with a school email and Scira Pro is $9 a month at checkout, versus $15 otherwise. The discount applies when the verified email matches an…",
+    "badges_zh": [
+      "折扣"
+    ],
+    "badges_en": [
+      "Discount"
+    ]
+  }
+]

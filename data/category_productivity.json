@@ -1,0 +1,908 @@
+[
+  {
+    "slug": "asana-nonprofit",
+    "category": "productivity",
+    "name_zh": "Asana 非营利五折",
+    "name_en": "Asana 50% Discount for Nonprofits",
+    "domain": "asana.com",
+    "desc_zh": "符合条件的 501(c)(3) 或同等国际资质的非营利、公共图书馆，Starter 或 Advanced 打五折，通过后一直有效…",
+    "desc_en": "Eligible 501(c)(3) or equivalent international-qualified nonprofits and public libraries can receive a 50% discount on Starter or Advanced plans…",
+    "badges_zh": [
+      "50% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "50% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "slack-education",
+    "category": "productivity",
+    "name_zh": "Slack Education 教育减免 85%",
+    "name_en": "Slack Education 85% Discount",
+    "domain": "slack.com",
+    "desc_zh": "新工作区升级 Pro 或 Business+ 可减免 85%（大约只付原价的 15%）…",
+    "desc_en": "Upgrade a new workspace to Pro or Business+ for an 85% discount (paying only about 15% of the original price). The primary owner creating the…",
+    "badges_zh": [
+      "85% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "85% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "atlassian-nonprofit",
+    "category": "productivity",
+    "name_zh": "Atlassian 非营利 Social Impact 许可",
+    "name_en": "Atlassian Nonprofit Social Impact License",
+    "domain": "atlassian.com",
+    "desc_zh": "符合条件的非营利和社会企业可申请 Social Impact License（原 Community License）…",
+    "desc_en": "Eligible nonprofits and social enterprises can apply for the Social Impact License (formerly the Community License) after verification by Goodstack…",
+    "badges_zh": [
+      "100% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "100% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "notion-nonprofit",
+    "category": "productivity",
+    "name_zh": "Notion 商业版非营利五折",
+    "name_en": "Notion Business Version: 50% Off for Nonprofits",
+    "domain": "notion.com",
+    "desc_zh": "符合条件的民间社会组织可申请 Notion 商业版五折。每个组织最多 3 个工作区。审核要 3 到 7 个工作日…",
+    "desc_en": "Eligible civil society organizations can apply for a 50% discount on Notion's Business version. Each organization is limited to a maximum of 3…",
+    "badges_zh": [
+      "50% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "50% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "slack-nonprofit",
+    "category": "productivity",
+    "name_zh": "Slack 非营利组织折扣",
+    "name_en": "Slack Nonprofit Discount",
+    "domain": "slack.com",
+    "desc_zh": "持有慈善资格的组织，250 人及以下的工作区可免费升级到 Pro；超过 250 人的 Pro，以及任何规模的 Business+…",
+    "desc_en": "Organizations with charitable status can upgrade to Pro for free for workspaces with 250 members or fewer; Pro workspaces with more than 250 members…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "adobe-acrobat-nonprofit",
+    "category": "productivity",
+    "name_zh": "Adobe Acrobat Pro 非营利折扣",
+    "name_en": "Adobe Acrobat Pro Nonprofit Discount",
+    "domain": "adobe.com",
+    "desc_zh": "已注册的慈善或非营利组织，员工可按折扣价购买 Acrobat Pro 一年订阅，最多 10 个许可…",
+    "desc_en": "Registered charities or nonprofit organizations can purchase Acrobat Pro annual subscriptions at a discounted rate for up to 10 licenses, which can…",
+    "badges_zh": [
+      "折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "Discount",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "google-for-nonprofits",
+    "category": "productivity",
+    "name_zh": "Google for Nonprofits",
+    "name_en": "Google for Nonprofits",
+    "domain": "google.com",
+    "desc_zh": "已注册的慈善组织通过 Goodstack 验证后，可以开通免费或折扣的 Google 工具…",
+    "desc_en": "Registered charities that are verified by Goodstack can access free or discounted Google tools, including Google Workspace for Nonprofits, Google…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "microsoft-365-nonprofit",
+    "category": "productivity",
+    "name_zh": "Microsoft 365 非营利组织方案",
+    "name_en": "Microsoft 365 Nonprofit Plan",
+    "domain": "microsoft.com",
+    "desc_zh": "已通过微软验证的非营利组织，最多 300 人可以免费使用 Microsoft 365 Business Basic：网页版和手机版 Offi…",
+    "desc_en": "Microsoft-verified nonprofits can get Microsoft 365 Business Basic for free for up to 300 users: web and mobile versions of Office, business email…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "notchlive-pro-education",
+    "category": "productivity",
+    "name_zh": "NotchLive Pro 教育七折",
+    "name_en": "NotchLive Pro 30% Off for Education",
+    "domain": "notchlive.app",
+    "desc_zh": "NotchLive 在 Mac 上把讲座、会议和视频做成实时字幕，可选翻译、笔记和文稿导出。免费版就能字幕…",
+    "desc_en": "NotchLive adds real-time subtitles to lectures, meetings, and videos on Mac, with optional translation, notes, and script export. The free version…",
+    "badges_zh": [
+      "30% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "30% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "reclaim",
+    "category": "productivity",
+    "name_zh": "Reclaim 教育五折",
+    "name_en": "Reclaim Education 50% Off",
+    "domain": "reclaim.ai",
+    "desc_zh": "Reclaim 用 AI 在日历里安排专注时间和任务。学生、教师和教职工可申请 Starter 或 Business 五折…",
+    "desc_en": "Reclaim uses AI to schedule focused time and tasks in your calendar. Students, teachers, and staff can apply for 50% off on the Starter or Business…",
+    "badges_zh": [
+      "50% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "50% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "quillbot",
+    "category": "productivity",
+    "name_zh": "QuillBot Premium 学生价",
+    "name_en": "QuillBot Premium Student Discount",
+    "domain": "quillbot.com",
+    "desc_zh": "QuillBot 用来改写、检查语法和查重。已验证的学生邮箱可以买 Premium 学生价：年付大约少 25%…",
+    "desc_en": "QuillBot is used for rewriting, grammar checking, and plagiarism detection. Verified student email addresses can purchase the Premium student…",
+    "badges_zh": [
+      "25% 折扣"
+    ],
+    "badges_en": [
+      "25% off"
+    ]
+  },
+  {
+    "slug": "aiapply",
+    "category": "productivity",
+    "name_zh": "AIApply 学生四折",
+    "name_en": "AIApply Student 60% Off",
+    "domain": "aiapply.co",
+    "desc_zh": "AIApply 用 AI 做简历、求职信和模拟面试，也能自动投递。用学生邮箱验证后，全部高级功能打 6 折，折扣码发到你留的邮箱。",
+    "desc_en": "AIApply uses AI to create resumes, cover letters, and conduct mock interviews, and can also automate job applications. After verifying your student…",
+    "badges_zh": [
+      "40% 折扣"
+    ],
+    "badges_en": [
+      "40% off"
+    ]
+  },
+  {
+    "slug": "macpaw-student-discount",
+    "category": "productivity",
+    "name_zh": "MacPaw 学生应用七折",
+    "name_en": "MacPaw Student Discount: 30% Off",
+    "domain": "macpaw.com",
+    "desc_zh": "在读学生可对 MacPaw 的全部应用打七折，包括 CleanMyMac、ClearVPN、查重复文件的 Gemini 2、Setapp、T…",
+    "desc_en": "Currently enrolled students can get 30% off all MacPaw apps, including CleanMyMac, ClearVPN, Gemini 2 for finding duplicate files, Setapp, The…",
+    "badges_zh": [
+      "七折"
+    ],
+    "badges_en": [
+      "30% Off"
+    ]
+  },
+  {
+    "slug": "parallels-desktop-education",
+    "category": "productivity",
+    "name_zh": "Parallels Desktop 教育版五折",
+    "name_en": "Parallels Desktop Education Edition – 50% Off",
+    "domain": "parallels.com",
+    "desc_zh": "在 Mac 上运行 Windows 和 Linux。受认证高校的在读或新录取学生、教师和职工，结账时验证学生证或教职身份后…",
+    "desc_en": "Run Windows and Linux on your Mac. Current or newly admitted students, faculty, and staff at accredited institutions can get Parallels Desktop Pro at…",
+    "badges_zh": [
+      "五折",
+      "含教师"
+    ],
+    "badges_en": [
+      "50% Off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "notesnook-education",
+    "category": "productivity",
+    "name_zh": "Notesnook Pro 教育价每年 19.99 美元",
+    "name_en": "Notesnook Pro Education Price: $19.99 per Year",
+    "domain": "notesnook.com",
+    "desc_zh": "面向学校和大学的学生、教师及其他成员。用学校邮箱或上传在读、在职证明，可以按每年 19.99 美元购买 Notesnook Pro…",
+    "desc_en": "For students, teachers, and other members of schools and universities. You can purchase Notesnook Pro for $19.99 per year by using your school email…",
+    "badges_zh": [
+      "$19.99/年",
+      "含教师"
+    ],
+    "badges_en": [
+      "$19.99/year",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "typeless",
+    "category": "productivity",
+    "name_zh": "Typeless Pro 学生五折",
+    "name_en": "Typeless Pro 50% Off for Students",
+    "domain": "typeless.com",
+    "desc_zh": "在读学生验证身份后，Typeless Pro 可享五折，而且只能在桌面端结账。用学校邮箱登录验证通过后会自动带上折扣；验证不了时…",
+    "desc_en": "After verifying your student status, you can enjoy a 50% discount on Typeless Pro, but purchases must be made on the desktop version. Once you log in…",
+    "badges_zh": [
+      "五折"
+    ],
+    "badges_en": [
+      "50% Off"
+    ]
+  },
+  {
+    "slug": "raidrive-education",
+    "category": "productivity",
+    "name_zh": "RaiDrive Education 教育版",
+    "name_en": "RaiDrive Education",
+    "domain": "raidrive.com",
+    "desc_zh": "认证教育机构可免费使用 RaiDrive Education：8 个驱动器，可读写更多网盘和对象存储，并包含快速复制、带宽控制…",
+    "desc_en": "Verified educational institutions can use RaiDrive Education for free: 8 drives, read/write access to more cloud storage and object storage, and…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "lucidchart",
+    "category": "productivity",
+    "name_zh": "Lucidchart 教育版",
+    "name_en": "Lucidchart Education Edition",
+    "domain": "lucidchart.com",
+    "desc_zh": "Lucidchart 给师生免费的教育版，用来画流程图、组织图和示意图。需要用学校邮箱申请，通过后才是教育团队。",
+    "desc_en": "Lucidchart offers a free Education Edition for teachers and students to create flowcharts, organizational charts, and diagrams. You need to apply…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "grammarly",
+    "category": "productivity",
+    "name_zh": "Grammarly Pro 学生和教师五折",
+    "name_en": "Grammarly Pro: 50% Off for Students and Teachers",
+    "domain": "support.grammarly.com",
+    "desc_zh": "限时优惠。符合资格的学生，以及中小学和高校教师，通过 SheerID 验证后，Grammarly Pro 可以打五折…",
+    "desc_en": "Limited-time offer. Eligible students, as well as teachers at primary, secondary, and higher education institutions, can get 50% off Grammarly Pro…",
+    "badges_zh": [
+      "五折",
+      "含教师"
+    ],
+    "badges_en": [
+      "50% Off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "kickresume-resume-builder",
+    "category": "productivity",
+    "name_zh": "Kickresume 学生会员",
+    "name_en": "Kickresume Student Membership",
+    "domain": "kickresume.com",
+    "desc_zh": "Kickresume 用来做简历。学生认证后最长可以拿 180 天高级会员，具体天数以审核结果为准，不是人人都是 180 天。",
+    "desc_en": "Kickresume is used for creating resumes. After student verification, you can receive up to 180 days of premium membership. The exact duration depends…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "craft-notes-and-ai-editor",
+    "category": "productivity",
+    "name_zh": "Craft 教育版",
+    "name_en": "Craft Education Edition",
+    "domain": "craft.do",
+    "desc_zh": "Craft 面向学生提供 Pro：笔记、文档和 AI 写作。用学校身份在教育页申请，通过后才是 Pro，不是注册就自动开通。",
+    "desc_en": "Craft offers Pro features for students: notes, documents, and AI writing. Apply on the education page using your school account. You’ll only get Pro…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "notion-ai-notes",
+    "category": "productivity",
+    "name_zh": "Notion 教育版",
+    "name_en": "Notion Education Edition",
+    "domain": "notion.com",
+    "desc_zh": "世界高等教育数据库里的高校学生和教师，把学校邮箱设成 Notion 主邮箱后，可以免费使用单人教育版：能上传文件、查看 30 天历史、最多邀…",
+    "desc_en": "Students and faculty at institutions listed in the global higher education database can use the individual Education Edition for free by setting…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "yuque-knowledge-base",
+    "category": "productivity",
+    "name_zh": "语雀学生一年",
+    "name_en": "Yuque Student Year",
+    "domain": "yuque.com",
+    "desc_zh": "语雀是阿里巴巴的云端知识库。学生完成验证后，可免费使用高级版一年，包含团队协作。",
+    "desc_en": "Yuque is Alibaba's cloud-based knowledge base. After completing verification, students can use the premium version for free for one year, including…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "miro-education-plan",
+    "category": "productivity",
+    "name_zh": "Miro 教育计划",
+    "name_en": "Miro Education Plan",
+    "domain": "miro.com",
+    "desc_zh": "认证院校师生可免费申请 Miro Education。教师版长期有效、团队最多 100 人；学生版 2 年、最多 10 人…",
+    "desc_en": "Students and staff at educational institutions can apply for a free Miro Education plan. Educators keep it with up to 100 team members. Students get…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "beautiful-ai-presentations",
+    "category": "productivity",
+    "name_zh": "Beautiful.ai 学生一年",
+    "name_en": "Beautiful.ai Student One-Year Plan",
+    "domain": "beautiful.ai",
+    "desc_zh": "Beautiful.ai 用模板生成演示文稿。学生验证通过后可以免费使用专业版一年。",
+    "desc_en": "Beautiful.ai lets you create presentations using templates. Students can use the Pro version for free for one year after verification.",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "ilovepdf-tool-suite",
+    "category": "productivity",
+    "name_zh": "iLovePDF 教育一年",
+    "name_en": "iLovePDF Education One Year",
+    "domain": "ilovepdf.com",
+    "desc_zh": "用教育邮箱注册 iLovePDF，可以免费开通一年高级会员，用来合并、压缩、转换和签署 PDF。一年结束后要付费才能继续用高级功能。",
+    "desc_en": "Register for iLovePDF with an educational email address to unlock a free one-year premium membership for merging, compressing, converting, and…",
+    "badges_zh": [
+      "免费 1 年",
+      "含教师"
+    ],
+    "badges_en": [
+      "1 year free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "netease-vip-mail",
+    "category": "productivity",
+    "name_zh": "网易 VIP 启航邮",
+    "name_en": "NetEase VIP Sail Mail",
+    "domain": "vip.163.com",
+    "desc_zh": "中国大陆在读大学生可以申请网易 VIP 邮箱。活动页还会附送网易云音乐、严选或云笔记等会员，具体礼包以当季页面为准。",
+    "desc_en": "Currently enrolled university students in mainland China can apply for a NetEase VIP email account. The event page also includes complimentary…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "airtable-education-plan",
+    "category": "productivity",
+    "name_zh": "Airtable 教育计划",
+    "name_en": "Airtable Education Plan",
+    "domain": "support.airtable.com",
+    "desc_zh": "拥有.edu 邮箱的学生和教师注册 Airtable 账户并创建工作区后，即可立即获得 120 天团队版试用计划。",
+    "desc_en": "Students and educators with a.edu email address can get an immediate 120-day trial of the Team plan after signing up for an Airtable account and…",
+    "badges_zh": [
+      "试用",
+      "含教师"
+    ],
+    "badges_en": [
+      "Trial",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "goodnotes",
+    "category": "productivity",
+    "name_zh": "Goodnotes 教育版",
+    "name_en": "Goodnotes Education Edition",
+    "domain": "goodnotes.com",
+    "desc_zh": "Goodnotes 教育版在普通笔记之外，包含手写拼写检查、数学转换、数学助手、无限文件夹和手写搜索…",
+    "desc_en": "In addition to regular note-taking features, Goodnotes Education Edition includes handwriting spell check, math conversion, a math assistant…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "wispr-flow-student-3-months-free-then-50-off",
+    "category": "productivity",
+    "name_zh": "Wispr Flow 学生 3 个月免费 + 五折",
+    "name_en": "Wispr Flow Student: 3 months free, then 50% off",
+    "domain": "wisprflow.ai",
+    "desc_zh": "Wispr Flow 是可在任意应用里使用的语音输入工具，支持 Mac / Windows / iPhone / Android…",
+    "desc_en": "Wispr Flow is a voice dictation tool that works in any app on Mac, Windows, iPhone, and Android. It claims to be about 4x faster than typing and…",
+    "badges_zh": [
+      "50% 折扣"
+    ],
+    "badges_en": [
+      "50% off"
+    ]
+  },
+  {
+    "slug": "drime",
+    "category": "productivity",
+    "name_zh": "Drime 教育存储",
+    "name_en": "Drime Education Storage",
+    "domain": "drime.cloud",
+    "desc_zh": "Drime 给教育场景提供云存储，包含较大空间、文件历史和 AI 助手。学生或教师需要在教育页申请，容量以申请结果为准。",
+    "desc_en": "Drime provides cloud storage for educational use cases, including large storage space, file history, and an AI assistant. Students or teachers need…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "microsoft-office-365-student-edition",
+    "category": "productivity",
+    "name_zh": "Microsoft 365 教育版",
+    "name_en": "Microsoft 365 Education",
+    "domain": "microsoft.com",
+    "desc_zh": "很多学校已经买了 Microsoft 365，用学校账号登录就能用 Word、Excel、PowerPoint 和 OneDrive…",
+    "desc_en": "Many schools have already purchased Microsoft 365. You can use Word, Excel, PowerPoint, and OneDrive by signing in with your school account. Copilot…",
+    "badges_zh": [
+      "50% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "50% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "think-cell",
+    "category": "productivity",
+    "name_zh": "think-cell 学生许可",
+    "name_en": "think-cell Student License",
+    "domain": "think-cell.com",
+    "desc_zh": "think-cell 是 PowerPoint 图表插件。在读学生可以申请免费许可，用来做课程演示。",
+    "desc_en": "think-cell is a PowerPoint chart add-in. Current students can apply for a free license to use in course presentations.",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "quark-app-student-verification",
+    "category": "productivity",
+    "name_zh": "夸克学生认证",
+    "name_en": "Quark Student Verification",
+    "domain": "act.quark.cn",
+    "desc_zh": "夸克的学生和教师认证通过后，AI 会员、网盘会员和扫描王会员各送 3 个月。三个会员要分别到账，不是一个会员通吃所有功能。",
+    "desc_en": "After Quark students and teachers complete verification, they will receive 3 months free for each of the following: AI membership, cloud storage…",
+    "badges_zh": [
+      "免费 3 个月",
+      "含教师"
+    ],
+    "badges_en": [
+      "3 months free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "speechify-for-education",
+    "category": "productivity",
+    "name_zh": "Speechify 教育版",
+    "name_en": "Speechify for Education",
+    "domain": "speechify.com",
+    "desc_zh": "Speechify 是文本转语音与语音 AI 助手，可朗读 PDF、网页和课本，支持 200+ 人声、可调倍速和 AI 摘要…",
+    "desc_en": "Speechify is a text-to-speech and voice AI assistant that can read PDFs, web pages, and textbooks, with 200+ voices, adjustable speed, and AI…",
+    "badges_zh": [
+      "25% 折扣"
+    ],
+    "badges_en": [
+      "25% off"
+    ]
+  },
+  {
+    "slug": "youdao-cloud-notes-vip",
+    "category": "productivity",
+    "name_zh": "有道云笔记学生一年",
+    "name_en": "Youdao Cloud Note Student One-Year Plan",
+    "domain": "note.youdao.com",
+    "desc_zh": "学生认证通过后，有道云笔记 VIP 可以免费使用一年，包含高级笔记和云同步。到期后恢复普通版。",
+    "desc_en": "After student verification is approved, you can use Youdao Cloud Note VIP for free for one year, including advanced note features and cloud sync…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "processon-mind-map",
+    "category": "productivity",
+    "name_zh": "ProcessOn 学生 45 天",
+    "name_en": "ProcessOn Student 45 Days",
+    "domain": "processon.com",
+    "desc_zh": "ProcessOn 用来画思维导图和流程图。学生认证通过后送 45 天会员，不是一年。",
+    "desc_en": "ProcessOn is used for creating mind maps and flowcharts. After student verification is approved, you'll receive a 45-day membership, not a year.",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "camscanner-student-edition",
+    "category": "productivity",
+    "name_zh": "扫描全能王学生版",
+    "name_en": "CamScanner Student Edition",
+    "domain": "camscanner.com",
+    "desc_zh": "扫描全能王的学生认证通过后，可以使用高级扫描功能，例如去手写、转 Word 和更多云同步。免费时长以认证成功后的会员到期日为准。",
+    "desc_en": "After verifying your student status in CamScanner, you can use advanced scanning features such as handwriting removal, conversion to Word, and more…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "alibaba-cloud-tingwu-education-program",
+    "category": "productivity",
+    "name_zh": "通义听悟高校公益",
+    "name_en": "Tongyi Tingwu University Public Welfare Program",
+    "domain": "tingwu.aliyun.com",
+    "desc_zh": "阿里云通义听悟的高校公益计划把存储扩到 200 GB，并送 500 小时转写。只给符合页面要求的高校用户，用完不会自动再送。",
+    "desc_en": "Alibaba Cloud's Tongyi Tingwu university public welfare plan expands storage to 200 GB and includes 500 hours of transcription. This offer is…",
+    "badges_zh": [
+      "额度"
+    ],
+    "badges_en": [
+      "Credits"
+    ]
+  },
+  {
+    "slug": "otter-ai-student-and-teacher-pro-discount",
+    "category": "productivity",
+    "name_zh": "Otter.ai 学生教师 Pro 折扣计划",
+    "name_en": "Otter.ai Student & Teacher Pro Discount",
+    "domain": "help.otter.ai",
+    "desc_zh": "Otter.ai 是 AI 驱动的实时语音转文字与会议笔记工具，可自动生成课堂、会议的文字摘要与回放…",
+    "desc_en": "Otter.ai is an AI-powered real-time speech-to-text and meeting notes tool that automatically generates transcripts, summaries, and playback for…",
+    "badges_zh": [
+      "折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "Discount",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "elevenreader-ultra-1-year-free-for-students",
+    "category": "productivity",
+    "name_zh": "ElevenReader 学生免费一年",
+    "name_en": "ElevenReader Free for Students for One Year",
+    "domain": "elevenreader.io",
+    "desc_zh": "已验证的学生可以免费使用一年 ElevenReader（价值 $99），把教材、PDF、论文、讲义和网页转成自然语音，不限次数。有跟读高亮…",
+    "desc_en": "Verified students can use ElevenReader for free for one year (worth $99), converting textbooks, PDFs, papers, lecture notes, and web pages into…",
+    "badges_zh": [
+      "免费 1 年",
+      "含教师"
+    ],
+    "badges_en": [
+      "1 year free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "quark-back-to-school-free-cloud-drive-and-scan-vip-for-stude",
+    "category": "productivity",
+    "name_zh": "夸克开学季：学生/教师认证领网盘+扫描王 VIP",
+    "name_en": "Quark Back-to-School: Free Cloud Drive & Scan VIP for Students & Teachers",
+    "domain": "act.quark.cn",
+    "desc_zh": "夸克 2026 开学季活动：大学生、教师完成教育认证可各领 3 个月夸克网盘 VIP + 3 个月扫描王 VIP（至 9 月 30 日）…",
+    "desc_en": "Quark 2026 back-to-school: verified students and teachers get 3 months Quark Drive VIP + 3 months Scan VIP (until Sep 30). Teachers can claim an…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "tella-for-education-6-months-pro-free",
+    "category": "productivity",
+    "name_zh": "Tella 教育计划（6 个月 Pro 免费）",
+    "name_en": "Tella for Education (6 Months Pro Free)",
+    "domain": "tella.com",
+    "desc_zh": "认证院校师生用学校邮箱申请，可免费用 6 个月 Tella Pro（无限录屏、AI 剪辑、106 种语言转写、最高 4K）…",
+    "desc_en": "Students and educators at accredited schools can get 6 months of Tella Pro free (unlimited recording, AI editing, transcription in 106 languages, up…",
+    "badges_zh": [
+      "50% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "50% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "raycast-pro-50-off-for-students",
+    "category": "productivity",
+    "name_zh": "Raycast Pro 学生五折",
+    "name_en": "Raycast Pro 50% Off for Students",
+    "domain": "raycastapp.typeform.com",
+    "desc_zh": "认证学生可申请 Raycast Pro 五折（不含更高档 AI 加购）。填写官方表单，审核通过后用优惠码开通。",
+    "desc_en": "Verified students get 50% off Raycast Pro (not higher AI add-ons). Apply via the official form; redeem the promo code after approval.",
+    "badges_zh": [
+      "50% 折扣"
+    ],
+    "badges_en": [
+      "50% off"
+    ]
+  },
+  {
+    "slug": "screen-studio-40-educational-discount",
+    "category": "productivity",
+    "name_zh": "Screen Studio 教育优惠 40%",
+    "name_en": "Screen Studio 40% Educational Discount",
+    "domain": "screen.studio",
+    "desc_zh": "有大学或教育机构邮箱可自动获 Screen Studio 四折优惠。没有机构邮箱可把学生证发到 team@screen.studio 领取折…",
+    "desc_en": "A university or institutional email unlocks 40% off Screen Studio automatically. No school email? Send a student ID to team@screen.studio for a…",
+    "badges_zh": [
+      "40% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "40% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "languagetool-premium-up-to-20-off-for-students",
+    "category": "productivity",
+    "name_zh": "LanguageTool Premium 学生/教师最高 8 折",
+    "name_en": "LanguageTool Premium: up to 20% Off for Students",
+    "domain": "languagetool.org",
+    "desc_zh": "学生、教师、教授符合条件可享 Premium 最高约 20% 教育折扣。语法、拼写、文体检查，支持 30 多种语言…",
+    "desc_en": "Eligible students, teachers, and professors can get up to 20% off LanguageTool Premium. Grammar, spelling, and style checks in 30+ languages; Word…",
+    "badges_zh": [
+      "20% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "20% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "excalidraw-for-education",
+    "category": "productivity",
+    "name_zh": "Excalidraw 教育优惠",
+    "name_en": "Excalidraw for Education",
+    "domain": "plus.excalidraw.com",
+    "desc_zh": "师生可免费使用 Excalidraw 白板。用教育邮箱注册后，Excalidraw+ 有教育价（法文官方页写明约 $4/月或 $36/年）…",
+    "desc_en": "Students and teachers can use the Excalidraw whiteboard for free. An educational email unlocks reduced Excalidraw+ pricing (the French official page…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "xmind-education-pricing",
+    "category": "productivity",
+    "name_zh": "Xmind 教育价",
+    "name_en": "Xmind Education Pricing",
+    "domain": "xmind.com",
+    "desc_zh": "学生和教师购买 Xmind 可走教育价。教育页展示 Premium 约 $3.42/月（另有划线价），需提交在读或在职证明，以结算页为准。",
+    "desc_en": "Students and educators can buy Xmind at the education price. The education page shows Premium at about $3.42/month. Proof of status is required…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "glasp-pro-student-discount",
+    "category": "productivity",
+    "name_zh": "Glasp Pro 学生年付 6 折",
+    "name_en": "Glasp Pro Student Discount",
+    "domain": "glasp.co",
+    "desc_zh": "用.edu 或.ac 结尾的大学邮箱完成验证后，Glasp Pro 年付可享 6 折。月付不参加，且为限时优惠。",
+    "desc_en": "Verified university students with a.edu or.ac email get 40% off Glasp Pro yearly. Monthly plans are excluded. The offer is limited-time.",
+    "badges_zh": [
+      "40% 折扣"
+    ],
+    "badges_en": [
+      "40% off"
+    ]
+  },
+  {
+    "slug": "rolesharp-student-premium-6-months",
+    "category": "productivity",
+    "name_zh": "RoleSharp 学生 Premium（6 个月）",
+    "name_en": "RoleSharp Student Premium (6 Months)",
+    "domain": "rolesharp.com",
+    "desc_zh": "用学校邮箱验证后，可免费使用 6 个月 RoleSharp Student Premium：每月 2 份定制简历、求职信、面试准备和无水印…",
+    "desc_en": "Verify a university email to get 6 months of RoleSharp Student Premium free: 2 tailored resumes a month, cover letters, interview prep, and…",
+    "badges_zh": [
+      "免费 6 个月"
+    ],
+    "badges_en": [
+      "6 months free"
+    ]
+  },
+  {
+    "slug": "mindmap-ai-student-discount",
+    "category": "productivity",
+    "name_zh": "MindMap AI 学生折扣",
+    "name_en": "MindMap AI Student Discount",
+    "domain": "mindmapai.app",
+    "desc_zh": "用学生邮箱申请后，MindMap AI 学生价可超过 7 折：Basic 由 $9.99 降至 $2.99/月…",
+    "desc_en": "Students can get over 70% off MindMap AI: Basic drops from $9.99 to $2.99/month, Pro from $14.99 to $4.49/month. The code is emailed within about 48…",
+    "badges_zh": [
+      "70% 折扣"
+    ],
+    "badges_en": [
+      "70% off"
+    ]
+  },
+  {
+    "slug": "pdf2go-for-education",
+    "category": "productivity",
+    "name_zh": "PDF2Go 教育账户",
+    "name_en": "PDF2Go for Education",
+    "domain": "pdf2go.com",
+    "desc_zh": "学生和教师用学校邮箱注册后，多数情况会自动开通 PDF2Go 教育高级功能，只限非商用，在读或在职期间可免费续。",
+    "desc_en": "Students and teachers who sign up with a school email usually get PDF2Go educational premium tools automatically. Use is non-commercial, and the…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "highland-2-student-edition",
+    "category": "productivity",
+    "name_zh": "Highland 2 学生版（一年）",
+    "name_en": "Highland 2 Student Edition",
+    "domain": "highland2.app",
+    "desc_zh": "高校写作项目（含电影学院）在读学生可免费使用 Highland 2 完整版一年。用学校邮箱和学生证申请，通过后在 Mac 版里解锁。",
+    "desc_en": "Students in university writing programs, including film schools, can use the full Highland 2 free for one year. Apply with a school email and student…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "loom-for-education",
+    "category": "productivity",
+    "name_zh": "Loom 教育场景",
+    "name_en": "Loom for Education",
+    "domain": "loom.com",
+    "desc_zh": "Loom 的教育页介绍用录屏做讲解、作业说明和答疑。该页没有单独的免费教育许可或学生折扣。",
+    "desc_en": "Loom’s education page shows how to use screen recordings for lessons, assignments, and answers. It does not list a separate free education license or…",
+    "badges_zh": [
+      "折扣"
+    ],
+    "badges_en": [
+      "Discount"
+    ]
+  },
+  {
+    "slug": "linear-education-program",
+    "category": "productivity",
+    "name_zh": "Linear 教育折扣",
+    "name_en": "Linear Education Program",
+    "domain": "linear.app",
+    "desc_zh": "高校全日制学生可申请 Linear Basic 或 Business 一年全免，用于学生项目和社团。教职工约 75% 折扣…",
+    "desc_en": "Full-time college students can get Linear Basic or Business free for one year for student-led programs and clubs. University staff can get about 75%…",
+    "badges_zh": [
+      "75% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "75% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "roundpie-for-github-students",
+    "category": "productivity",
+    "name_zh": "RoundPie 学生 Lite",
+    "name_en": "RoundPie for GitHub Students",
+    "domain": "theroundpie.com",
+    "desc_zh": "GitHub Student Developer Pack 学生可免费使用 RoundPie Lite：最多 3 个任务工具集成、近 6 个…",
+    "desc_en": "GitHub Student Developer Pack members get RoundPie Lite free: up to 3 task-tool integrations and 6 months of activity history. It can be extended…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  }
+]

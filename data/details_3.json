@@ -1,0 +1,252 @@
+[
+  {
+    "slug": "wandb-academic",
+    "name_zh": "Weights & Biases 学术免费",
+    "name_en": "Weights & Biases Free for Academics",
+    "domain": "wandb.ai",
+    "desc_zh": "学生、教师和高校科研人员可以一直免费使用 W&B，用来记录实验、对比模型、做报告和团队协作，对接 PyTorch、Keras、JAX、Hugging Face 等。页面写明 Always free，不是限时券。课堂和实验室有入门材料，也有免费课程。学校若要办活动，可以在页面联系。论文里用了 W&B 的，官方希望引用并邮件告知。",
+    "desc_en": "Students, teachers, and university researchers can use W&B for free indefinitely to log experiments, compare models, create reports, and collaborate with teams, with integration for PyTorch, Keras, JAX, Hugging Face, and more. The page states it's 'Always free,' not a time-limited offer. Introductory materials and free courses are available for classrooms and labs. Schools wishing to host events can contact the page. If you use W&B in your papers, the official team would appreciate a citation and an email notification.",
+    "claim_zh": "1. 用学校身份点击本页的「前往官网领取」注册。学术免费按官网对学生、教师和高校科研人员开放。\n2. 在训练脚本里接入实验记录。课堂或实验室可先看页面上的免费教程和课程。",
+    "claim_en": "1. Use your university affiliation to click 'Go to Official Website to Claim' on this page and register. The academic free plan is available to students, teachers, and university researchers as outlined on the official website.\n2. Integrate experiment logging into your training scripts. For classrooms or labs, you can first review the free tutorials and courses on the page."
+  },
+  {
+    "slug": "antigravity-for-scientists",
+    "name_zh": "Google Antigravity 科研人员免费最高档",
+    "name_en": "Google Antigravity Free Access to the Highest Tier for Researchers",
+    "domain": "antigravity.google",
+    "desc_zh": "最多 1 万名入选的科研人员，可免费使用 Google Antigravity 最高用量档 6 个月，并使用 Gemini 4 Argon。面向在大学、可授学位的院校、非营利研究机构或国家实验室从事非商业科研的人，包括教师、实验室负责人、博后、博士和硕士。每周滚动审核，只通知入选的人，提交申请不代表一定通过。额度加在提交表单时登录的那个 Google 账号上，走的是个人版，不是学校的 Gemini Enterprise。",
+    "desc_en": "Up to 10,000 selected researchers will receive free access to the highest usage tier of Google Antigravity for 6 months, along with access to Gemini 4 Argon. This offer is for individuals engaged in non-commercial research at universities, degree-granting institutions, non-profit research organizations, or national laboratories, including faculty, lab directors, postdoctoral researchers, PhD students, and master's students. Applications are reviewed on a rolling weekly basis, and only selected applicants will be notified. Submitting an application does not guarantee approval. The allocation will be added to the Google account used to log in when submitting the form, under the personal version of the service, not the school's Gemini Enterprise account.",
+    "claim_zh": "1. 用打算接收额度的 Google 账号登录。个人 Gmail 和学校的 Workspace 账号都可以。学校账号要先确认能登录 Antigravity。\n2. 在科学用途页点「在此申请」。填写所在机构、机构邮箱，以及实验室或课题组的公开网页。\n3. 至少提供一个有效的 ORCID，或一个有效的 Google Scholar 主页。两个都没有的申请不会被考虑。\n4. 用 3 到 4 句话说明未来 6 到 12 个月要做的研究，至少 300 个字符。不要写保密或专有内容。\n5. 入选后，最高档会加到提交时登录的账号上，为期 6 个月。没有入选不会收到通知。",
+    "claim_en": "1. Log in with the Google account you want to receive the allocation. Both personal Gmail accounts and institutional Workspace accounts are acceptable. If using an institutional account, confirm first that it has access to Antigravity.\n2. On the scientific use page, click \"Apply here.\" Provide your institution, institutional email address, and a public webpage for your lab or research group.\n3. Include at least one valid ORCID or a valid Google Scholar profile. Applications without either will not be considered.\n4. Describe your research plans for the next 6 to 12 months in 3 to 4 sentences, totaling at least 300 characters. Do not include confidential or proprietary information.\n5. If selected, the highest tier will be added to the account used during submission for a period of 6 months. Unsuccessful applicants will not receive a notification."
+  },
+  {
+    "slug": "dify-ai-agent-platform",
+    "name_zh": "Dify 教育专业版",
+    "name_en": "Dify Education Professional Edition",
+    "domain": "dify.ai",
+    "desc_zh": "Dify 是搭建 AI 应用和智能体的平台。教育用户可以申请教育专业版，通过后免费使用一年。",
+    "desc_en": "Dify is a platform for building AI applications and agents. Education users can apply for the Education Professional Edition and use it for free for one year upon approval.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，用学校邮箱注册 Dify。\n2. 按教育页提交申请，说明你是学生或教师。\n3. 审核通过后开通一年教育专业版。到期前看页面是否还能续。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page and register for Dify using your school email.\n2. Submit an application on the education page, explaining that you are a student or teacher.\n3. After approval, you will gain access to the Education Professional Edition for one year. Check the page before expiration to see if it can be renewed."
+  },
+  {
+    "slug": "claude-builder-club-free-claude-pro-education",
+    "name_zh": "Claude Builder Club 教育账户",
+    "name_en": "Claude Builder Club - Free Claude Pro / Education",
+    "domain": "form.jotform.com",
+    "desc_zh": "Claude Builder Club 面向学生和教育者提供免费的 Claude Pro 或 Claude 教育版账户，助力学习和研究。",
+    "desc_en": "Claude Builder Club offers eligible students and educators a free Claude Pro or Claude education account to support learning and research.",
+    "claim_zh": "1. 访问申请表单：本页的「前往官网领取」\n2. 填写个人信息及教育机构相关信息\n3. 提交申请，等待审核通知\n4. 审核通过后将收到 Claude Pro 或教育版账户",
+    "claim_en": "1. Visit the application form: the \"Get it on the official site\" button on this page\n2. Fill in personal information and information about your educational institution\n3. Submit the application and wait for review notification\n4. After approval, you will receive a Claude Pro or education account"
+  },
+  {
+    "slug": "anthropic-claude-for-education",
+    "name_zh": "Anthropic Claude教育版",
+    "name_en": "Anthropic Claude for Education",
+    "domain": "anthropic.com",
+    "desc_zh": "Anthropic与Northeastern University、LSE和Champlain College等高校合作，为教育机构提供Claude AI服务",
+    "desc_en": "Campus wide partnerships: Northeastern University, LSE and Champlain College providing Claude AI services for educational institutions",
+    "claim_zh": "Anthropic Claude for Education为高等教育机构提供先进的AI助手服务。通过与知名大学的合作伙伴关系，学生和教职员工可以使用Claude进行学术研究、写作辅助、代码编程等教育相关任务。需要通过合作院校申请访问权限。",
+    "claim_en": "Anthropic Claude for Education provides advanced AI assistant services for higher education institutions. Through partnerships with leading universities, students and faculty can use Claude for academic research, writing assistance, coding, and other education-related tasks. Access must be requested through a partner institution."
+  },
+  {
+    "slug": "tavily-student-4-months-project-plan-free",
+    "name_zh": "Tavily 学生免费 4 个月 Project（4000 credits/月）",
+    "name_en": "Tavily Student: 4 Months Project Plan Free",
+    "domain": "help.tavily.com",
+    "desc_zh": "学生可免费领取 4 个月 Tavily Project：每月 4000 API credits，适合课程、科研和黑客松。用学校邮箱或学生证向客服验证即可。",
+    "desc_en": "Students get 4 months of Tavily Project free (4,000 API credits/month) for research, coursework, and hackathons. Verify with a school email or student ID.",
+    "claim_zh": "1. 注册 Tavily 账号：tavily.com\n2. 用学校邮箱发信至 [email protected]，或向客服提供学生证，完成学生身份验证。\n3. 通过后会收到优惠码。打开账号 Billing 页，在 Project Plan 点 Upgrade，填入优惠码即可开通。\n\n说明：Project 含每月 4000 API credits，为期 4 个月。适用于课程、科研、黑客松等。详见本页的「前往官网领取」",
+    "claim_en": "1. Register a Tavily account: tavily.com\n2. Email [email protected] from your school email, or provide your student ID to support to verify your student status.\n3. After approval, you'll receive a discount code. Open your account's Billing page, click Upgrade on Project Plan, and enter the discount code to activate.\n\nNote: Project includes 4000 API credits per month for 4 months. Suitable for courses, research, hackathons, etc. See the \"Get it on the official site\" button on this page"
+  },
+  {
+    "slug": "claude-free-version-ended",
+    "name_zh": "Claude 高校免费版（已结束）",
+    "name_en": "Claude Free Version for High Schools (Ended)",
+    "domain": "claude.northeastern.edu",
+    "desc_zh": "东北大学、伦敦政治经济学院、尚普兰学院等学校曾经向本校账号提供免费 Claude。该校内通道已结束，现在不能按旧入口领取。",
+    "desc_en": "Schools such as Northeastern University, the London School of Economics and Political Science, and Champlain College previously offered free Claude access to their student accounts. This on-campus access has now ended, and it is no longer possible to obtain it through the old entry point.",
+    "claim_zh": "这个福利已经结束。不要再按旧教程注册或向同学索要入口。是否还有本校合作，以学校自己的通知为准。",
+    "claim_en": "This benefit has ended. Do not follow the old registration instructions or ask classmates for access. For any ongoing partnerships with your school, please refer to official announcements from the school itself."
+  },
+  {
+    "slug": "github-nonprofit",
+    "name_zh": "GitHub 非营利组织折扣",
+    "name_en": "GitHub Nonprofit Discount",
+    "domain": "github.com",
+    "desc_zh": "501(c)(3) 或当地同等资格的非营利组织，可以免费使用 GitHub Team，或在 GitHub Enterprise Cloud 上享受 75 折。这和 GitHub 学生开发者包不是同一项，学生不能拿个人账号申请。",
+    "desc_en": "501(c)(3) or locally equivalent qualified nonprofits can use GitHub Team for free, or enjoy a 25% discount on GitHub Enterprise Cloud. This is a separate program from the GitHub Student Developer Pack, and students cannot apply using their personal accounts.",
+    "claim_zh": "1. 准备慈善登记证明。点击本页的「前往官网领取」，按页面上的联系方式写信给 GitHub Social Impact。\n2. 说明要免费 Team，还是 Enterprise Cloud 的 75 折。\n3. 等审核邮件。通过后再在组织账号里升级，不要用个人学生包的入口。",
+    "claim_en": "1. Prepare proof of charitable registration. Click \"Go to official website to claim\" on this page and contact GitHub Social Impact using the contact information provided.\n2. Specify whether you want free Team access or the 25% discount on Enterprise Cloud.\n3. Wait for the approval email. After approval, upgrade within your organization's account—do not use the personal Student Developer Pack portal."
+  },
+  {
+    "slug": "testmail",
+    "name_zh": "testmail.app 教育与开源支持",
+    "name_en": "testmail.app Education and Open Source Support",
+    "domain": "testmail.app",
+    "desc_zh": "GitHub 学生包在读期间提供 Essential 方案（约 $9/月）：每月 1 万封测试邮件、完整 API、1 到 3 天保留和一个随机 namespace。教师、开源项目和非营利组织可写信申请教育或公益用途。",
+    "desc_en": "The GitHub Student Pack provides the Essential plan (about $9/month) during your studies: 10,000 test emails per month, a full API, a retention period of 1 to 3 days, and a random namespace. Teachers, open-source projects, and non-profit organizations can apply for educational or charitable use by sending an email.",
+    "claim_zh": "1. 学生先完成 GitHub Education 认证，再从学生包里的 Testmail 入口开通 Essential。\n2. 教师、开源维护者或非营利组织发邮件到 support@testmail.app，说明教育或公益用途。",
+    "claim_en": "1. Students should first complete the GitHub Education verification, then activate the Essential plan through the Testmail portal within the Student Pack.\n2. Teachers, open-source maintainers, or non-profit organizations should email support@testmail.app, explaining their educational or charitable purpose."
+  },
+  {
+    "slug": "flutterflow",
+    "name_zh": "FlutterFlow 教育优惠",
+    "name_en": "FlutterFlow Education Discount",
+    "domain": "flutterflow.io",
+    "desc_zh": "FlutterFlow 是用可视化方式做 Flutter 应用的平台。学生和教师可以按教育方案申请优惠，具体档位以价格页为准。",
+    "desc_en": "FlutterFlow is a platform for building Flutter apps visually. Students and teachers can apply for discounts under educational programs; specific tiers are subject to the pricing page.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，查看标了学生或教育的方案。\n2. 用学校邮箱注册，并按页面完成身份验证后再升级。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page to view plans labeled for students or education.\n2. Register with your school email, complete identity verification on the page, and then upgrade."
+  },
+  {
+    "slug": "sqlpro-studio-database-client",
+    "name_zh": "SQLPro Studio 学生价",
+    "name_en": "SQLPro Studio Student Price",
+    "domain": "sqlprostudio.com",
+    "desc_zh": "SQLPro Studio 是 macOS 和 iOS 上的数据库客户端，学生可以按教育价购买，用来连接和管理多种数据库。",
+    "desc_en": "SQLPro Studio is a database client for macOS and iOS. Students can purchase it at an educational discount to connect to and manage multiple databases.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，查看当前学生价。\n2. 用学校邮箱或学生证明下单。价格以结账页为准。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page to check the current student price.\n2. Place your order using your school email or student verification. The price is subject to the checkout page."
+  },
+  {
+    "slug": "unreal-engine",
+    "name_zh": "虚幻引擎学生许可",
+    "name_en": "Unreal Engine Student License",
+    "domain": "unrealengine.com",
+    "desc_zh": "虚幻引擎对学生和教育免费。学生许可可以发布项目；如果总收入超过 100 万美元，才按虚幻引擎的版税规则支付。课程作业和个人作品一般碰不到这个门槛。",
+    "desc_en": "Unreal Engine is free for students and educational institutions. The student license allows you to publish projects; royalties under Unreal Engine's terms apply only if total revenue exceeds $1 million. Course assignments and personal projects typically won't reach this threshold.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，用 Epic Games 账号登录。\n2. 选择学生或学校许可并完成验证，然后再安装引擎。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page and log in with your Epic Games account.\n2. Select the student or school license, complete verification, and then install the engine."
+  },
+  {
+    "slug": "lovable-pro-50-off-for-students",
+    "name_zh": "Lovable Pro 学生五折",
+    "name_en": "Lovable Pro 50% Off for Students",
+    "domain": "lovable.dev",
+    "desc_zh": "认证高校学生（及教师）可享 Lovable Pro 五折，例如 100 credits 方案约 $12.50/月，最长 12 个月。用学校邮箱或学生证验证，仅限当前免费套餐用户。",
+    "desc_en": "Verified students (and teachers) get 50% off Lovable Pro — e.g. the 100-credit plan about $12.50/mo — for up to 12 months. Verify with a school email or student ID. Free-plan accounts only.",
+    "claim_zh": "1. 用学校邮箱登录 Lovable（需仍是免费套餐）。\n2. 打开本页的「前往官网领取」，点 Verify Student Status，用学校邮箱或学生证核验。全球多数认证高校可用。\n3. 通过后按学生价订阅。折扣最长 12 个月；取消后再订无法重新激活该折扣。\n\n教师也可用学术邮箱领取学生价；若要给整班开通，可看 lovable.dev/partners/education。",
+    "claim_en": "1. Sign in to Lovable with your school email (you must still be on the free plan).\n2. Go to the \"Get it on the official site\" button on this page, click Verify Student Status, and verify with your school email or student ID. Available at most accredited universities worldwide.\n3. After approval, subscribe at the student price. The discount lasts up to 12 months; if you cancel and resubscribe, you cannot reactivate the discount.\n\nTeachers can also get the student price with an academic email; to set it up for a whole class, see lovable.dev/partners/education."
+  },
+  {
+    "slug": "travis-ci-for-education",
+    "name_zh": "Travis CI 教育账户",
+    "name_en": "Travis CI for Education",
+    "domain": "travis-ci.com",
+    "desc_zh": "GitHub Education 学生可自动获得免费 Travis CI：1 个并发任务，可添加协作者。需遵守合理使用。",
+    "desc_en": "If your GitHub account is in GitHub Education, Travis CI gives you a free account automatically: one concurrent job and as many collaborators as you need. Fair use applies.",
+    "claim_zh": "1. 确认 GitHub 账号已加入 GitHub Education。\n2. 打开本页的「前往官网领取」，用该 GitHub 账号登录即可自动开通。\n3. 学生账户为 1 个并发任务。",
+    "claim_en": "1. Make sure your GitHub account is enrolled in GitHub Education.\n2. Open the \"Get it on the official site\" button on this page and log in with that GitHub account to activate it automatically.\n3. Student accounts have 1 concurrent job."
+  },
+  {
+    "slug": "deepscan-for-github-students",
+    "name_zh": "DeepScan 学生 6 个月",
+    "name_en": "DeepScan for GitHub Students",
+    "domain": "deepscan.io",
+    "desc_zh": "GitHub 学生可免费试用 DeepScan 6 个月，用于 JavaScript 代码质量检查，并和 GitHub 推送集成。每个用户限领一次。",
+    "desc_en": "GitHub students get a free 6-month DeepScan trial for JavaScript code quality, integrated with GitHub pushes. One redemption per user.",
+    "claim_zh": "1. 先加入 GitHub Student Developer Pack。\n2. 打开本页的「前往官网领取」，点 Get the Student Offer。\n3. 需用免费方案的团队领取，不能和入门试用叠加。失去 Pack 资格后会降回免费版。",
+    "claim_en": "1. Join the GitHub Student Developer Pack first.\n2. Open the \"Get it on the official site\" button on this page and click Get the Student Offer.\n3. Must be claimed by a team on the free plan; it cannot be combined with the Intro trial. After losing Pack eligibility, it reverts to the free version."
+  },
+  {
+    "slug": "popsql-for-github-students",
+    "name_zh": "PopSQL 学生 Business",
+    "name_en": "PopSQL for GitHub Students",
+    "domain": "popsql.com",
+    "desc_zh": "GitHub Student Developer Pack 学生可免费使用 PopSQL Business。页面未写明固定月数，问题可写 students@popsql.com。",
+    "desc_en": "GitHub Student Developer Pack members get the PopSQL Business plan free. The page does not state a fixed number of months. Questions go to students@popsql.com.",
+    "claim_zh": "1. 先通过 GitHub Student Developer Pack。\n2. 打开本页的「前往官网领取」领取 Business。\n3. 需要帮助写 students@popsql.com。",
+    "claim_en": "1. First get approved for the GitHub Student Developer Pack.\n2. Open the \"Get it on the official site\" button on this page to claim Business.\n3. For help, email students@popsql.com."
+  },
+  {
+    "slug": "bolt-new",
+    "name_zh": "bolt.new 学生和教师优惠",
+    "name_en": "bolt.new Student and Teacher Discount",
+    "domain": "bolt.new",
+    "desc_zh": "bolt.new 是 AI 编程工作区。学生验证后 Pro 五折；教师提交证明并审核通过后，可以获得一年 Pro。",
+    "desc_en": "bolt.new is an AI coding workspace. Students get 50% off Pro after verification; teachers can receive one year of Pro after submitting proof and passing review.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，学生提交教育邮箱，教师提交在职证明。\n2. 等审核结果。学生是 Pro 五折，教师通过后是一年 Pro。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page. Students should submit their educational email, while teachers should submit proof of employment.\n2. Wait for the review results. Students will receive 50% off Pro, and teachers will get one year of Pro upon approval."
+  },
+  {
+    "slug": "stusite-me-free-student-domain",
+    "name_zh": "StuSite.me 学生免费域名",
+    "name_en": "StuSite.me Free Student Domain",
+    "domain": "stusite.me",
+    "desc_zh": "学生免费领取.stusite.me 域名，无需信用卡，可绑定 GitHub Pages、Vercel 等托管服务。用.edu 邮箱可注册 1 个（有效 90 天），上传在学证明可注册 5 个（有效 1 年）。",
+    "desc_en": "Free.stusite.me domains for students, no credit card needed. Point them at GitHub Pages, Vercel or any host. An.edu email gets 1 domain for 90 days; proof of enrollment gets 5 domains for a year.",
+    "claim_zh": "1. 打开 dash.stusite.me 注册账号\n2. 用.edu 邮箱验证（Basic：1 个域名，90 天），或上传在学证明（5 个域名，365 天）\n3. 选择想要的.stusite.me 域名\n4. 在控制面板添加 A 或 CNAME 记录，指向 GitHub Pages、Vercel 等",
+    "claim_en": "1. Open dash.stusite.me and register an account\n2. Verify with a.edu email (Basic: 1 domain, 90 days), or upload proof of enrollment (5 domains, 365 days)\n3. Choose the.stusite.me domain you want\n4. In the control panel, add an A or CNAME record pointing to GitHub Pages, Vercel, etc."
+  },
+  {
+    "slug": "airtable-education-plan",
+    "name_zh": "Airtable 教育计划",
+    "name_en": "Airtable Education Plan",
+    "domain": "support.airtable.com",
+    "desc_zh": "拥有.edu 邮箱的学生和教师注册 Airtable 账户并创建工作区后，即可立即获得 120 天团队版试用计划。",
+    "desc_en": "Students and educators with a.edu email address can get an immediate 120-day trial of the Team plan after signing up for an Airtable account and creating a workspace.",
+    "claim_zh": "1. 使用.edu 邮箱注册 Airtable 账号（airtable.com）\n2. 创建一个新工作区\n3. 系统自动识别教育邮箱并激活 120 天团队版试用\n4. 详细说明参见：本页的「前往官网领取」",
+    "claim_en": "1. Sign up for an Airtable account with a.edu email (airtable.com)\n2. Create a new workspace\n3. The system automatically recognizes the education email and activates the 120-day Team plan trial\n4. See details at: the \"Get it on the official site\" button on this page"
+  },
+  {
+    "slug": "quark-app-student-verification",
+    "name_zh": "夸克学生认证",
+    "name_en": "Quark Student Verification",
+    "domain": "act.quark.cn",
+    "desc_zh": "夸克的学生和教师认证通过后，AI 会员、网盘会员和扫描王会员各送 3 个月。三个会员要分别到账，不是一个会员通吃所有功能。",
+    "desc_en": "After Quark students and teachers complete verification, they will receive 3 months free for each of the following: AI membership, cloud storage membership, and Scan King membership. These three memberships will be credited separately; one membership does not grant access to all features.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，用夸克账号登录并选择学生或老师。\n2. 按页面完成认证。通过后分别查看 AI、网盘和扫描王的到期日。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page, log in with your Quark account, and select whether you are a student or teacher.\n2. Complete the verification process as instructed on the page. Once verified, check the expiration dates for your AI, cloud storage, and Scan King memberships separately."
+  },
+  {
+    "slug": "otter-ai-student-and-teacher-pro-discount",
+    "name_zh": "Otter.ai 学生教师 Pro 折扣计划",
+    "name_en": "Otter.ai Student & Teacher Pro Discount",
+    "domain": "help.otter.ai",
+    "desc_zh": "Otter.ai 是 AI 驱动的实时语音转文字与会议笔记工具，可自动生成课堂、会议的文字摘要与回放。学生教师折扣计划为合格的在校学生、教职人员及全职员工提供 Pro 个人月付/年付计划的专属折扣。适用机构包括非营利教育机构、经认证的中小学与高等院校及学区。使用学校邮箱（.edu 等）注册后，在升级页面选择\"Student & Teacher Discount\"即可享受折扣价结算。注意：折扣仅限个人 Pro 计划，不含 Workspace 协作功能。",
+    "desc_en": "Otter.ai is an AI-powered real-time speech-to-text and meeting notes tool that automatically generates transcripts, summaries, and playback for classes and meetings. The Student & Teacher discount program offers reduced pricing on the Pro individual monthly or annual plan for eligible students, faculty, and full-time staff at nonprofit educational institutions, accredited K-12 and higher education institutions, and school districts. Sign up with your school email (.edu), then select \"Student & Teacher Discount\" at the upgrade page. Note: Workspace features are not included; individual Pro plan only.",
+    "claim_zh": "1. 使用学校邮箱（如 xxx@university.edu）在 otter.ai 注册免费 Basic 账号。2. 登录后点击左上角头像 → \"Upgrade plan\"。3. 在方案栏下方点击\"Student & Teacher Discount\"链接。4. 按提示完成付款（仅支持信用卡），折扣将自动在结算时应用。如邮箱域名不含.edu，可联系 Otter 支持团队提交学校认证文件进行人工审核。注意：须先退出 Workspace 才能使用此折扣。",
+    "claim_en": "1. Use a school email (e.g., xxx@university.edu) to sign up for a free Basic account at otter.ai.\n2. After logging in, click the avatar in the upper-left corner → \"Upgrade plan\".\n3. Below the plan section, click the \"Student & Teacher Discount\" link.\n4. Follow the prompts to complete payment (credit card only); the discount will be automatically applied at checkout. If the email domain does not include.edu, contact Otter support to submit school verification documents for manual review. Note: You must sign out of Workspace first to use this discount."
+  },
+  {
+    "slug": "languagetool-premium-up-to-20-off-for-students",
+    "name_zh": "LanguageTool Premium 学生/教师最高 8 折",
+    "name_en": "LanguageTool Premium: up to 20% Off for Students",
+    "domain": "",
+    "desc_zh": "学生、教师、教授符合条件可享 Premium 最高约 20% 教育折扣。语法、拼写、文体检查，支持 30 多种语言，可装 Word / Google Docs。",
+    "desc_en": "Eligible students, teachers, and professors can get up to 20% off LanguageTool Premium. Grammar, spelling, and style checks in 30+ languages; Word and Google Docs add-ons.",
+    "claim_zh": "1. 打开本页的「前往官网领取」了解学生/学术写作场景。\n2. 学生页本身不标折扣数字。官方帮助写明：学生、教师、教授符合条件可享 Premium 最高约 20% 教育折扣（help.languagetool.org/hc/en-us/articles/39254510973335-What-subscriptions-does-LanguageTool-offer）。\n3. 去 Premium 订阅，结账可试 EDUCATION 优惠码：languagetool.org/premium?coupon=EDUCATION\n4. 浏览器插件或 Word / Google Docs / LibreOffice 扩展登录同一账号即可。免费版只改基础拼写标点。",
+    "claim_en": "1. Open the \"Get it on the official site\" button on this page to learn about student/academic writing use cases.\n2. The student page itself does not list discount figures. Official help states: eligible students, teachers, and professors can get up to about 20% off Premium with an education discount (help.languagetool.org/hc/en-us/articles/39254510973335-What-subscriptions-does-LanguageTool-offer).\n3. Go to the Premium subscription, and at checkout you can try the EDUCATION coupon code: languagetool.org/premium?coupon=EDUCATION\n4. Just sign in with the same account in the browser extension or the Word / Google Docs / LibreOffice add-in. The free version only corrects basic spelling and punctuation."
+  },
+  {
+    "slug": "pdf2go-for-education",
+    "name_zh": "PDF2Go 教育账户",
+    "name_en": "PDF2Go for Education",
+    "domain": "pdf2go.com",
+    "desc_zh": "学生和教师用学校邮箱注册后，多数情况会自动开通 PDF2Go 教育高级功能，只限非商用，在读或在职期间可免费续。",
+    "desc_en": "Students and teachers who sign up with a school email usually get PDF2Go educational premium tools automatically. Use is non-commercial, and the license can be renewed for free while you study or teach.",
+    "claim_zh": "1. 打开本页的「前往官网领取」，用学校邮箱点 Get started。\n2. 学校能自动识别时，教育高级功能会直接开通；否则联系官方。\n3. 不得用于商业产品，也不得把许可分享给他人。",
+    "claim_en": "1. Go to the \"Get it on the official site\" button on this page and click Get started with your school email.\n2. If your school can be recognized automatically, education premium features will be activated directly; otherwise, contact the official team.\n3. Do not use it for commercial products, and do not share the license with others."
+  },
+  {
+    "slug": "1001-record-education-discount-paused",
+    "name_zh": "1001 Record 教育折扣（已暂停）",
+    "name_en": "1001 Record Education Discount (Paused)",
+    "domain": "1001record.com",
+    "desc_zh": "1001 Record 教育折扣已暂停。页面仍保留旧说明：学生和教师第一年 $9.99，但现在不能申请。",
+    "desc_en": "The 1001 Record education discount is paused. The page still mentions $9.99 for the first year for students and educators, but new requests are not being accepted.",
+    "claim_zh": "官网已写明 Education Discount Paused，正在调整计划。恢复前不要按 $9.99 去申请。问题可写 1001tvs@nero.com。",
+    "claim_en": "The official site states Education Discount Paused and that the plan is being adjusted. Do not apply at $9.99 until it resumes. Questions can be sent to 1001tvs@nero.com."
+  },
+  {
+    "slug": "exploratory-academic-plan",
+    "name_zh": "Exploratory 学术计划",
+    "name_en": "Exploratory Academic Plan",
+    "domain": "exploratory.io",
+    "desc_zh": "在读学生和教师（含教授）用学校邮箱可免费注册 Exploratory 学术计划，含桌面端数据分析，以及共享服务器上的项目分享和 500MB 空间。",
+    "desc_en": "Current students and teachers, including professors, can sign up free for the Exploratory Academic plan with a school email. It includes Exploratory Desktop plus project sharing and 500MB on the shared server.",
+    "claim_zh": "1. 打开本页的「前往官网领取」。\n2. 选择 Student 或 Teacher，填写学校邮箱和学校名称。\n3. 邮箱无法识别时写 support@exploratory.io。课堂和学业研究可用；机构运营类用途需要付费许可。",
+    "claim_en": "1. Open the \"Get it on the official site\" button on this page.\n2. Select Student or Teacher, and enter your school email and school name.\n3. If your email isn't recognized, email support@exploratory.io. Available for classroom and academic research use; institutional operational use requires a paid license."
+  }
+]

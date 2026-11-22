@@ -1,0 +1,252 @@
+[
+  {
+    "slug": "mistral-education",
+    "name_zh": "Mistral 教育版",
+    "name_en": "Mistral Education Edition",
+    "domain": "chat.mistral.ai",
+    "desc_zh": "学生和教师用学校或教育机构邮箱验证后，可以按教育价订阅 Mistral Pro。个人邮箱不行，学生证和在读证明也不能代替机构邮箱。折扣幅度以结算页为准。",
+    "desc_en": "Students and teachers can subscribe to Mistral Pro at the education rate after verifying their school or educational institution email address. Personal email addresses are not eligible, and student IDs or proof of enrollment cannot replace an institutional email. The discount amount is subject to the checkout page.",
+    "claim_zh": "1. 准备学校或教育机构发的邮箱。Gmail、iCloud、Outlook 这类个人邮箱不能用。\n2. 新账号直接用这个邮箱注册。已有账号的，先把账号邮箱改成机构邮箱。\n3. 点击本页的「前往官网领取」，按教育方案订阅 Pro。\n4. 邮箱域名认不出来时，把域名发给 Mistral 客服。学校不发邮箱的，不能申请。",
+    "claim_en": "1. Prepare an email address issued by your school or educational institution. Personal email services like Gmail, iCloud, and Outlook are not acceptable.\n2. Use this institutional email to register a new account. If you already have an account, first change the account email to your institutional email.\n3. Click \"Go to Official Website to Claim\" on this page and subscribe to Pro under the education plan.\n4. If the email domain cannot be recognized, send the domain to Mistral customer support. If your school does not provide an institutional email, you are not eligible to apply."
+  },
+  {
+    "slug": "granola-for-students",
+    "name_zh": "Granola 学生免费 12 个月",
+    "name_en": "Granola Free for Students for 12 Months",
+    "domain": "granola.ai",
+    "desc_zh": "美国、英国和加拿大认证高校的在读生（含博士）可申请 12 个月免费的 Granola Business，把课堂录音整理成可搜索的笔记。其他国家不在这次活动范围内。",
+    "desc_en": "Currently enrolled students (including doctoral students) at accredited universities in the United States, United Kingdom, and Canada can apply for 12 months of free Granola Business to transcribe classroom recordings into searchable notes. This promotion is not available in other countries.",
+    "claim_zh": "确认学校在美国、英国或加拿大。\n打开页面申请 12 个月 Granola Business，并按要求验证在读身份。",
+    "claim_en": "Confirm that your school is located in the United States, United Kingdom, or Canada.\nOpen the page to apply for 12 months of Granola Business and verify your current student status as required."
+  },
+  {
+    "slug": "manus-ai-agent",
+    "name_zh": "Manus 学生积分",
+    "name_en": "Manus Student Credits",
+    "domain": "manus.im",
+    "desc_zh": "Manus 是 AI 助手。学生注册不需要邀请码，可以直接获得 1000 积分，用于对话和创作。",
+    "desc_en": "Manus is an AI assistant. Students can register without an invitation code and receive 1000 credits directly for conversations and creation.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，用学生身份注册。\n2. 注册完成后查看积分余额。1000 积分用完后的价格以 Manus 当前账单为准。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page and register as a student.\n2. Check your credit balance after registration. The price after the 1000 credits are used up will be based on Manus' current billing."
+  },
+  {
+    "slug": "siliconflow",
+    "name_zh": "硅基流动学生体验金",
+    "name_en": "SiliconFlow Student Trial Credit",
+    "domain": "siliconflow.feishu.cn",
+    "desc_zh": "硅基流动面向学生的新用户体验金，用来试用模型 API。金额和有效期以飞书文档里的当期活动为准。",
+    "desc_en": "A new user trial credit from SiliconFlow for students, intended for testing the model API. The amount and validity period are subject to the current promotion details in the Feishu document.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，阅读当期学生活动说明。\n2. 用活动要求的方式注册。体验金是一次性的，用完或过期就不会再自动补充。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page and read the current student promotion details.\n2. Register using the method specified in the promotion. The trial credit is a one-time offer and will not be automatically replenished once used or expired."
+  },
+  {
+    "slug": "chatgpt-plus-free-for-students",
+    "name_zh": "ChatGPT Plus 学生免费订阅",
+    "name_en": "ChatGPT Plus free student subscription",
+    "domain": "chatgpt.com",
+    "desc_zh": "OpenAI 面向在读大学生推出的 ChatGPT Plus 免费订阅活动。通过 SheerID 验证在校学生身份后，可免费获得数月 ChatGPT Plus 会员（具体时长视活动期次而定，当前活动免费 4 个月）。Plus 包含 GPT-6：聊天里可用 GPT-6 Sol，ChatGPT Work 和 Codex 里包含 GPT-6 Astra，另外还有扩展的深度研究、图像生成、项目、自定义 GPT，以及更高的消息和上传额度。活动仅限美国及加拿大在校大学生参与，需使用学校颁发的.edu 邮箱，免费期结束后将按月自动续费，可随时取消。",
+    "desc_en": "OpenAI's free ChatGPT Plus subscription offer for current university students. After verifying your student status through SheerID, you get several months of ChatGPT Plus at no cost (the exact length depends on the campaign period; the current offer is 4 months free). Plus includes GPT-6: GPT-6 Sol in chat, GPT-6 Astra in ChatGPT Work and Codex, plus extended deep research, image generation, projects, custom GPTs and higher message and upload limits. The offer is limited to current university students in the United States and Canada and requires a school-issued.edu email. After the free period ends, the subscription renews automatically each month and can be canceled at any time.",
+    "claim_zh": "1. 访问本页的「前往官网领取」（如页面空白，请使用全局代理模式或无痕窗口重试）。\n2. 点击「Get Offer」进入 SheerID 验证表单，填写学校名称、姓名、出生日期及学校颁发的.edu 邮箱（不可使用校友邮箱）。\n3. SheerID 会通过学籍数据库自动核验，或要求登录学校 SSO，或要求上传在读证明文件（学生证/注册确认函，需包含姓名和当前学期信息）。\n4. 验证通过后，ChatGPT 账号自动升级为 Plus，免费期届满前请在订阅设置中取消以避免扣款。\n\n注意：仅限美国和加拿大在读大学生，每账号限领一次，不支持高中生。",
+    "claim_en": "1. Go to the \"Get it on the official site\" button on this page (if the page is blank, try again with global proxy mode or an incognito window).\n2. Click \"Get Offer\" to open the SheerID verification form and enter your school name, name, date of birth and school-issued.edu email (alumni email addresses are not accepted).\n3. SheerID will either verify automatically through student enrollment databases, ask you to sign in with your school SSO, or ask you to upload proof of enrollment (student ID/registration confirmation showing your name and current term).\n4. Once verified, your ChatGPT account is upgraded to Plus automatically; cancel in your subscription settings before the free period ends to avoid being charged.\n\nNote: only for current university students in the United States and Canada, one per account, not available to high school students."
+  },
+  {
+    "slug": "claude-for-nonprofits",
+    "name_zh": "Claude 非营利组织优惠",
+    "name_en": "Claude for Nonprofits",
+    "domain": "claude.com",
+    "desc_zh": "合格非营利组织和 K-12 学校可买 Claude Team 优惠价。页面展示约 $8/人/月，低收入和中等收入国家约 $3/人/月，席位约 2–150。需 Goodstack 核验。",
+    "desc_en": "Eligible nonprofits and K-12 schools can buy Claude Team at a nonprofit rate. The page shows about $8 per user per month, or about $3 in low- and middle-income countries, for roughly 2–150 seats. Verify with Goodstack.",
+    "claim_zh": "领取步骤\n\n1.  打开本页的「前往官网领取」。\n2.  20 人以下的组织用 Goodstack 核验（约 2–3 分钟）；更大的组织联系销售。\n3.  资格含美国 501(c)(3) 及国际同等组织、公立和私立 K-12，以及部分基层医疗机构。价格不含税，以结账页为准。",
+    "claim_en": "How to claim\n\n1.  Open the \"Get it on the official site\" button on this page.\n2.  Organizations with fewer than 20 people verify with Goodstack (about 2–3 minutes); larger organizations contact sales.\n3.  Eligibility includes U.S. 501(c)(3) and international equivalent organizations, public and private K-12, and some community health centers. Prices exclude tax and are subject to the checkout page."
+  },
+  {
+    "slug": "you-com-pro-membership-ended",
+    "name_zh": "You.com Pro 高校会员（已结束）",
+    "name_en": "You.com Pro University Membership (Ended)",
+    "domain": "you.com",
+    "desc_zh": "You.com 曾经向高校用户提供一年 Pro，可使用多个模型。该大学通道已结束。",
+    "desc_en": "You.com previously offered a one-year Pro subscription to university users, allowing access to multiple models. This university program has now ended.",
+    "claim_zh": "这个一年 Pro 活动已经结束。是否还有新的教育价，以 You.com 当前页面为准。",
+    "claim_en": "This one-year Pro promotion has ended. For any new educational pricing, please refer to the current You.com page."
+  },
+  {
+    "slug": "amp-education",
+    "name_zh": "Amp Megawatt 教育五折",
+    "name_en": "Amp Megawatt 50% Off for Education",
+    "domain": "ampcode.com",
+    "desc_zh": "学生和教师登录后填表，可以把 Amp Megawatt 从每月 $20 打成 $10。只打 Megawatt，Gigawatt 不参加。官方建议配合已有的 ChatGPT 或 X Premium+、SuperGrok 订阅使用，包含的 $10 用量只够额外试用。已订阅的人下个续费日才生效，不退已付的钱。",
+    "desc_en": "Students and teachers can log in, fill out a form, and reduce the monthly cost of Amp Megawatt from $20 to $10. This discount applies only to Megawatt; Gigawatt is not included. The official recommendation is to use this with an existing ChatGPT, X Premium+, or SuperGrok subscription, as the included $10 credit is only sufficient for an additional trial period. For existing subscribers, the discount will take effect on the next renewal date, and no refunds will be issued for payments already made.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，登录 Amp。\n2. 按页面表格提交学生或教师身份。通过后 Megawatt 显示为每月 $10。\n3. 如果已经在付费，折扣从下次续费开始，不会退之前的费用。活动可以随时调整或停止。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page and log in to Amp.\n2. Submit your student or teacher status via the form on the page. Once approved, Megawatt will be displayed at $10 per month.\n3. If you are already paying, the discount will apply starting from your next renewal; no refunds will be provided for previous payments. This promotion is subject to change or termination at any time."
+  },
+  {
+    "slug": "dbeaver-academic",
+    "name_zh": "DBeaver 学术许可",
+    "name_en": "DBeaver Academic License",
+    "domain": "dbeaver.com",
+    "desc_zh": "正在学关系型或 NoSQL 数据库的学生，可以用真实大学邮箱免费申请 DBeaver Enterprise 或 CloudBeaver 学术许可。审核通过后许可发到邮箱，一般不超过 3 个工作日。",
+    "desc_en": "Students studying relational or NoSQL databases can apply for a free DBeaver Enterprise or CloudBeaver academic license using their official university email address. Once approved, the license will be sent to your email, typically within 3 business days.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，用大学邮箱填写申请，并写明在学的数据库课程或方向。\n2. 等审核邮件。通过后按邮件里的许可安装，不要先买商业版。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page, fill out the application with your university email, and specify the database course or specialization you are currently studying.\n2. Wait for the approval email. After approval, follow the instructions in the email to install the license. Do not purchase the commercial version beforehand."
+  },
+  {
+    "slug": "github-student-developer-pack",
+    "name_zh": "GitHub 学生开发者包",
+    "name_en": "GitHub Student Developer Pack",
+    "domain": "education.github.com",
+    "desc_zh": "年满 13 岁、正在攻读学位或文凭的学生，通过 GitHub Education 认证后，可以领取合作方的开发工具、云额度和域名。教师不能领这个包。认证大约每两年要重做一次，很多合作方优惠从你开通的那天起算，不能反复领。",
+    "desc_en": "Students aged 13 and older who are currently pursuing a degree or diploma can receive developer tools, cloud credits, and domain names from partners after verifying their status through GitHub Education. Teachers are not eligible for this pack. Verification must be repeated approximately every two years. Many partner offers are valid from the date of enrollment and cannot be claimed multiple times.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，用个人 GitHub 账号申请。有学校邮箱就先在账号里验证这个邮箱。\n2. 学校不发邮箱，或域名认不出来时，上传带日期的学生证、课表、成绩单或在读证明。\n3. 通过后再从学生包里逐个打开合作方。每一个都要单独领，不是认证完自动到账。",
+    "claim_en": "1. Click \"Go to the official website to claim\" on this page and apply using your personal GitHub account. If you have a school email address, verify it in your account first.\n2. If your school does not provide an email address or the domain cannot be verified, upload a student ID with a date, a class schedule, a transcript, or proof of enrollment.\n3. After verification, open each partner's offer individually from the Student Pack. Each offer must be claimed separately; they will not be automatically added after verification."
+  },
+  {
+    "slug": "openai-codex-for-students",
+    "name_zh": "OpenAI Codex 学生计划",
+    "name_en": "OpenAI Codex for Students",
+    "domain": "chatgpt.com",
+    "desc_zh": "OpenAI 面向美国和加拿大在读大学生提供 $100 Codex 积分。通过 SheerID 验证学生身份后，积分自动添加到 ChatGPT 账户，可直接在 Codex 中使用，无需单独创建账号。",
+    "desc_en": "OpenAI offers $100 in Codex credits for verified university students in the United States and Canada. Complete student verification via SheerID and credits are automatically added to your ChatGPT account for use in Codex.",
+    "claim_zh": "1. 访问 [本页的](https://xn--8pvn55a0tz/)「前往官网领取」，点击「Claim now」\n2. 使用或注册 ChatGPT 账号登录（无需学校邮箱关联）\n3. 通过 SheerID 完成学生身份验证（提供姓名、院校、学生证等信息）\n4. 验证成功后 $100 积分自动添加到 ChatGPT 账户\n5. 前往 chatgpt.com/codex 即可使用，无需单独注册 Codex 账号\n\n注意：仅限美国或加拿大在读大学生（居住地也须在美/加），每名学生限领一次。",
+    "claim_en": "1. Visit the \"Get it on the official site\" button on this page and click \"Claim now\"\n2. Log in with or sign up for a ChatGPT account (no school email association required)\n3. Complete student verification through SheerID (provide name, institution, student ID, etc.)\n4. After successful verification, $100 in credits are automatically added to your ChatGPT account\n5. Go to chatgpt.com/codex to use it; no separate Codex account registration required\n\nNote: Only for current college students in the United States or Canada (residence must also be in the US/Canada). Limit one per student."
+  },
+  {
+    "slug": "tower-git-client",
+    "name_zh": "Tower Pro 学生版",
+    "name_en": "Tower Pro Student Edition",
+    "domain": "git-tower.com",
+    "desc_zh": "Tower 是 Mac 和 Windows 上的 Git 客户端。学生申请通过后可以使用 Tower Pro，用来管理仓库和解决冲突。",
+    "desc_en": "Tower is a Git client for Mac and Windows. Students who successfully apply can use Tower Pro to manage repositories and resolve conflicts.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，用学校邮箱提交学生申请。\n2. 通过后按邮件里的许可证激活。到期日以邮件为准，不要把它当成永久免费。",
+    "claim_en": "1. Click \"Go to the official website to claim\" on this page and submit your student application using your school email.\n2. After approval, activate your license using the instructions in the email. The expiration date is as stated in the email; do not assume it is permanently free."
+  },
+  {
+    "slug": "smartgit-academic-license",
+    "name_zh": "SmartGit 学术许可",
+    "name_en": "SmartGit Academic License",
+    "domain": "smartgit.dev",
+    "desc_zh": "公立教育机构的学生和教职工可申请免费非商用 SmartGit 许可。需真实姓名，学校邮箱域名要在官方名单内，人工审核后邮件发密钥。",
+    "desc_en": "Students and employees of public educational institutions can apply for a free non-commercial SmartGit license. Use your real name. The school email domain must be on their list. Keys are emailed after a manual review.",
+    "claim_zh": "1. 打开本页的「前往官网领取」，选择学术用途。\n2. 填写护照上的真实姓名和学校邮箱。域名需在官方 swot 名单内。\n3. 确认许可不共享。人工审核通过后，密钥发到邮箱。",
+    "claim_en": "1. Open the \"Get it on the official site\" button on this page and select academic use.\n2. Fill in your real name as on your passport and school email. The domain must be in the official swot list.\n3. Confirm that the license will not be shared. After manual review, the key will be sent to your email."
+  },
+  {
+    "slug": "bitbucket-academic-account",
+    "name_zh": "Bitbucket 学术账户",
+    "name_en": "Bitbucket Academic Account",
+    "domain": "bitbucket.org",
+    "desc_zh": "用学术邮箱注册 Bitbucket，学生和教师可免费获得不限私有仓库，以及不限协作者。普通免费版协作者上限为 5 人。",
+    "desc_en": "Sign up for Bitbucket with an academic email and students and teachers get free unlimited private repositories plus unlimited collaborators. The regular free plan caps collaborators at five.",
+    "claim_zh": "1. 用学校邮箱注册 Bitbucket。域名在认证院校名单内会自动变成学术许可。\n2. 没有自动开通时，按页面申请并补充学校信息。\n3. 在 Settings → Plan Details 里确认 Current Plan 为 Academic。",
+    "claim_en": "1. Register Bitbucket with a school email. If the domain is on the list of accredited institutions, it will automatically become an academic license.\n2. If it is not automatically activated, apply on the page and provide school information.\n3. In Settings → Plan Details, confirm that Current Plan is Academic."
+  },
+  {
+    "slug": "testmu-ai-for-github-students",
+    "name_zh": "TestMu AI 学生测试云",
+    "name_en": "TestMu AI for GitHub Students",
+    "domain": "testmuai.com",
+    "desc_zh": "GitHub 学生可免费使用一年 TestMu AI（原 LambdaTest）Live 单并行会话，在 3000+ 浏览器环境里做手动测试、截图和响应式检查。",
+    "desc_en": "GitHub students get one year of TestMu AI (formerly LambdaTest) Live with 1 parallel session: unlimited manual testing, screenshots, and responsive checks on 3000+ browser environments.",
+    "claim_zh": "1. 先加入 GitHub Student Developer Pack。\n2. 打开本页的「前往官网领取」，用 GitHub 注册领取。\n3. 官方说明为 Live-1 并行会话、一年。",
+    "claim_en": "1. First join the GitHub Student Developer Pack.\n2. Open the \"Get it on the official site\" button on this page and sign up with GitHub to claim.\n3. The official description is Live-1 parallel session, one year."
+  },
+  {
+    "slug": "poeditor-for-github-students",
+    "name_zh": "POEditor 学生一年 Plus",
+    "name_en": "POEditor for GitHub Students",
+    "domain": "poeditor.com",
+    "desc_zh": "GitHub Student Developer Pack 学生可免费使用一年 POEditor Plan Plus，用于应用文案本地化。",
+    "desc_en": "GitHub Student Developer Pack members get one free year of POEditor Plan Plus for app localization.",
+    "claim_zh": "1. 先加入 GitHub Student Developer Pack。\n2. 打开本页的「前往官网领取」领取一年 Plus。\n3. 问题可写 info@poeditor.com。",
+    "claim_en": "1. First join the GitHub Student Developer Pack.\n2. Open the \"Get it on the official site\" button on this page to claim one year of Plus.\n3. For questions, write to info@poeditor.com."
+  },
+  {
+    "slug": "appwrite-education-plan",
+    "name_zh": "Appwrite Education 学生云",
+    "name_en": "Appwrite Education Student Cloud",
+    "domain": "appwrite.io",
+    "desc_zh": "GitHub 学生包可免费使用 Appwrite Education 六个月：2 个云项目，用量与 Pro 相同（不含邮件支持），价值约 $40/月。每个账号只能领一次，不能用于商业用途。",
+    "desc_en": "GitHub Student Pack allows free use of Appwrite Education for six months: 2 cloud projects with the same usage as the Pro plan (excluding email support), valued at approximately $40/month. Each account can claim this benefit only once and it cannot be used for commercial purposes.",
+    "claim_zh": "1. 先完成 [GitHub Education](https://education.github.com/pack) 学生认证。\n2. 打开本页的「前往官网领取」，通过教育计划页面注册。\n3. 系统核对学生包资格后自动套用 Education 方案，从加入当天起算 6 个月。",
+    "claim_en": "1. First, complete your student verification at [GitHub Education](https://education.github.com/pack).\n2. Open the \"Get it on the official site\" button on this page and register through the education program page.\n3. After the system verifies your eligibility for the student pack, the Education plan will be automatically applied, starting from the day you join, for a duration of 6 months."
+  },
+  {
+    "slug": "beautiful-ai-presentations",
+    "name_zh": "Beautiful.ai 学生一年",
+    "name_en": "Beautiful.ai Student One-Year Plan",
+    "domain": "beautiful.ai",
+    "desc_zh": "Beautiful.ai 用模板生成演示文稿。学生验证通过后可以免费使用专业版一年。",
+    "desc_en": "Beautiful.ai lets you create presentations using templates. Students can use the Pro version for free for one year after verification.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，用学校邮箱注册。\n2. 完成学生验证后再升级。看账户里的到期日，一年结束后会要求付费。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page and register with your school email.\n2. Upgrade after completing student verification. Check the expiration date in your account; you'll be prompted to pay after the one-year period ends."
+  },
+  {
+    "slug": "drime",
+    "name_zh": "Drime 教育存储",
+    "name_en": "Drime Education Storage",
+    "domain": "drime.cloud",
+    "desc_zh": "Drime 给教育场景提供云存储，包含较大空间、文件历史和 AI 助手。学生或教师需要在教育页申请，容量以申请结果为准。",
+    "desc_en": "Drime provides cloud storage for educational use cases, including large storage space, file history, and an AI assistant. Students or teachers need to apply on the education page; the allocated capacity will be based on the application result.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，用学校邮箱注册。\n2. 提交教育申请。通过后再看实际容量和到期日，不要按广告里的最大数字当已到手。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page and register with your school email.\n2. Submit your education application. Check the actual capacity and expiration date after approval; do not assume you've received the maximum capacity advertised."
+  },
+  {
+    "slug": "processon-mind-map",
+    "name_zh": "ProcessOn 学生 45 天",
+    "name_en": "ProcessOn Student 45 Days",
+    "domain": "processon.com",
+    "desc_zh": "ProcessOn 用来画思维导图和流程图。学生认证通过后送 45 天会员，不是一年。",
+    "desc_en": "ProcessOn is used for creating mind maps and flowcharts. After student verification is approved, you'll receive a 45-day membership, not a year.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，登录 ProcessOn。\n2. 提交学生认证。45 天从通过那天起算，到期后恢复免费版。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page and log in to ProcessOn.\n2. Submit your student verification. The 45-day period starts from the day of approval, and the free version will be restored after it expires."
+  },
+  {
+    "slug": "tella-for-education-6-months-pro-free",
+    "name_zh": "Tella 教育计划（6 个月 Pro 免费）",
+    "name_en": "Tella for Education (6 Months Pro Free)",
+    "domain": "tella.com",
+    "desc_zh": "认证院校师生用学校邮箱申请，可免费用 6 个月 Tella Pro（无限录屏、AI 剪辑、106 种语言转写、最高 4K）。到期不自动扣费；之后仍符合资格可享 5 折。",
+    "desc_en": "Students and educators at accredited schools can get 6 months of Tella Pro free (unlimited recording, AI editing, transcription in 106 languages, up to 4K). It does not auto-charge. Eligible users can keep 50% off afterward.",
+    "claim_zh": "1. 用学校邮箱注册 Tella。\n2. 打开本页的「前往官网领取」，提交姓名、学校网站和学校邮箱。\n3. 审核通常数天。通过后当前工作区获得 6 个月 Pro，每个工作区限一次，免费期不用绑卡，到期不自动续费。\n4. 结束前 30 天可在账单里选 Pro 并绑卡，5 折从免费期结束后开始计费。每 12 个月需重新确认资格，符合条件即可一直享折扣。\n\n院系多席位可写 sales+education@tella.com。",
+    "claim_en": "1. Sign up for Tella with your school email.\n2. Go to the \"Get it on the official site\" button on this page and submit your name, school website, and school email.\n3. Review usually takes a few days. Once approved, the current workspace gets 6 months of Pro, limited to one per workspace. No card required during the free period, and it won't auto-renew at expiry.\n4. In the 30 days before it ends, you can select Pro in billing and add a card; billing at 50% off starts after the free period ends. Eligibility must be reconfirmed every 12 months; as long as you qualify, you keep the discount.\n\nFor multiple seats for a department, email sales+education@tella.com."
+  },
+  {
+    "slug": "glasp-pro-student-discount",
+    "name_zh": "Glasp Pro 学生年付 6 折",
+    "name_en": "Glasp Pro Student Discount",
+    "domain": "glasp.co",
+    "desc_zh": "用.edu 或.ac 结尾的大学邮箱完成验证后，Glasp Pro 年付可享 6 折。月付不参加，且为限时优惠。",
+    "desc_en": "Verified university students with a.edu or.ac email get 40% off Glasp Pro yearly. Monthly plans are excluded. The offer is limited-time.",
+    "claim_zh": "1. 用.edu 或.ac 大学邮箱注册 Glasp，账号邮箱必须和验证邮箱一致。\n2. 打开本页的「前往官网领取」，点 Verify Status 完成学生验证。\n3. 折扣只用于 Pro 年付。其他学校邮箱后缀目前不支持。",
+    "claim_en": "1. Register for Glasp with a.edu or.ac university email. The account email must match the verification email.\n2. Go to the \"Get it on the official site\" button on this page and click Verify Status to complete student verification.\n3. The discount only applies to Pro annual. Other school email suffixes are currently not supported."
+  },
+  {
+    "slug": "linear-education-program",
+    "name_zh": "Linear 教育折扣",
+    "name_en": "Linear Education Program",
+    "domain": "linear.app",
+    "desc_zh": "高校全日制学生可申请 Linear Basic 或 Business 一年全免，用于学生项目和社团。教职工约 75% 折扣。高中、营利性和纯在线院校不符合。",
+    "desc_en": "Full-time college students can get Linear Basic or Business free for one year for student-led programs and clubs. University staff can get about 75% off. High schools, for-profit schools, and online-only schools are excluded.",
+    "claim_zh": "1. 用.edu 邮箱写 support@linear.app，附上工作区名称。\n2. 学生需全日制在读证明（官方不接受单独学生证）；教职工需在职证明和学校认证证明。\n3. 不能用于商业。非营利另有 75% 折扣，同样写信申请。",
+    "claim_en": "1. Write to support@linear.app from your.edu email, including your workspace name.\n2. Students need proof of full-time enrollment (an official student ID alone is not accepted); faculty and staff need proof of employment and school verification.\n3. Cannot be used for commercial purposes. Nonprofits have a separate 75% discount; apply by email as well."
+  },
+  {
+    "slug": "portfoliobox-90-student-discount",
+    "name_zh": "Portfoliobox 学生作品集 1 折",
+    "name_en": "Portfoliobox 90% Student Discount",
+    "domain": "portfoliobox.com",
+    "desc_zh": "免代码的作品集建站工具。合作院校的学生可享 Professional 方案 1 折，含全部模板、自定义域名、博客和网店功能。学生账号有效 1 年，在读期间可续期。",
+    "desc_en": "No-code portfolio website builder. Students at partner schools get 90% off the Professional plan, with all templates, custom domains, blog and store. Valid for one year, renewable while enrolled.",
+    "claim_zh": "1. 打开本页的「前往官网领取」，确认你的学校在合作院校名单中\n2. 按页面指引注册并申请学生账号\n3. 通过认证后，Professional 方案享 1 折\n4. 学生账号有效 1 年，在读期间可续期",
+    "claim_en": "1. Open the \"Get it on the official site\" button on this page and confirm your school is on the partner schools list\n2. Follow the page instructions to register and apply for a student account\n3. After verification, get the Professional plan for 90% off\n4. Student accounts are valid for 1 year and can be renewed while enrolled"
+  },
+  {
+    "slug": "edison-scientific",
+    "name_zh": "Edison Scientific 教育额度",
+    "name_en": "Edison Scientific Educational Quota",
+    "domain": "edisonscientific.com",
+    "desc_zh": "Edison Scientific 是科研向的 AI 工作台。用 .edu 邮箱注册，每月有 10 次推理；首月再送 1300 次。",
+    "desc_en": "Edison Scientific is an AI workspace designed for scientific research. Register with a .edu email address to receive 10 inference requests per month; an additional 1,300 requests are provided during the first month.",
+    "claim_zh": "1. 用.edu 邮箱点击本页的「前往官网领取」注册。\n2. 到账后先用首月的 1300 次。之后每月只有 10 次，用完要等下个月或付费。",
+    "claim_en": "1. Use a.edu email address to click \"Go to Official Website to Claim\" on this page and register.\n2. Once the quota is credited, use the 1,300 requests from the first month first. After that, you will only receive 10 requests per month. Once they are used up, you will need to wait until the next month or pay for additional usage."
+  }
+]

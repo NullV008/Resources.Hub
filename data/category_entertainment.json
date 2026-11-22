@@ -1,0 +1,156 @@
+[
+  {
+    "slug": "valorant-campus",
+    "category": "entertainment",
+    "name_zh": "无畏契约高校特权",
+    "name_en": "VALORANT University Privileges",
+    "domain": "val.qq.com",
+    "desc_zh": "腾讯《无畏契约》的高校认证。在读学生完成认证后，页面列出游戏内全英雄解锁、通行证经验加成 10%，以及每月轮换的体验皮肤…",
+    "desc_en": "Tencent's VALORANT university certification. After enrolled students complete the certification, the page lists in-game unlocks for all agents, a 10%…",
+    "badges_zh": ["高校特权"],
+    "badges_en": ["University Privileges"]
+  },
+  {
+    "slug": "chess-com-students",
+    "category": "entertainment",
+    "name_zh": "Chess.com 学生会员五折",
+    "name_en": "Chess.com Student Membership: 50% Off",
+    "domain": "chess.com",
+    "desc_zh": "在受认证的大学、学院或高中就读、年满 16 岁的学生，可对 Chess.com 的 Diamond、Platinum、Gold 会员打五折…",
+    "desc_en": "Students aged 16 and older enrolled in a certified university, college, or high school can receive 50% off on Chess.com's Diamond, Platinum, and Gold…",
+    "badges_zh": ["五折"],
+    "badges_en": ["50% Off"]
+  },
+  {
+    "slug": "spotify-premium-student",
+    "category": "entertainment",
+    "name_zh": "Spotify Premium 学生版",
+    "name_en": "Spotify Premium Student Version",
+    "domain": "spotify.com",
+    "desc_zh": "在校学生可以半价订阅 Spotify Premium，没有广告，能下载和随便切歌。需要通过学生验证，通常一年核验一次。",
+    "desc_en": "Currently enrolled students can subscribe to Spotify Premium at half the price, with no ads, download capabilities, and the ability to skip tracks…",
+    "badges_zh": ["50% 折扣"],
+    "badges_en": ["50% off"]
+  },
+  {
+    "slug": "apple-music-student",
+    "category": "entertainment",
+    "name_zh": "Apple Music 学生套餐",
+    "name_en": "Apple Music Student Plan",
+    "domain": "support.apple.com",
+    "desc_zh": "学生可以订阅 Apple Music 学生价，大约是个人版的一半，并且包含 Apple TV+。新用户通常有一个月试用…",
+    "desc_en": "Students can subscribe to Apple Music at a student rate, which is about half the price of the individual plan and includes Apple TV+. New users…",
+    "badges_zh": ["50% 折扣"],
+    "badges_en": ["50% off"]
+  },
+  {
+    "slug": "youtube-premium-student",
+    "category": "entertainment",
+    "name_zh": "YouTube Premium 学生版",
+    "name_en": "YouTube Premium Student Version",
+    "domain": "youtube.com",
+    "desc_zh": "符合条件的学生可以先试用，之后按学生价订阅 YouTube Premium，大约是原价的一半。包含去广告、后台播放和离线下载…",
+    "desc_en": "Eligible students can try it first, then subscribe to YouTube Premium at the student price, which is about half the original price. It includes…",
+    "badges_zh": ["50% 折扣"],
+    "badges_en": ["50% off"]
+  },
+  {
+    "slug": "discord-nitro-1-month-free-for-students-via-unidays",
+    "category": "entertainment",
+    "name_zh": "Discord Nitro 学生免费一个月（UNiDAYS）",
+    "name_en": "Discord Nitro 1 Month Free for Students via UNiDAYS",
+    "domain": "myunidays.com",
+    "desc_zh": "通过 UNiDAYS 全球学生折扣平台验证在校大学生身份，即可免费领取 1 个月 Discord Nitro 订阅…",
+    "desc_en": "Verify your university student status through UNiDAYS to claim 1 free month of Discord Nitro. Nitro perks include HD video streaming, 500MB file…",
+    "badges_zh": ["试用"],
+    "badges_en": ["Trial"]
+  },
+  {
+    "slug": "hulu-disney-student-bundle-6-49-mo",
+    "category": "entertainment",
+    "name_zh": "Hulu + Disney+ 学生套餐 $6.49/月",
+    "name_en": "Hulu + Disney+ Student Bundle $6.49/mo",
+    "domain": "hulu.com",
+    "desc_zh": "美国高校或研究生在读、年满 18 岁：含广告的 Hulu + Disney+ 学生套餐 $6.49/月（原价 $12.99）…",
+    "desc_en": "U.S. college/grad students 18+: ad-supported Hulu + Disney+ student bundle $6.49/mo (reg. $12.99). SheerID verification. Cancel anytime.",
+    "badges_zh": ["免费"],
+    "badges_en": ["Free"]
+  },
+  {
+    "slug": "iqiyi-student-vip-50-off",
+    "category": "entertainment",
+    "name_zh": "爱奇艺 VIP 学生卡五折",
+    "name_en": "iQIYI Student VIP 50% Off",
+    "domain": "vip.iqiyi.com",
+    "desc_zh": "22 周岁及以下用户认证后可买爱奇艺 VIP 学生套餐，约五折。学生黄金会员限单台设备同时播放。同一账号最多认证 3 次。",
+    "desc_en": "Users 22 and under can verify and buy iQIYI student VIP at about half price. Student Gold allows one device playing at a time. Up to 3 verification…",
+    "badges_zh": ["50% 折扣"],
+    "badges_en": ["50% off"]
+  },
+  {
+    "slug": "tencent-video-jump-student-card",
+    "category": "entertainment",
+    "name_zh": "腾讯视频 JUMP 学生卡（VIP+专属权益）",
+    "name_en": "Tencent Video JUMP Student Card",
+    "domain": "film.video.qq.com",
+    "desc_zh": "18–24 岁用户专享：腾讯视频 VIP + 3 项专属权益。需完成学生资质认证，手机/电脑/平板可用，暂不支持电视端。",
+    "desc_en": "Ages 18–24: Tencent Video VIP plus 3 exclusive JUMP perks. Student verification required. Works on phone, computer, and tablet — not on TV.",
+    "badges_zh": ["免费"],
+    "badges_en": ["Free"]
+  },
+  {
+    "slug": "kanopy-campus-streaming",
+    "category": "entertainment",
+    "name_zh": "Kanopy 高校影视",
+    "name_en": "Kanopy Campus Streaming",
+    "domain": "kanopy.com",
+    "desc_zh": "若你的学校与 Kanopy 合作，用校园账号登录即可免费观看，不必另注册 Kanopy 账号。未合作的学校无法使用。",
+    "desc_en": "Watching is free when your school partners with Kanopy. Find your university and sign in with campus credentials. No separate Kanopy account is…",
+    "badges_zh": ["免费"],
+    "badges_en": ["Free"]
+  },
+  {
+    "slug": "siriusxm-student-streaming",
+    "category": "entertainment",
+    "name_zh": "SiriusXM 学生流媒体",
+    "name_en": "SiriusXM Student Streaming",
+    "domain": "siriusxm.com",
+    "desc_zh": "美国 18 岁以上、在读认证高校学位课程的学生，可先以 $1 使用 3 个月白金流媒体，之后学生价目前 $4/月。需银行卡，每年复核…",
+    "desc_en": "US students 18+ enrolled in an accredited degree-granting college can get Student Streaming Platinum for $1 for 3 months, then the current student…",
+    "badges_zh": ["免费"],
+    "badges_en": ["Free"]
+  },
+  {
+    "slug": "soundcloud-go-for-students",
+    "category": "entertainment",
+    "name_zh": "SoundCloud Go+ 学生价",
+    "name_en": "SoundCloud Go+ for Students",
+    "domain": "checkout.soundcloud.com",
+    "desc_zh": "指定地区的高校在读学生可半价订阅 SoundCloud Go+，功能与普通 Go+ 相同。需在官网用 SheerID 验证，不能走应用商店…",
+    "desc_en": "Eligible students in listed countries can get SoundCloud Go+ at half price, with the same features as regular Go+. Verify with SheerID on the…",
+    "badges_zh": ["折扣"],
+    "badges_en": ["Discount"]
+  },
+  {
+    "slug": "apple-music-student-plan",
+    "category": "entertainment",
+    "name_zh": "Apple Music 学生方案",
+    "name_en": "Apple Music Student Plan",
+    "domain": "offers.applemusic.apple",
+    "desc_zh": "在读学位课程的学生可享 Apple Music 学生价，该优惠页写明首月免费，之后 $6.99/月，并含 Apple TV…",
+    "desc_en": "Students in a degree-granting college or university can get Apple Music student pricing. This offer page lists 1 month free, then $6.99/month, plus…",
+    "badges_zh": ["免费 1 个月"],
+    "badges_en": ["1 month free"]
+  },
+  {
+    "slug": "pandora-premium-student",
+    "category": "entertainment",
+    "name_zh": "Pandora Premium 学生价",
+    "name_en": "Pandora Premium Student",
+    "domain": "pandora.com",
+    "desc_zh": "美国 Title IV 高校的本科或研究生可订阅 Pandora Premium 学生价：官方帮助中心为 $5.99/月或 $71.88/年…",
+    "desc_en": "Undergraduates and graduate students at US Title IV colleges can get Pandora Premium Student for $5.99/month or $71.88/year, for up to four years…",
+    "badges_zh": ["免费"],
+    "badges_en": ["Free"]
+  }
+]

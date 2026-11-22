@@ -1,0 +1,844 @@
+[
+  {
+    "slug": "amp-education",
+    "category": "dev",
+    "name_zh": "Amp Megawatt 教育五折",
+    "name_en": "Amp Megawatt 50% Off for Education",
+    "domain": "ampcode.com",
+    "desc_zh": "学生和教师登录后填表，可以把 Amp Megawatt 从每月 $20 打成 $10。只打 Megawatt，Gigawatt 不参加…",
+    "desc_en": "Students and teachers can log in, fill out a form, and reduce the monthly cost of Amp Megawatt from $20 to $10. This discount applies only to…",
+    "badges_zh": [
+      "50% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "50% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "arduino-for-github-students",
+    "category": "dev",
+    "name_zh": "Arduino Cloud 学生包",
+    "name_en": "Arduino for GitHub Students",
+    "domain": "arduino.cc",
+    "desc_zh": "GitHub Student Developer Pack 学生可领 6 个月 Arduino Cloud Maker…",
+    "desc_en": "GitHub Student Developer Pack members can claim 6 months of Arduino Cloud Maker, about 50% off Arduino Certification, and hardware discounts such as…",
+    "badges_zh": [
+      "50% 折扣"
+    ],
+    "badges_en": [
+      "50% off"
+    ]
+  },
+  {
+    "slug": "astah-uml-student",
+    "category": "dev",
+    "name_zh": "Astah UML 学生免费许可",
+    "name_en": "Astah UML Free Student License",
+    "domain": "astah.net",
+    "desc_zh": "有学术邮箱的学生可免费领取 Astah UML，仅限本人在自己的电脑上使用，不能装到教室公用电脑，教师不能使用这个学生许可…",
+    "desc_en": "Students with an academic email can get Astah UML for free. It is for personal use on your own computer only; it cannot be installed on shared…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "bitbucket-academic-account",
+    "category": "dev",
+    "name_zh": "Bitbucket 学术账户",
+    "name_en": "Bitbucket Academic Account",
+    "domain": "bitbucket.org",
+    "desc_zh": "用学术邮箱注册 Bitbucket，学生和教师可免费获得不限私有仓库，以及不限协作者。普通免费版协作者上限为 5 人。",
+    "desc_en": "Sign up for Bitbucket with an academic email and students and teachers get free unlimited private repositories plus unlimited collaborators. The…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "blockchair-student-api",
+    "category": "dev",
+    "name_zh": "Blockchair 学生 API",
+    "name_en": "Blockchair Student API",
+    "domain": "blockchair.com",
+    "desc_zh": "GitHub Student Developer Pack 学生可领 Blockchair API 密钥：10 万次请求，有效期 1 年…",
+    "desc_en": "GitHub Student Developer Pack members can get a Blockchair API key with 100,000 requests, valid for 1 year, across multiple blockchains.",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "browserstack",
+    "category": "dev",
+    "name_zh": "BrowserStack 学生一年免费",
+    "name_en": "BrowserStack Free for Students for One Year",
+    "domain": "browserstack.com",
+    "desc_zh": "GitHub 学生开发者包包含 BrowserStack 一年免费许可，含 Live 和 Automate Mobile…",
+    "desc_en": "The GitHub Student Developer Pack includes a one-year free license to BrowserStack, covering Live and Automate Mobile. This allows you to perform…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "crowdin-academic",
+    "category": "dev",
+    "name_zh": "Crowdin 学术许可",
+    "name_en": "Crowdin Academic License",
+    "domain": "crowdin.com",
+    "desc_zh": "Crowdin 给学校项目学术许可。邮箱域名必须是学校的。公开项目用 Open 许可，免费且不限人数；要限制访问的私有项目用 Private…",
+    "desc_en": "Crowdin offers academic licenses for school projects. The email domain must belong to the school. Public projects use the Open license, which is free…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "dbeaver-academic",
+    "category": "dev",
+    "name_zh": "DBeaver 学术许可",
+    "name_en": "DBeaver Academic License",
+    "domain": "dbeaver.com",
+    "desc_zh": "正在学关系型或 NoSQL 数据库的学生，可以用真实大学邮箱免费申请 DBeaver Enterprise 或 CloudBeaver 学术…",
+    "desc_en": "Students studying relational or NoSQL databases can apply for a free DBeaver Enterprise or CloudBeaver academic license using their official…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "deepscan-for-github-students",
+    "category": "dev",
+    "name_zh": "DeepScan 学生 6 个月",
+    "name_en": "DeepScan for GitHub Students",
+    "domain": "deepscan.io",
+    "desc_zh": "GitHub 学生可免费试用 DeepScan 6 个月，用于 JavaScript 代码质量检查，并和 GitHub 推送集成…",
+    "desc_en": "GitHub students get a free 6-month DeepScan trial for JavaScript code quality, integrated with GitHub pushes. One redemption per user.",
+    "badges_zh": [
+      "试用"
+    ],
+    "badges_en": [
+      "Trial"
+    ]
+  },
+  {
+    "slug": "devcycle",
+    "category": "dev",
+    "name_zh": "DevCycle 学生一年免费",
+    "name_en": "DevCycle Free for Students for One Year",
+    "domain": "devcycle.com",
+    "desc_zh": "GitHub 学生包提供 DevCycle Starter 一年免费，不限席位、功能开关和用量，用来做功能开关、灰度发布和 A/B 测试…",
+    "desc_en": "The GitHub Student Pack offers one year of free DevCycle Starter, with no limits on seats, feature flags, or usage, for implementing feature flags…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "firecrawl-student-program",
+    "category": "dev",
+    "name_zh": "Firecrawl 学生计划",
+    "name_en": "Firecrawl Student Program",
+    "domain": "firecrawl.dev",
+    "desc_zh": "Firecrawl 是 Y Combinator 支持的网页数据提取 API，专为开发者与 AI 应用构建…",
+    "desc_en": "Firecrawl is a Y Combinator-backed web data extraction API built for developers and AI applications. The student program offers 10,000 free API…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "flutterflow",
+    "category": "dev",
+    "name_zh": "FlutterFlow 教育优惠",
+    "name_en": "FlutterFlow Education Discount",
+    "domain": "flutterflow.io",
+    "desc_zh": "FlutterFlow 是用可视化方式做 Flutter 应用的平台。学生和教师可以按教育方案申请优惠，具体档位以价格页为准。",
+    "desc_en": "FlutterFlow is a platform for building Flutter apps visually. Students and teachers can apply for discounts under educational programs; specific…",
+    "badges_zh": [
+      "折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "Discount",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "genymotion-educational",
+    "category": "dev",
+    "name_zh": "Genymotion 教育版",
+    "name_en": "Genymotion Education Edition",
+    "domain": "genymotion.com",
+    "desc_zh": "Genymotion Desktop 是 Android 模拟器。教育版每年 $49，按每名学生、每台电脑计，学生、教师和学校都能申请…",
+    "desc_en": "Genymotion Desktop is an Android emulator. The Education Edition costs $49 per year, per student and per computer. Students, teachers, and schools…",
+    "badges_zh": [
+      "$49/年",
+      "含教师"
+    ],
+    "badges_en": [
+      "$49/yr",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "github-nonprofit",
+    "category": "dev",
+    "name_zh": "GitHub 非营利组织折扣",
+    "name_en": "GitHub Nonprofit Discount",
+    "domain": "github.com",
+    "desc_zh": "501(c)(3) 或当地同等资格的非营利组织，可以免费使用 GitHub Team，或在 GitHub Enterprise Cloud…",
+    "desc_en": "501(c)(3) or locally equivalent qualified nonprofits can use GitHub Team for free, or enjoy a 25% discount on GitHub Enterprise Cloud. This is a…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "github-student-developer-pack",
+    "category": "dev",
+    "name_zh": "GitHub 学生开发者包",
+    "name_en": "GitHub Student Developer Pack",
+    "domain": "education.github.com",
+    "desc_zh": "年满 13 岁、正在攻读学位或文凭的学生，通过 GitHub Education 认证后，可以领取合作方的开发工具、云额度和域名…",
+    "desc_en": "Students aged 13 and older who are currently pursuing a degree or diploma can receive developer tools, cloud credits, and domain names from partners…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "gitkraken-student-plan",
+    "category": "dev",
+    "name_zh": "GitKraken 学生计划",
+    "name_en": "GitKraken Student Plan",
+    "domain": "gitkraken.com",
+    "desc_zh": "通过 GitHub Student Developer Pack 可免费使用 GitKraken 学生计划 6 个月（Desktop、Git…",
+    "desc_en": "Verified GitHub Student Developer Pack members get 6 months of the GitKraken Student plan free (Desktop, GitLens, CLI, and more). After that…",
+    "badges_zh": [
+      "80% 折扣"
+    ],
+    "badges_en": [
+      "80% off"
+    ]
+  },
+  {
+    "slug": "gitlab-for-education",
+    "category": "dev",
+    "name_zh": "GitLab 教育计划",
+    "name_en": "GitLab for Education",
+    "domain": "about.gitlab.com",
+    "desc_zh": "合格非营利学校可由全职教师或职员申请免费 GitLab Ultimate（不限席位，含每月 5 万计算分钟），用于教学和非商业科研…",
+    "desc_en": "Qualifying nonprofit schools can get free GitLab Ultimate (unlimited seats, 50,000 compute minutes a month) for teaching and non-commercial research…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "gitlab-nonprofit",
+    "category": "dev",
+    "name_zh": "GitLab Ultimate 非营利许可",
+    "name_en": "GitLab Ultimate Nonprofit License",
+    "domain": "about.gitlab.com",
+    "desc_zh": "已在当地政府注册、状态正常的非营利组织，可免费获得一年 GitLab Ultimate，云端或自建都可以，最多 20 个席位。不含技术支持…",
+    "desc_en": "Nonprofit organizations that are registered with their local government and in good standing can receive a free one-year GitLab Ultimate license…",
+    "badges_zh": [
+      "免费 1 年",
+      "含教师"
+    ],
+    "badges_en": [
+      "1 year free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "honeybadger-for-github-students",
+    "category": "dev",
+    "name_zh": "Honeybadger 学生一年",
+    "name_en": "Honeybadger for GitHub Students",
+    "domain": "honeybadger.io",
+    "desc_zh": "GitHub 学生可免费使用一年 Honeybadger Small：22.5 万错误额度、60 天保留、60 个可用性检查、不限用户和应用…",
+    "desc_en": "GitHub students get Honeybadger Small free for one year: a 225,000 error limit, 60-day retention, 60 uptime checks, and unlimited users and apps…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "jetbrains-free-student-license",
+    "category": "dev",
+    "name_zh": "JetBrains 学生免费许可",
+    "name_en": "JetBrains Free License for Students",
+    "domain": "jetbrains.com",
+    "desc_zh": "认证院校的学生和教师可以免费使用 JetBrains 全套桌面 IDE，包括 IntelliJ IDEA Ultimate、PyCharm、…",
+    "desc_en": "Students and faculty at accredited institutions can use the full suite of JetBrains desktop IDEs for free, including IntelliJ IDEA Ultimate, PyCharm…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "kiro",
+    "category": "dev",
+    "name_zh": "Kiro AI 代码编辑器",
+    "name_en": "Kiro",
+    "domain": "kiro.dev",
+    "desc_zh": "Kiro 是 AWS 推出的 AI 驱动代码编辑器，支持规格驱动开发与自主 Agent。通过大学学生认证后…",
+    "desc_en": "Kiro is an AI-powered code editor by AWS featuring spec-driven development and autonomous agents. Verified university students get 1,000 credits per…",
+    "badges_zh": [
+      "每月 1,000 积分"
+    ],
+    "badges_en": [
+      "1,000 credits/mo"
+    ]
+  },
+  {
+    "slug": "localstack-for-students",
+    "category": "dev",
+    "name_zh": "LocalStack 学生计划",
+    "name_en": "LocalStack for Students",
+    "domain": "localstack.cloud",
+    "desc_zh": "GitHub Student Developer Pack 学生可在学籍有效期内免费使用 LocalStack 的 AWS 本地模拟器…",
+    "desc_en": "GitHub Student Developer Pack members get LocalStack’s AWS emulator free while they stay in the Pack, including 1,000 CI/CD credits a month.",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "lovable-pro-50-off-for-students",
+    "category": "dev",
+    "name_zh": "Lovable Pro 学生五折",
+    "name_en": "Lovable Pro 50% Off for Students",
+    "domain": "lovable.dev",
+    "desc_zh": "认证高校学生（及教师）可享 Lovable Pro 五折，例如 100 credits 方案约 $12.50/月，最长 12 个月…",
+    "desc_en": "Verified students (and teachers) get 50% off Lovable Pro — e.g. the 100-credit plan about $12.50/mo — for up to 12 months. Verify with a school email…",
+    "badges_zh": [
+      "50% 折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "50% off",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "lovable-pro-sweden-2026",
+    "category": "dev",
+    "name_zh": "Lovable Pro 瑞典学生免费到年底",
+    "name_en": "Lovable Pro Free for Swedish Students Until the End of the Year",
+    "domain": "lovable.dev",
+    "desc_zh": "在瑞典的大学、学院或国民高等学校就读、年满 18 岁的学生，用学校邮箱可以免费使用 Lovable Pro…",
+    "desc_en": "Students aged 18 or older enrolled in a Swedish university, college, or national upper secondary school can use Lovable Pro for free with their…",
+    "badges_zh": [
+      "免费至 2026-12-31"
+    ],
+    "badges_en": [
+      "Free until 2026-12-31"
+    ]
+  },
+  {
+    "slug": "mapbox-for-education",
+    "category": "dev",
+    "name_zh": "Mapbox 教育账户",
+    "name_en": "Mapbox for Education",
+    "domain": "mapbox.com",
+    "desc_zh": "用学校邮箱注册 Mapbox 即可按用量使用免费额度。官方写免费额度足够覆盖几乎所有学生项目，没有单独的无限教育许可。",
+    "desc_en": "Create a Mapbox account with a school email and use the usage-based free tier. Mapbox says that tier covers almost all student projects. There is no…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "mdb-edu",
+    "category": "dev",
+    "name_zh": "MDB Edu 学生优惠",
+    "name_en": "MDB Edu Student Discount",
+    "domain": "mdbootstrap.com",
+    "desc_zh": "个人可用学校邮箱写信并核对学生证，首次购买任意 MDB 套餐享 5 折。学校在官网发布 MDB 指定教程并通过审核后…",
+    "desc_en": "Individuals can apply by email with a school email address and verify their student ID to get 50% off their first purchase of any MDB plan. After the…",
+    "badges_zh": [
+      "50% 折扣"
+    ],
+    "badges_en": [
+      "50% off"
+    ]
+  },
+  {
+    "slug": "navicat-database-tool",
+    "category": "dev",
+    "name_zh": "Navicat 学生一年免费许可",
+    "name_en": "Navicat Free One-Year License for Students",
+    "domain": "navicat.com",
+    "desc_zh": "在受认证的非营利高中、大学或社区学院就读，并持有有效学校邮箱的学生，可申请一年免费、不可转售的 Navicat Premium、Data M…",
+    "desc_en": "Students enrolled in an accredited non-profit high school, university, or community college and holding a valid school email address may apply for a…",
+    "badges_zh": [
+      "一年免费"
+    ],
+    "badges_en": [
+      "Free for One Year"
+    ]
+  },
+  {
+    "slug": "neve-agency-for-github-students",
+    "category": "dev",
+    "name_zh": "Neve Agency 学生一年",
+    "name_en": "Neve Agency for GitHub Students",
+    "domain": "themeisle.com",
+    "desc_zh": "通过 GitHub Student Developer Pack 验证的学生，可免费使用一年 Neve Agency（官方写价值 $259）…",
+    "desc_en": "Students verified through the GitHub Student Developer Pack get one year of Neve Agency free (listed as a $259 value), including unlimited sites…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "new-relic-for-students",
+    "category": "dev",
+    "name_zh": "New Relic 学生账户",
+    "name_en": "New Relic for Students",
+    "domain": "newrelic.com",
+    "desc_zh": "通过 GitHub Education 验证的学生可免费使用 New Relic。学生账户含每月 500GB 和 3 个完整平台用户…",
+    "desc_en": "Students verified through GitHub Education get New Relic free. The student account includes 500 GB a month and three full platform users. GitHub…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "openai-codex-for-students",
+    "category": "dev",
+    "name_zh": "OpenAI Codex 学生计划",
+    "name_en": "OpenAI Codex for Students",
+    "domain": "chatgpt.com",
+    "desc_zh": "OpenAI 面向美国和加拿大在读大学生提供 $100 Codex 积分。通过 SheerID 验证学生身份后…",
+    "desc_en": "OpenAI offers $100 in Codex credits for verified university students in the United States and Canada. Complete student verification via SheerID and…",
+    "badges_zh": [
+      "$100 额度"
+    ],
+    "badges_en": [
+      "$100 credit"
+    ]
+  },
+  {
+    "slug": "pageclip-for-github-students",
+    "category": "dev",
+    "name_zh": "Pageclip 学生 Basic",
+    "name_en": "Pageclip for GitHub Students",
+    "domain": "pageclip.co",
+    "desc_zh": "GitHub 学生可免费使用 Pageclip Basic：不限表单数量，含 2 万次提交，适合静态网站表单。在学生资格内有效。",
+    "desc_en": "GitHub students get the Pageclip Basic plan free: unlimited forms and 20,000 submissions, for static-site forms, while they remain students.",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "poeditor-for-github-students",
+    "category": "dev",
+    "name_zh": "POEditor 学生一年 Plus",
+    "name_en": "POEditor for GitHub Students",
+    "domain": "poeditor.com",
+    "desc_zh": "GitHub Student Developer Pack 学生可免费使用一年 POEditor Plan Plus，用于应用文案本地化。",
+    "desc_en": "GitHub Student Developer Pack members get one free year of POEditor Plan Plus for app localization.",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "polypane-for-github-students",
+    "category": "dev",
+    "name_zh": "Polypane 学生一年",
+    "name_en": "Polypane for GitHub Students",
+    "domain": "polypane.app",
+    "desc_zh": "GitHub 学生可免费使用一年 Polypane 个人版，用于多断点网页开发。仅限非商业用途。",
+    "desc_en": "GitHub students get Polypane’s individual plan free for one year for non-commercial work. It is a browser for checking sites across breakpoints while…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "popsql-for-github-students",
+    "category": "dev",
+    "name_zh": "PopSQL 学生 Business",
+    "name_en": "PopSQL for GitHub Students",
+    "domain": "popsql.com",
+    "desc_zh": "GitHub Student Developer Pack 学生可免费使用 PopSQL Business。页面未写明固定月数…",
+    "desc_en": "GitHub Student Developer Pack members get the PopSQL Business plan free. The page does not state a fixed number of months. Questions go to…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "qt",
+    "category": "dev",
+    "name_zh": "Qt 教育许可 学生和教师免费 12 个月",
+    "name_en": "Qt Education License: Free for Students and Teachers for 12 Months",
+    "domain": "qt.io",
+    "desc_zh": "有高等教育机构邮箱的在读学生和教师，可免费领取 12 个月 Qt 教育许可，只用于学习，不能商用…",
+    "desc_en": "Current students and teachers with an email address from a higher education institution can receive a free 12-month Qt Education License for learning…",
+    "badges_zh": [
+      "12 个月",
+      "含教师"
+    ],
+    "badges_en": [
+      "12 months",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "replit-core-for-students",
+    "category": "dev",
+    "name_zh": "Replit 学生版 Core 会员",
+    "name_en": "Replit Core for Students",
+    "domain": "replit.com",
+    "desc_zh": "Replit 是浏览器端 AI 编程与部署平台，支持随时随地编写、运行和部署代码。使用.edu 教育邮箱认证后…",
+    "desc_en": "Replit is a browser-based AI coding and deployment platform for writing, running, and deploying code from anywhere. Verified students with a.edu…",
+    "badges_zh": [
+      "50% 折扣"
+    ],
+    "badges_en": [
+      "50% off"
+    ]
+  },
+  {
+    "slug": "requestly-professional-for-github-students",
+    "category": "dev",
+    "name_zh": "Requestly Professional 学生一年",
+    "name_en": "Requestly Professional for GitHub Students",
+    "domain": "requestly.com",
+    "desc_zh": "已验证的高校学生可通过 GitHub Education 免费使用一年 Requestly Professional。官方写价值 $270…",
+    "desc_en": "Verified post-secondary students can get Requestly Professional free for one year through GitHub Education. Requestly lists it at $270. Individual…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "sentry-for-education",
+    "category": "dev",
+    "name_zh": "Sentry 教育计划",
+    "name_en": "Sentry for Education",
+    "domain": "sentry.io",
+    "desc_zh": "学生、教师和高校科研人员可免费使用一年 Sentry 教育账户。官方当前额度：不限成员、5 万错误、5GB 日志、500 万 spans、5…",
+    "desc_en": "Students, teachers, and university researchers can use a Sentry education account free for one year. The current offer lists unlimited members, 50K…",
+    "badges_zh": [
+      "$20 额度",
+      "含教师"
+    ],
+    "badges_en": [
+      "$20 credit",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "smartgit-academic-license",
+    "category": "dev",
+    "name_zh": "SmartGit 学术许可",
+    "name_en": "SmartGit Academic License",
+    "domain": "smartgit.dev",
+    "desc_zh": "公立教育机构的学生和教职工可申请免费非商用 SmartGit 许可。需真实姓名，学校邮箱域名要在官方名单内，人工审核后邮件发密钥。",
+    "desc_en": "Students and employees of public educational institutions can apply for a free non-commercial SmartGit license. Use your real name. The school email…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "sqlgate",
+    "category": "dev",
+    "name_zh": "SQLGate 学生一年免费",
+    "name_en": "SQLGate Free for Students for One Year",
+    "domain": "sqlgate.com",
+    "desc_zh": "GitHub 学生开发者包可免费使用 SQLGate Standard 订阅的大部分功能一年，用来连接和管理多种 SQL 数据库。",
+    "desc_en": "GitHub Student Developer Pack users can access most features of the SQLGate Standard subscription for free for one year to connect to and manage…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "sqlpro-studio-database-client",
+    "category": "dev",
+    "name_zh": "SQLPro Studio 学生价",
+    "name_en": "SQLPro Studio Student Price",
+    "domain": "sqlprostudio.com",
+    "desc_zh": "SQLPro Studio 是 macOS 和 iOS 上的数据库客户端，学生可以按教育价购买，用来连接和管理多种数据库。",
+    "desc_en": "SQLPro Studio is a database client for macOS and iOS. Students can purchase it at an educational discount to connect to and manage multiple databases.",
+    "badges_zh": [
+      "折扣"
+    ],
+    "badges_en": [
+      "Discount"
+    ]
+  },
+  {
+    "slug": "termius",
+    "category": "dev",
+    "name_zh": "Termius 学生免费 Pro 和 Team",
+    "name_en": "Termius Free Pro and Team for Students",
+    "domain": "termius.com",
+    "desc_zh": "SSH 客户端。持有已激活 GitHub Student Developer Pack 的学生…",
+    "desc_en": "SSH client. Students with an activated GitHub Student Developer Pack can use all features of Termius Pro and Team for free, including synchronization…",
+    "badges_zh": [
+      "专业版 + 团队版"
+    ],
+    "badges_en": [
+      "Pro + Team"
+    ]
+  },
+  {
+    "slug": "testmail",
+    "category": "dev",
+    "name_zh": "testmail.app 教育与开源支持",
+    "name_en": "testmail.app Education and Open Source Support",
+    "domain": "testmail.app",
+    "desc_zh": "GitHub 学生包在读期间提供 Essential 方案（约 $9/月）：每月 1 万封测试邮件、完整 API、1 到 3 天保留和一个随…",
+    "desc_en": "The GitHub Student Pack provides the Essential plan (about $9/month) during your studies: 10,000 test emails per month, a full API, a retention…",
+    "badges_zh": [
+      "在读期间",
+      "含教师"
+    ],
+    "badges_en": [
+      "During your studies",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "testmu-ai-for-github-students",
+    "category": "dev",
+    "name_zh": "TestMu AI 学生测试云",
+    "name_en": "TestMu AI for GitHub Students",
+    "domain": "testmuai.com",
+    "desc_zh": "GitHub 学生可免费使用一年 TestMu AI（原 LambdaTest）Live 单并行会话…",
+    "desc_en": "GitHub students get one year of TestMu AI (formerly LambdaTest) Live with 1 parallel session: unlimited manual testing, screenshots, and responsive…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "tower-git-client",
+    "category": "dev",
+    "name_zh": "Tower Pro 学生版",
+    "name_en": "Tower Pro Student Edition",
+    "domain": "git-tower.com",
+    "desc_zh": "Tower 是 Mac 和 Windows 上的 Git 客户端。学生申请通过后可以使用 Tower Pro，用来管理仓库和解决冲突。",
+    "desc_en": "Tower is a Git client for Mac and Windows. Students who successfully apply can use Tower Pro to manage repositories and resolve conflicts.",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "travis-ci-for-education",
+    "category": "dev",
+    "name_zh": "Travis CI 教育账户",
+    "name_en": "Travis CI for Education",
+    "domain": "travis-ci.com",
+    "desc_zh": "GitHub Education 学生可自动获得免费 Travis CI：1 个并发任务，可添加协作者。需遵守合理使用。",
+    "desc_en": "If your GitHub account is in GitHub Education, Travis CI gives you a free account automatically: one concurrent job and as many collaborators as you…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "twilio-impact-access",
+    "category": "dev",
+    "name_zh": "Twilio Impact Access",
+    "name_en": "Twilio Impact Access",
+    "domain": "twilio.org",
+    "desc_zh": "501(c)(3) 及其对应的境外慈善组织、社会企业，可申请 Twilio 的短信、语音等产品折扣，并获得不会过期的免费用量…",
+    "desc_en": "501(c)(3) organizations and their corresponding foreign charities and social enterprises can apply for discounts on Twilio's SMS, voice, and other…",
+    "badges_zh": [
+      "额度",
+      "含教师"
+    ],
+    "badges_en": [
+      "Credits",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "unity-student-plan-free-unity-pro",
+    "category": "dev",
+    "name_zh": "Unity 学生计划（免费 Unity Pro）",
+    "name_en": "Unity Student Plan (Free Unity Pro)",
+    "domain": "unity.com",
+    "desc_zh": "年满 16 岁、在认证学校在读的学生可免费领取 Unity Student：最新 Unity Pro 编辑器、Odin Inspector/…",
+    "desc_en": "Students 16+ at an accredited school can get Unity Student free: the latest Unity Pro Editor, an Odin Inspector and Validator education license, a…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "unreal-engine",
+    "category": "dev",
+    "name_zh": "虚幻引擎学生许可",
+    "name_en": "Unreal Engine Student License",
+    "domain": "unrealengine.com",
+    "desc_zh": "虚幻引擎对学生和教育免费。学生许可可以发布项目；如果总收入超过 100 万美元，才按虚幻引擎的版税规则支付…",
+    "desc_en": "Unreal Engine is free for students and educational institutions. The student license allows you to publish projects; royalties under Unreal Engine's…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "v0",
+    "category": "dev",
+    "name_zh": "v0 指定院校学生免费一年 Premium",
+    "name_en": "Free One-Year Premium for Students at Designated Institutions",
+    "domain": "v0.app",
+    "desc_zh": "Vercel 的 AI 应用生成工具。目前只对页面列出的在读院校开放。用该校学生邮箱完成验证后，可免费使用 v0 Premium 一年…",
+    "desc_en": "Vercel's AI application generation tool. Currently available only to students at the institutions listed on the page. After verifying your identity…",
+    "badges_zh": [
+      "一年 Premium"
+    ],
+    "badges_en": [
+      "One Year of Premium"
+    ]
+  },
+  {
+    "slug": "windsurf-for-students",
+    "category": "dev",
+    "name_zh": "Windsurf 学生优惠",
+    "name_en": "Windsurf for Students",
+    "domain": "windsurf.com",
+    "desc_zh": "Windsurf 是专为保持编程心流状态设计的 AI 代码编辑器。使用.edu 邮箱注册即可享受 Pro 订阅超过 5 折优惠…",
+    "desc_en": "Windsurf is an AI code editor built to keep you in flow state. Sign up with a.edu email to get over 50% off on a Pro subscription — no extra…",
+    "badges_zh": [
+      "50% 折扣"
+    ],
+    "badges_en": [
+      "50% off"
+    ]
+  },
+  {
+    "slug": "working-copy-pro-free-for-students",
+    "category": "dev",
+    "name_zh": "Working Copy 学生免费 Pro",
+    "name_en": "Working Copy Pro Free for Students",
+    "domain": "workingcopy.app",
+    "desc_zh": "iPhone 和 iPad 上的全功能 Git 客户端。用 GitHub 学生开发者包账号登录即可免费解锁 Pro 功能（原价 $35.99…",
+    "desc_en": "Full-featured Git client for iPhone and iPad. Sign in with your GitHub Student Developer Pack account to unlock Pro features (normally $35.99) for…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "zed",
+    "category": "dev",
+    "name_zh": "Zed Pro 学生一年",
+    "name_en": "Zed Pro for Students – One Year",
+    "domain": "zed.dev",
+    "desc_zh": "Zed 是带 AI 的协作代码编辑器。大学生验证通过后，可免费使用 Zed Pro 一年，包含每月 $10 AI 额度，以及无限次编辑预测。",
+    "desc_en": "Zed is a collaborative code editor with AI. After verification, university students can use Zed Pro for free for one year, including a monthly $10 AI…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "zyte-scrapy-cloud-student-unit",
+    "category": "dev",
+    "name_zh": "Zyte Scrapy Cloud 学生单元",
+    "name_en": "Zyte Scrapy Cloud Student Unit",
+    "domain": "zyte.com",
+    "desc_zh": "GitHub Student Developer Pack 学生可永久免费使用 1 个 Scrapy Cloud 单元：不限成员、项目和抓取…",
+    "desc_en": "GitHub Student Developer Pack members get 1 Scrapy Cloud unit free for as long as they qualify: unlimited team members, projects, and crawl time…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  }
+]

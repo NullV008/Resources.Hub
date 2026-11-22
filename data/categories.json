@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "ai",
+    "name_zh": "AI 助手",
+    "name_en": "AI Assistants",
+    "icon": "🤖",
+    "count": 43
+  },
+  {
+    "slug": "dev",
+    "name_zh": "开发者工具",
+    "name_en": "Developer Tools",
+    "icon": "🛠️",
+    "count": 56
+  },
+  {
+    "slug": "cloud",
+    "name_zh": "云计算与托管",
+    "name_en": "Cloud & Hosting",
+    "icon": "☁️",
+    "count": 32
+  },
+  {
+    "slug": "productivity",
+    "name_zh": "效率工具",
+    "name_en": "Productivity",
+    "icon": "⚡",
+    "count": 58
+  },
+  {
+    "slug": "design",
+    "name_zh": "设计与创意",
+    "name_en": "Design & Creative",
+    "icon": "🎨",
+    "count": 28
+  },
+  {
+    "slug": "learning",
+    "name_zh": "学习与科研",
+    "name_en": "Learning & Research",
+    "icon": "📚",
+    "count": 35
+  },
+  {
+    "slug": "security",
+    "name_zh": "安全与隐私",
+    "name_en": "Security & Privacy",
+    "icon": "🔒",
+    "count": 21
+  },
+  {
+    "slug": "entertainment",
+    "name_zh": "娱乐与影音",
+    "name_en": "Entertainment",
+    "icon": "🎬",
+    "count": 15
+  },
+  {
+    "slug": "shopping",
+    "name_zh": "购物与生活",
+    "name_en": "Shopping & Living",
+    "icon": "🛒",
+    "count": 13
+  }
+]

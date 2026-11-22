@@ -1,0 +1,145 @@
+[
+  {
+    "slug": "student-app-centre",
+    "category": "shopping",
+    "name_zh": "Student App Centre 会员",
+    "name_en": "Student App Centre Member",
+    "domain": "studentappcentre.com",
+    "desc_zh": "英国的学生软件折扣站。每年 US$20，开通后可以领站内 160 多个应用的学生价，包括 BetterDisplay、Little Snit…",
+    "desc_en": "A UK-based software discount site for students. For US$20 per year, you can access student pricing on over 160 apps, including BetterDisplay, Little…",
+    "badges_zh": ["$20/年"],
+    "badges_en": ["$20/yr"]
+  },
+  {
+    "slug": "verizon-students",
+    "category": "shopping",
+    "name_zh": "Verizon 学生话费和宽带折扣",
+    "name_en": "Verizon Student Phone and Internet Discounts",
+    "domain": "verizon.com",
+    "desc_zh": "面向在受认证高等院校就读的大学生和研究生，含在线就读。验证后，符合条件的无限流量手机套餐和任意 Fios 家庭宽带可以打折…",
+    "desc_en": "Available to undergraduate and graduate students enrolled at participating colleges and universities, including online programs. After verification…",
+    "badges_zh": ["手机九折"],
+    "badges_en": ["10% off mobile plans"]
+  },
+  {
+    "slug": "doordash-dashpass-student",
+    "category": "shopping",
+    "name_zh": "DoorDash 学生 DashPass",
+    "name_en": "DoorDash Student DashPass",
+    "domain": "doordash.com",
+    "desc_zh": "美国、加拿大、澳大利亚和新西兰的在校大学生，验证后可以按每月 $4.99 或每年 $48 订阅 DashPass…",
+    "desc_en": "Currently enrolled college students in the U.S., Canada, Australia, and New Zealand can subscribe to DashPass for $4.99/month or $48/year after…",
+    "badges_zh": ["$4.99/月"],
+    "badges_en": ["$4.99/mo"]
+  },
+  {
+    "slug": "strava-student",
+    "category": "shopping",
+    "name_zh": "Strava 学生年费半价",
+    "name_en": "Strava Student Annual Half Price",
+    "domain": "strava.com",
+    "desc_zh": "年满 16 岁、在认证高校在读的学生（部分国家含高中）经 SheerID 验证后，订阅年费 5 折，最长可连续享受 4 年…",
+    "desc_en": "Students aged 16 or older enrolled in accredited colleges or universities (in some countries, high school included) can get 50% off the annual…",
+    "badges_zh": ["50% 折扣"],
+    "badges_en": ["50% off"]
+  },
+  {
+    "slug": "amazon-prime-for-young-adults-prime-student-9",
+    "category": "shopping",
+    "name_zh": "Amazon Prime 年轻成人/学生会员",
+    "name_en": "Amazon Prime for Young Adults / Prime Student",
+    "domain": "amazon.com",
+    "desc_zh": "年轻成人或学生版 Prime，试用时长和折扣因国家而异：多国为 6 个月免费后再 5 折，西班牙约 3 个月…",
+    "desc_en": "Prime for Young Adults (Prime Student in Japan). Trial length and the later discount depend on the country: many offer 6 months free then 50% off…",
+    "badges_zh": ["50% 折扣"],
+    "badges_en": ["50% off"]
+  },
+  {
+    "slug": "ynab-budgeting-software",
+    "category": "shopping",
+    "name_zh": "YNAB 学生一年免费",
+    "name_en": "YNAB Free for Students for One Year",
+    "domain": "ynab.com",
+    "desc_zh": "YNAB 是个人预算软件。学生验证通过后可免费使用一年，包含完整的预算和记账功能。",
+    "desc_en": "YNAB is personal budgeting software. After successful student verification, you can use it for free for one year, including full budgeting and…",
+    "badges_zh": ["免费 1 年"],
+    "badges_en": ["1 year free"]
+  },
+  {
+    "slug": "voxi-uk-esim",
+    "category": "shopping",
+    "name_zh": "Voxi UK eSIM",
+    "name_en": "Voxi UK eSIM",
+    "domain": "voxi.co.uk",
+    "desc_zh": "英国eSIM卡，学生验证后可免费使用最高600天，包含免费通话、短信服务",
+    "desc_en": "UK eSIM card, students can get up to 600 days free usage after verification, includes free calls and SMS services",
+    "badges_zh": ["免费"],
+    "badges_en": ["Free"]
+  },
+  {
+    "slug": "alex-genadinik-student-pack",
+    "category": "shopping",
+    "name_zh": "Alex Genadinik 学生优惠包",
+    "name_en": "Alex Genadinik Student Pack",
+    "domain": "elevate.store",
+    "desc_zh": "Elevate.store 精选学生创业工具优惠包，总价值超 500 美元。涵盖 Vistaprint（包装印刷立减 $15）、.Store…",
+    "desc_en": "Elevate.store student pack curated by Alex Genadinik, offering over $500 in savings on essential e-commerce and business tools. Includes Vistaprint…",
+    "badges_zh": ["97% 折扣"],
+    "badges_en": ["97% off"]
+  },
+  {
+    "slug": "back-market-student-and-educator-discount",
+    "category": "shopping",
+    "name_zh": "Back Market 学生/教师翻新数码折扣",
+    "name_en": "Back Market Student & Educator Discount",
+    "domain": "backmarket.com",
+    "desc_zh": "Back Market 是全球领先的翻新电子产品电商平台，提供智能手机、笔记本电脑、平板、耳机等经过专业翻新的二手数码产品…",
+    "desc_en": "Back Market is the world's leading refurbished electronics marketplace, offering professionally renewed smartphones, laptops, tablets, headphones…",
+    "badges_zh": ["70% 折扣", "含教师"],
+    "badges_en": ["70% off", "Teachers too"]
+  },
+  {
+    "slug": "meta-education-purchase-program-for-students-and-amp-educato",
+    "category": "shopping",
+    "name_zh": "Meta Quest 教育购买计划（学生 9 折）",
+    "name_en": "Meta Education Purchase Program for Students & Educators",
+    "domain": "meta.com",
+    "desc_zh": "Meta 面向美国在校大学生和教育工作者推出教育购买计划，凭.edu 教育邮箱即可享受 Meta Quest 虚拟现实头显及 Ray-Ban…",
+    "desc_en": "Meta offers an education purchase program giving US university students and educators approximately 10% off Meta Quest VR headsets, Ray-Ban Meta…",
+    "badges_zh": ["10% 折扣", "含教师"],
+    "badges_en": ["10% off", "Teachers too"]
+  },
+  {
+    "slug": "panda-mobile-international-student-phone-plan",
+    "category": "shopping",
+    "name_zh": "Panda Mobile 留学生美国手机套餐",
+    "name_en": "Panda Mobile International Student Phone Plan",
+    "domain": "pandamobile.com",
+    "desc_zh": "Panda Mobile 是专为赴美国际留学生打造的美国手机运营商，无需 SSN、无合约、无隐藏费用，支持中文客服…",
+    "desc_en": "Panda Mobile is a US carrier built for international students, with no SSN, no credit check, no contract, and bilingual Chinese customer support. Use…",
+    "badges_zh": ["折扣"],
+    "badges_en": ["Discount"]
+  },
+  {
+    "slug": "singtel-hi-yay-student-prepaid",
+    "category": "shopping",
+    "name_zh": "Singtel hi! YAY! 学生预付费套餐",
+    "name_en": "Singtel hi! YAY! Student Prepaid",
+    "domain": "singtel.com",
+    "desc_zh": "新加坡 Singtel 面向学生的 hi! / YAY! 预付费手机套餐。具体流量和价格以官网当前方案为准，注册通常需要学生准证等证件。",
+    "desc_en": "Singapore student prepaid mobile plan from hi! by Singtel (YAY! Student). Data and price change on the official page. Registration usually needs a…",
+    "badges_zh": ["免费"],
+    "badges_en": ["Free"]
+  },
+  {
+    "slug": "at-and-t-signature-savings-for-students",
+    "category": "shopping",
+    "name_zh": "AT&T Signature Savings 学生折扣",
+    "name_en": "AT&T Signature Savings for Students",
+    "domain": "att.com",
+    "desc_zh": "部分与 AT&T 有协议的美国学校，学生可申请 Signature Savings。官方写无限套餐最高约 2 折：Premium 2.0 约…",
+    "desc_en": "Students at some US schools with an AT&T agreement can apply for Signature Savings. AT&T lists up to 20% off popular unlimited plans: about 20% on…",
+    "badges_zh": ["20% 折扣"],
+    "badges_en": ["20% off"]
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "slug": "ibm-spss-gradpack",
+    "category": "learning",
+    "name_zh": "IBM SPSS Statistics 学生与教师学术版",
+    "name_en": "IBM SPSS Statistics Student and Faculty Academic Edition",
+    "domain": "ibm.com",
+    "desc_zh": "学生买 GradPack，分 Base、Standard、Premium；教师买 Faculty Pack…",
+    "desc_en": "Students can purchase the GradPack, available in Base, Standard, and Premium versions; faculty can purchase the Faculty Pack, which includes all…",
+    "badges_zh": [
+      "折扣",
+      "含教师"
+    ],
+    "badges_en": [
+      "Discount",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "sas-ondemand-for-academics",
+    "category": "learning",
+    "name_zh": "SAS OnDemand for Academics 免费云端",
+    "name_en": "SAS OnDemand for Academics – Free Cloud Access",
+    "domain": "sas.com",
+    "desc_zh": "学生、教师和独立学习者都可以免费在云端用 SAS，不用本地安装。Studio 不设门槛，注册档案就能写程序、做统计分析…",
+    "desc_en": "Students, instructors, and independent learners can use SAS in the cloud for free, without needing a local installation. Studio is accessible to…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "huggingface-academia-hub",
+    "category": "learning",
+    "name_zh": "Hugging Face Academia Hub 高校订阅",
+    "name_en": "Hugging Face Academia Hub University Subscription",
+    "domain": "huggingface.co",
+    "desc_zh": "Academia Hub 是给整所大学买的 Hugging Face Hub，学生、教师和科研人员共用，不卖个人席位…",
+    "desc_en": "Academia Hub is a Hugging Face Hub subscription purchased for an entire university, for shared use by students, faculty, and researchers. Individual…",
+    "badges_zh": [
+      "10美元/座位/月",
+      "含教师"
+    ],
+    "badges_en": [
+      "$10/seat/mo",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "oracle-academy",
+    "category": "learning",
+    "name_zh": "Oracle Academy 机构会员",
+    "name_en": "Oracle Academy Institutional Membership",
+    "domain": "academy.oracle.com",
+    "desc_zh": "中学、职业院校和高校的教师或管理人员可以免费加入 Oracle Academy。通过后能使用 Java、数据库、云和人工智能等课程…",
+    "desc_en": "Teachers or administrators at middle schools, vocational schools, and higher education institutions can join Oracle Academy for free. Upon approval…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "onthehub-students",
+    "category": "learning",
+    "name_zh": "OnTheHub 学生软件商店",
+    "name_en": "OnTheHub Student Software Store",
+    "domain": "onthehub.com",
+    "desc_zh": "Kivuto 开的学术软件商店。这个链接是学生分类，当前列出 189 个商品，同一站也给教师和职工标了各自的价格。折扣按软件不同…",
+    "desc_en": "An academic software store run by Kivuto. This link leads to the student category, which currently lists 189 products. The same site also lists…",
+    "badges_zh": [
+      "学生价"
+    ],
+    "badges_en": [
+      "Student Price"
+    ]
+  },
+  {
+    "slug": "economist-student",
+    "category": "learning",
+    "name_zh": "经济学人学生订阅",
+    "name_en": "The Economist Student Subscription",
+    "domain": "subscribenow.economist.com",
+    "desc_zh": "受认证大学、学院或高中的在读学生，年满 16 岁，可以通过 SheerID 验证后订阅。数字版年费在学生页显示为 €87.25…",
+    "desc_en": "Currently enrolled students at accredited universities, colleges, or high schools who are at least 16 years old can subscribe after verification via…",
+    "badges_zh": [
+      "数字版 75% 折扣"
+    ],
+    "badges_en": [
+      "75% off the digital edition"
+    ]
+  },
+  {
+    "slug": "simpletex-education",
+    "category": "learning",
+    "name_zh": "SimpleTex 教育认证学生优惠",
+    "name_en": "SimpleTex Educational Certification Student Discount",
+    "domain": "simpletex.cn",
+    "desc_zh": "把图片里的公式识别成 LaTeX 的工具。教育认证通过后可以享受学生专属优惠，购买充电计划（月卡、年卡或永久卡）前先完成认证。认证有有效期…",
+    "desc_en": "A tool that recognizes formulas in images and converts them into LaTeX. After completing educational certification, you can enjoy exclusive student…",
+    "badges_zh": [
+      "学生优惠"
+    ],
+    "badges_en": [
+      "Student Discount"
+    ]
+  },
+  {
+    "slug": "kingdraw-education",
+    "category": "learning",
+    "name_zh": "KingDraw 教育版 高校邮箱免费",
+    "name_en": "KingDraw Education Edition – Free with University Email",
+    "domain": "kingdraw.com",
+    "desc_zh": "化学结构式编辑器。Windows 教育版面向高校，用高校邮箱绑定后可以免费使用全部功能，目前功能多于个人版。官网建议高校师生使用…",
+    "desc_en": "A chemical structure editor. The Windows Education Edition is designed for universities. After binding with a university email, you can use all…",
+    "badges_zh": [
+      "高校邮箱免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free with University Email",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "origin-student",
+    "category": "learning",
+    "name_zh": "Origin 学生版",
+    "name_en": "Origin Student Version",
+    "domain": "originlab.com",
+    "desc_zh": "美国和加拿大的本科生、研究生可购买一年期 OriginPro 学生版，价格 $69，每个项目最多 30 个窗口，必须装在学生自己的电脑上…",
+    "desc_en": "Undergraduate and graduate students in the United States and Canada can purchase a one-year OriginPro Student Version for $69. Each project supports…",
+    "badges_zh": [
+      "69美元/年"
+    ],
+    "badges_en": [
+      "$69 / year"
+    ]
+  },
+  {
+    "slug": "washington-post-academic",
+    "category": "learning",
+    "name_zh": "华盛顿邮报教育订阅价",
+    "name_en": "The Washington Post Education Subscription Price",
+    "domain": "subscribe.washingtonpost.com",
+    "desc_zh": "学生和教师验证身份后，可按教育价订阅华盛顿邮报数字版。当前活动常见价格是每 4 周 $1，之后的续订价格以结账页为准，可随时取消。",
+    "desc_en": "Students and teachers can subscribe to The Washington Post digital edition at an education rate after verifying their identity. The current…",
+    "badges_zh": [
+      "1美元/4周",
+      "含教师"
+    ],
+    "badges_en": [
+      "$1 / 4 weeks",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "new-york-times-edu-access",
+    "category": "learning",
+    "name_zh": "纽约时报校园免费访问",
+    "name_en": "The New York Times free campus access",
+    "domain": "nytimes.com",
+    "desc_zh": "只有学校已经参加纽约时报校园通行计划时才能领取。在页面里选中自己的学校，用学校邮箱激活免费数字版。如果这个邮箱上还有个人付费订阅…",
+    "desc_en": "Only available if your school participates in The New York Times Campus Access program. Select your school on the page and activate the free digital…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "interview-cake-github-students",
+    "category": "learning",
+    "name_zh": "Interview Cake 学生包一周免费",
+    "name_en": "Free One-Week Access to Interview Cake for Students",
+    "domain": "interviewcake.com",
+    "desc_zh": "已加入 GitHub 学生开发者包的学生，用 GitHub 登录可免费使用完整编程面试课 1 周…",
+    "desc_en": "Students who have joined the GitHub Student Developer Pack can log in with their GitHub account to access the full programming interview course for…",
+    "badges_zh": [
+      "1周"
+    ],
+    "badges_en": [
+      "1 week"
+    ]
+  },
+  {
+    "slug": "tableau-for-students",
+    "category": "learning",
+    "name_zh": "Tableau 学生免费版",
+    "name_en": "Tableau Student Free Edition",
+    "domain": "tableau.com",
+    "desc_zh": "学生可免费下载 Tableau Desktop Public Edition 学习做数据可视化，注册后无需每年续期。不能用于商业项目…",
+    "desc_en": "Students can download Tableau Desktop Public Edition for free to learn data visualization; after registering, no annual renewal is required. It…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "sap-learning-student-edition",
+    "category": "learning",
+    "name_zh": "SAP Learning 学生版",
+    "name_en": "SAP Learning Student Edition",
+    "domain": "learning.sap.com",
+    "desc_zh": "用大学邮箱注册并完成验证后，可以免费使用 SAP Learning 学生版，用来上课和学习 SAP 系统。",
+    "desc_en": "After registering and verifying with your university email, you can use the SAP Learning Student Edition for free to attend classes and learn SAP…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "consensus",
+    "category": "learning",
+    "name_zh": "Consensus",
+    "name_en": "Consensus",
+    "domain": "consensus.app",
+    "desc_zh": "学术AI搜索引擎，专为学术研究设计，帮助快速找到相关学术论文和研究成果。使用.edu邮箱注册可获得一年免费高级会员。",
+    "desc_en": "Academic AI search engine designed for academic research, helping to quickly find relevant academic papers and research results. Register with.edu…",
+    "badges_zh": [
+      "免费 1 年"
+    ],
+    "badges_en": [
+      "1 year free"
+    ]
+  },
+  {
+    "slug": "duolingo",
+    "category": "learning",
+    "name_zh": "多邻国学校版",
+    "name_en": "Duolingo for Schools",
+    "domain": "schools.duolingo.com",
+    "desc_zh": "多邻国学校版给老师布置语言作业、看学生进度。学生用班级码加入，本身不需要单独买 Super。",
+    "desc_en": "Duolingo for Schools allows teachers to assign language assignments and track student progress. Students join using a class code and do not need to…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "matlab-student-edition",
+    "category": "learning",
+    "name_zh": "MATLAB 学生版",
+    "name_en": "MATLAB Student Version",
+    "domain": "mathworks.com",
+    "desc_zh": "MathWorks 学生版包含 MATLAB 和一组常用工具箱，供课程和作业使用。这是学生价购买，不是全员免费。",
+    "desc_en": "The MathWorks Student Version includes MATLAB and a set of commonly used toolboxes for courses and assignments. This is a student-priced purchase…",
+    "badges_zh": [
+      "折扣"
+    ],
+    "badges_en": [
+      "Discount"
+    ]
+  },
+  {
+    "slug": "planet-education-and-research-program",
+    "category": "learning",
+    "name_zh": "Planet 卫星影像教育科研计划",
+    "name_en": "Planet Education & Research Program",
+    "domain": "planet.com",
+    "desc_zh": "面向高校学生、教师和研究人员的免费卫星影像账户，每月可查看和下载 3,000 平方公里的 PlanetScope 与 RapidEye 影像…",
+    "desc_en": "Free satellite imagery account for university students, faculty and researchers: view and download up to 3,000 km² of PlanetScope and RapidEye…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "codedex",
+    "category": "learning",
+    "name_zh": "Codédex Club 学生一个月",
+    "name_en": "Codédex Club Student One-Month Access",
+    "domain": "codedex.io",
+    "desc_zh": "Codédex 是面向初学者的编程学习站，有 Python、HTML、CSS、JavaScript、React、Git 和命令行课程…",
+    "desc_en": "Codédex is a programming learning platform for beginners, offering courses in Python, HTML, CSS, JavaScript, React, Git, and the command line…",
+    "badges_zh": [
+      "免费 1 个月"
+    ],
+    "badges_en": [
+      "1 month free"
+    ]
+  },
+  {
+    "slug": "mathpix",
+    "category": "learning",
+    "name_zh": "Mathpix 教育方案",
+    "name_en": "Mathpix Education Plan",
+    "domain": "mathpix.com",
+    "desc_zh": "Mathpix 把截图和手写公式转成 LaTeX。学生可以通过教育方案免费使用付费功能，额度以教育文档为准。",
+    "desc_en": "Mathpix converts screenshots and handwritten formulas into LaTeX. Students can use paid features for free through the education plan, with the…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "bohrium-academic-ai-platform",
+    "category": "learning",
+    "name_zh": "Bohrium 学术认证",
+    "name_en": "Bohrium Academic Certification",
+    "domain": "bohrium.com",
+    "desc_zh": "Bohrium 是科研搜索和知识库。学术认证通过后，每天有 300 光子，并开放无限订阅里包含的检索。光子当天没用完不会累加。",
+    "desc_en": "Bohrium is a research search and knowledge base platform. After completing academic certification, you will receive 300 photons daily and gain access…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "overleaf",
+    "category": "learning",
+    "name_zh": "Overleaf 机构版",
+    "name_en": "Overleaf Institutional Edition",
+    "domain": "overleaf.com",
+    "desc_zh": "Overleaf 是在线 LaTeX 编辑器。学校如果已经开通机构订阅，用学校邮箱登录就能用专业功能；个人学生不能凭这个页面单独领一年会员。",
+    "desc_en": "Overleaf is an online LaTeX editor. If your school has already subscribed to the institutional plan, you can access professional features by logging…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "cst-studio-suite-academic",
+    "category": "learning",
+    "name_zh": "CST Studio Suite 学术版",
+    "name_en": "CST Studio Suite Academic Edition",
+    "domain": "3ds.com",
+    "desc_zh": "CST Studio Suite 学术版用于电磁仿真和天线、微波课程。学生和研究人员需要通过学术申请，许可不能用于商业项目。",
+    "desc_en": "CST Studio Suite Academic Edition is used for electromagnetic simulation and antenna and microwave courses. Students and researchers must apply…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "ansys-academic-program-student",
+    "category": "learning",
+    "name_zh": "Ansys Academic Program 学生免费版",
+    "name_en": "Ansys Academic Program (Student)",
+    "domain": "ansys.com",
+    "desc_zh": "Ansys 面向全球学生免费提供仿真软件，可下载到 Windows 10/11 64 位电脑，用于作业、毕业设计和学生竞赛…",
+    "desc_en": "Ansys offers free student simulation software for homework, capstone projects, and competitions on Windows 10/11 64-bit. Ansys Student 2026 R1…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "minecraft-education",
+    "category": "learning",
+    "name_zh": "我的世界教育版",
+    "name_en": "Minecraft Education",
+    "domain": "education.minecraft.net",
+    "desc_zh": "我的世界教育版（Minecraft Education） 是基于全球最畅销游戏《我的世界》 打造的沉浸式教育学习平台…",
+    "desc_en": "Minecraft Education is an immersive learning platform built on the world's bestselling game, used by 40,000+ school systems across 140 countries. It…",
+    "badges_zh": [
+      "免费",
+      "含教师"
+    ],
+    "badges_en": [
+      "Free",
+      "Teachers too"
+    ]
+  },
+  {
+    "slug": "figcheck-academic-image-duplication-checker",
+    "category": "learning",
+    "name_zh": "Figcheck 学术图片查重（教育邮箱免费额度）",
+    "name_en": "Figcheck Academic Image Duplication Checker",
+    "domain": "figcheck.com",
+    "desc_zh": "Figcheck 是国内首个开放式在线学术图片查重平台，由同济大学创业谷项目开发，基于神经网络算法自动检测论文、期刊投稿中图片的重复使用情况…",
+    "desc_en": "Figcheck is the first open online academic image duplication detection platform in China, developed by Tongji University's entrepreneurship…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "the-wall-street-journal-student-subscription",
+    "category": "learning",
+    "name_zh": "华尔街日报 WSJ 学生订阅",
+    "name_en": "The Wall Street Journal Student Subscription",
+    "domain": "wsj.com",
+    "desc_zh": "通过核验的美国大学生可订 WSJ 学生价：数字版约 $4/月，纸电套餐约 $10/月。具体以官网结算为准。",
+    "desc_en": "Verified U.S. college students can subscribe at the WSJ student rate: Digital about $4/month, Print+Digital about $10/month. Final price is shown at…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "wolfram-alpha-pro-student-pricing",
+    "category": "learning",
+    "name_zh": "Wolfram|Alpha Pro 学生价",
+    "name_en": "Wolfram|Alpha Pro Student Pricing",
+    "domain": "wolframalpha.com",
+    "desc_zh": "学生页展示 Wolfram|Alpha Pro 约 $5/月或 €5.25/月（年付档…",
+    "desc_en": "The student page lists Wolfram|Alpha Pro at about $5/mo or €5.25/mo on annual billing (step-by-step, practice, longer compute). Pro Premium about…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "rws-campus-student-certification-free-trados-studio",
+    "category": "learning",
+    "name_zh": "RWS Campus 学生认证（免费 Trados Studio）",
+    "name_en": "RWS Campus Student Certification (Free Trados Studio)",
+    "domain": "rws.com",
+    "desc_zh": "RWS 面向学生免费提供 Trados Studio 认证套件（Level 1/2/3）…",
+    "desc_en": "Free Trados Studio certification bundle for students (Levels 1–3): training materials, practice files, and exams (up to three attempts per level)…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  },
+  {
+    "slug": "chemdraw-site-subscription",
+    "category": "learning",
+    "name_zh": "ChemDraw 高校站点订阅",
+    "name_en": "ChemDraw Site Subscription",
+    "domain": "connect.revvitysignals.com",
+    "desc_zh": "如果学校已购买 ChemDraw 站点许可，可在 Revvity Signals 的机构列表里注册并下载。列表中没有本校就无法领取。",
+    "desc_en": "If your school has a ChemDraw site license, register from the Revvity Signals gallery and download it. If your institution is not listed, this copy…",
+    "badges_zh": [
+      "免费"
+    ],
+    "badges_en": [
+      "Free"
+    ]
+  }
+]

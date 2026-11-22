@@ -1,0 +1,262 @@
+[
+  {
+    "slug": "apevon-science-academic",
+    "name_zh": "Apevon Science 学术认证会员",
+    "name_en": "Apevon Science Academic Certification Membership",
+    "domain": "apevonscience.com",
+    "desc_zh": "面向科研的 AI 智能体。高校教师和硕博研究生完成学术认证后，体验礼进会员卡包，自己选时候用：教师是 Plus 一个月（2 万积分，同时 3 个研究任务、2 个 GPU 任务），研究生是基础版一个月（5500 积分，同时 2 个研究任务、1 个 GPU 任务）。卡包长期有效，已有会员要等到期再用。月度积分每 30 天发一次、共 3 次（教师每次 1000、研究生每次 500），要到学术权益页领取，入账后 365 天有效。认证后 90 天内开通、续费或升级最多 3 次八折，失败不计次。本科生目前不能认证。",
+    "desc_en": "An AI agent designed for scientific research. After completing academic certification, university faculty and master's/PhD students can access the membership gift package and use it at their convenience: faculty receive one month of Plus membership (20,000 points, with 3 research tasks and 2 GPU tasks simultaneously), while graduate students receive one month of the Basic version (5,500 points, with 2 research tasks and 1 GPU task simultaneously). The membership package is valid long-term; existing members should wait until their current membership expires before using it. Monthly points are issued three times every 30 days (1,000 points per issuance for faculty, 500 points per issuance for graduate students) and must be claimed on the Academic Benefits page, where they remain valid for 365 days after crediting. Within 90 days of certification, you can activate, renew, or upgrade up to three times at a 20% discount; failed attempts do not count toward this limit. Undergraduate students are currently not eligible for certification.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，注册或登录。\n2. 打开左下角「新手活动」，提交学术认证和材料。高校教师和硕博研究生是不同档，本科生目前没有。\n3. 通过后先看会员卡包。已有会员要到期再用体验礼。月度积分到学术权益页点领取。付费套餐 90 天内最多三次八折。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page to register or log in.\n2. Open the \"New User Activities\" section in the bottom-left corner and submit your academic certification and supporting documents. University faculty and master's/PhD students are in different tiers; undergraduate students are not currently eligible.\n3. After approval, review the membership gift package first. Existing members should wait until their current membership expires before using the gift. Monthly points must be claimed on the Academic Benefits page. Paid plans offer up to three 20% discounts within 90 days."
+  },
+  {
+    "slug": "camber",
+    "name_zh": "Camber 学生科研算力",
+    "name_en": "Camber Student Research Computing Power",
+    "domain": "cambercloud.com",
+    "desc_zh": "在读期间免费使用 Camber Student：每月 40 CPU 小时、5 GPU 小时、50 GB 存储和 50 条 Agent 消息。可连接 Postgres、Trino、S3，用自己的数据和代码做 AI Agent，也能从 Cursor 或 Claude Code 经 MCP 运行。",
+    "desc_en": "Free access to Camber Student during your studies: 40 CPU hours, 5 GPU hours, 50 GB of storage, and 50 Agent messages per month. Connect to Postgres, Trino, and S3 to build AI Agents with your own data and code, or run them via MCP from Cursor or Claude Code.",
+    "claim_zh": "1. 先完成 GitHub Education 学生认证。\n2. 打开本页的「前往官网领取」，用 GitHub 注册。",
+    "claim_en": "1. First, complete your student verification at GitHub Education.\n2. Open the \"Get it on the official site\" button on this page and register using your GitHub account."
+  },
+  {
+    "slug": "ai-student-pack",
+    "name_zh": "AI Student Pack",
+    "name_en": "AI Student Pack",
+    "domain": "aistudentpack.com",
+    "desc_zh": "为学生用户提供丰富的 AI 工具，涵盖语音生成、智能笔记、设计开发等实用领域。",
+    "desc_en": "Provide student users with a wealth of AI tools, covering practical fields such as voice generation, intelligent note-taking, and design and development.",
+    "claim_zh": "ElevenLabs 发布的「AI Student Pack」为学生提供包括 ElevenLabs 语音AI、ElevenReader 智能朗读、Notion 笔记工具、Headspace 冥想减压、Superhuman 邮箱客户端等在内的16种 AI 工具的免费试用和大幅折扣，涵盖学习辅助、创作效率和心理健康等多个方面，帮助学生提升学习和生活效率。领取需注册官方账号，部分优惠限量，详情以官网为准。",
+    "claim_en": "The AI Student Pack from ElevenLabs gives students free trials and significant discounts on 16 AI tools, including ElevenLabs voice AI, ElevenReader smart read-aloud, Notion note-taking, Headspace meditation and stress relief, and the Superhuman email client. It covers study assistance, creative efficiency, and mental health, among other areas, helping students improve their learning and daily-life efficiency. To claim it, you need to register an official account; some offers are limited, and details are subject to the official website."
+  },
+  {
+    "slug": "free-ai-education-pro-access",
+    "name_zh": "Free.ai 教育版 Pro",
+    "name_en": "Free.ai Education Pro Access",
+    "domain": "free.ai",
+    "desc_zh": "使用.edu 邮箱验证即可免费获得 Free.ai Pro 权限，每月 50 万 Token，支持 400+ AI 工具、370+ 模型（含 GPT-4o、Claude、Gemini），无需信用卡，每 30 天重新验证续订。",
+    "desc_en": "Verify your.edu email to get free Pro access to Free.ai — 500,000 tokens/month, 400+ AI tools, 370+ models including GPT-4o, Claude and Gemini. No credit card required. Re-verify every 30 days to continue.",
+    "claim_zh": "1. 访问本页的「前往官网领取」\n2. 输入.edu 邮箱、姓名、院校及角色（学生/教师/研究员）\n3. 点击「Verify & Get Free Pro Access」，邮箱收到验证链接后点击激活\n4. 立即获得 Pro 权限：每月 50 万 Token + 400+ AI 工具 + 全量 API 访问\n5. 每 30 天会收到续订验证邮件，点击确认即可继续使用\n\n注意：需要有效的.edu 邮箱；非.edu 邮箱的国际学生可联系官方人工审核。",
+    "claim_en": "1. Go to the \"Get it on the official site\" button on this page\n2. Enter your.edu email, name, school, and role (student/teacher/researcher)\n3. Click Verify & Get Free Pro Access; when the verification link arrives in your email, click it to activate\n4. Get Pro access immediately: 500,000 tokens per month + 400+ AI tools + full API access\n5. Every 30 days, you'll receive a renewal verification email; click confirm to continue using it\n\nNote: A valid.edu email is required; international students without a.edu email can contact official support for manual review."
+  },
+  {
+    "slug": "google-colab-pro-education",
+    "name_zh": "Google Colab Pro 教育一年",
+    "name_en": "Google Colab Pro Education for One Year",
+    "domain": "colab.research.google.com",
+    "desc_zh": "用教育邮箱可以免费使用 Colab Pro 一年，比免费版有更好的 GPU 和更长的运行时间。一年结束后不会自动再送，要以当时的教育活动为准。",
+    "desc_en": "You can use Colab Pro for free for one year with an educational email account, which offers better GPUs and longer runtime compared to the free version. The free access will not be automatically renewed after the year ends; eligibility will depend on ongoing educational promotions at that time.",
+    "claim_zh": "1. 用教育邮箱对应的 Google 账号点击本页的「前往官网领取」。\n2. 按页面开通一年 Pro。看清楚到期日，到期后会回到免费版或要求付费。",
+    "claim_en": "1. Use the Google account associated with your educational email to click \"Go to the official website to claim\" on this page.\n2. Follow the page instructions to activate the one-year Pro subscription. Pay attention to the expiration date, as your account will revert to the free version or require payment after it expires."
+  },
+  {
+    "slug": "claude-team-plan-for-scientists",
+    "name_zh": "Claude 科研团队计划",
+    "name_en": "Claude Team Plan for Scientists",
+    "domain": "claude.com",
+    "desc_zh": "Anthropic 面向高校及非营利科研机构学者免费提供 Claude Team 标准席位，含 Claude Science/Code/Cowork，Premium 席位仅$15/月（原价$100）。",
+    "desc_en": "Anthropic offers verified PIs at universities and nonprofit research institutes free Claude Team Standard seats (Claude Science, Code, Cowork), with Premium seats at $15/mo (reg. $100).",
+    "claim_zh": "1. 访问本页的「前往官网领取」，点击 Verify now。\n2. 以课题组负责人（PI）身份填写机构信息和研究方向，审核约需5-7个工作日。\n3. 通过后邀请团队成员加入，Standard席位免费，Premium席位$15/月，限时优惠12个月。",
+    "claim_en": "1. Visit the \"Get it on the official site\" button on this page and click Verify now.\n2. Fill in your institution's details and research area as a principal investigator (PI); review takes about 5-7 business days.\n3. Once approved, invite team members to join: Standard seats are free, Premium seats are $15/month, limited-time offer for 12 months."
+  },
+  {
+    "slug": "openai-for-nonprofits",
+    "name_zh": "OpenAI 非营利组织优惠",
+    "name_en": "OpenAI for Nonprofits",
+    "domain": "help.openai.com",
+    "desc_zh": "合格非营利组织购买 ChatGPT Business 标准席位可享优惠：年付约 $8/人/月，月付约 $10/人/月。高级席位不打折。Enterprise 可联系销售，最高约 75% 折扣。",
+    "desc_en": "Eligible nonprofits can get ChatGPT Business Standard seats at about $8 per user per month billed annually, or $10 monthly. Premium seats are excluded. Enterprise discounts of up to 75% go through sales.",
+    "claim_zh": "1. 按帮助中心表格用组织邮箱申请，由 Goodstack 核验。\n2. 已有 Business 订阅的，通过后当前周期按比例折扣；新用户核验后在结账页只对标准席位打折。\n3. API 目前没有非营利折扣。需要 BAA 要走 Enterprise 销售。",
+    "claim_en": "1. Apply with your organization email using the help center form; verified by Goodstack.\n2. If you already have a Business subscription, after approval the current cycle is discounted on a prorated basis; for new users, after verification, only standard seats are discounted at checkout.\n3. API currently has no nonprofit discount. If you need a BAA, go through Enterprise sales."
+  },
+  {
+    "slug": "grok-supergrok-ended",
+    "name_zh": "Grok SuperGrok 教育优惠（已结束）",
+    "name_en": "Grok SuperGrok Education Discount (Ended)",
+    "domain": "grok.com",
+    "desc_zh": "用教育账号登录曾经可以领取两个月 SuperGrok。该活动已结束。",
+    "desc_en": "Previously, logging in with an education account allowed you to claim two months of SuperGrok. This promotion has ended.",
+    "claim_zh": "这个两个月免费活动已经结束，教育账号登录不会再自动开通 SuperGrok。",
+    "claim_en": "This two-month free trial has ended. Logging in with an education account will no longer automatically activate SuperGrok."
+  },
+  {
+    "slug": "devcycle",
+    "name_zh": "DevCycle 学生一年免费",
+    "name_en": "DevCycle Free for Students for One Year",
+    "domain": "devcycle.com",
+    "desc_zh": "GitHub 学生包提供 DevCycle Starter 一年免费，不限席位、功能开关和用量，用来做功能开关、灰度发布和 A/B 测试。平台已由 Dynatrace 接手，领取以学生包页面为准。",
+    "desc_en": "The GitHub Student Pack offers one year of free DevCycle Starter, with no limits on seats, feature flags, or usage, for implementing feature flags, canary releases, and A/B testing. The platform has been taken over by Dynatrace; please refer to the Student Pack page for enrollment details.",
+    "claim_zh": "1. 先完成 GitHub Education 学生认证。\n2. 在学生包页面找到 DevCycle，按页面提示用已认证的 GitHub 账号开通。\n3. 本页的「前往官网领取」仍可查看；2026 年 1 月起服务由 Dynatrace 提供，入口有变化时以学生包为准。",
+    "claim_en": "1. First, complete your student verification at GitHub Education.\n2. Find DevCycle on the Student Pack page and follow the instructions to activate it using your verified GitHub account.\n3. The the \"Get it on the official site\" button on this page remains available; starting January 2026, the service will be provided by Dynatrace, so refer to the Student Pack page if the access point changes."
+  },
+  {
+    "slug": "crowdin-academic",
+    "name_zh": "Crowdin 学术许可",
+    "name_en": "Crowdin Academic License",
+    "domain": "crowdin.com",
+    "desc_zh": "Crowdin 给学校项目学术许可。邮箱域名必须是学校的。公开项目用 Open 许可，免费且不限人数；要限制访问的私有项目用 Private 许可。只能用于教学，不能用于商业项目。",
+    "desc_en": "Crowdin offers academic licenses for school projects. The email domain must belong to the school. Public projects use the Open license, which is free and has no user limit; private projects requiring restricted access use the Private license. This license is only for educational purposes and cannot be used for commercial projects.",
+    "claim_zh": "1. 准备一个学校域名的邮箱。\n2. 点击本页的「前往官网领取」，说明项目是公开还是私有，然后提交学术许可申请。",
+    "claim_en": "1. Prepare an email address with a school domain.\n2. Click \"Go to the official website to claim\" on this page, specify whether the project is public or private, and then submit your academic license application."
+  },
+  {
+    "slug": "jetbrains-free-student-license",
+    "name_zh": "JetBrains 学生免费许可",
+    "name_en": "JetBrains Free License for Students",
+    "domain": "jetbrains.com",
+    "desc_zh": "认证院校的学生和教师可以免费使用 JetBrains 全套桌面 IDE，包括 IntelliJ IDEA Ultimate、PyCharm、WebStorm、GoLand、CLion 和 Rider。教育许可不能用于商业项目。在读期间每年续一次，毕业后两年内买个人订阅可享 6 折。",
+    "desc_en": "Students and faculty at accredited institutions can use the full suite of JetBrains desktop IDEs for free, including IntelliJ IDEA Ultimate, PyCharm, WebStorm, GoLand, CLion, and Rider. Educational licenses cannot be used for commercial projects. The license is renewed annually during your studies, and you can get a 40% discount on a personal subscription within two years of graduation.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，用学校邮箱、ISIC/ITIC，或已认证的 GitHub 学生包提交申请。\n2. 点邮件里的验证链接。通过后登录 JetBrains 账号下载 IDE，并在 IDE 里登录激活。\n3. 每年要重新提交在读或在职证明。AI Assistant 只有试用，试用结束后是 AI 免费档或另付费。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page and submit your application using your school email, ISIC/ITIC, or a verified GitHub student package.\n2. Click the verification link in the email. Once verified, log in to your JetBrains account to download the IDE and log in within the IDE to activate it.\n3. You must resubmit proof of enrollment or employment each year. The AI Assistant is only available as a trial; after the trial ends, you can use the free AI tier or pay for an upgrade."
+  },
+  {
+    "slug": "kiro",
+    "name_zh": "Kiro AI 代码编辑器",
+    "name_en": "Kiro",
+    "domain": "kiro.dev",
+    "desc_zh": "Kiro 是 AWS 推出的 AI 驱动代码编辑器，支持规格驱动开发与自主 Agent。通过大学学生认证后，可免费获得每月 1,000 积分，持续一年，无需信用卡。目前支持部分精选大学，使用大学邮箱注册后通过 SheerID 验证。",
+    "desc_en": "Kiro is an AI-powered code editor by AWS featuring spec-driven development and autonomous agents. Verified university students get 1,000 credits per month free for one year — no credit card required. Sign up with your university email and verify via SheerID.",
+    "claim_zh": "1. 使用大学邮箱注册 AWS Builder ID（本页的「前往官网领取」）\n2. 登录后进入账户使用页面，若学校在支持列表中会看到\"You are eligible for Kiro Students\"横幅\n3. 点击 Verify 按钮，通过 SheerID 完成学生身份验证（需提供姓名、生日、大学信息）\n4. 验证成功后立即获得每月 1,000 积分，有效期一年\n5. 当前支持学校：ASU、Cal Poly、CMU、Georgia Tech、NYU、U of Toronto、U of Waterloo 等",
+    "claim_en": "1. Register for an AWS Builder ID with your university email (the \"Get it on the official site\" button on this page)\n2. After logging in, go to the account usage page. If your school is on the supported list, you'll see a \"You are eligible for Kiro Students\" banner\n3. Click the Verify button and complete student verification through SheerID (you'll need to provide your name, birthday, and university information)\n4. After successful verification, you immediately get 1,000 credits per month for one year\n5. Currently supported schools: ASU, Cal Poly, CMU, Georgia Tech, NYU, U of Toronto, U of Waterloo, etc."
+  },
+  {
+    "slug": "firecrawl-student-program",
+    "name_zh": "Firecrawl 学生计划",
+    "name_en": "Firecrawl Student Program",
+    "domain": "firecrawl.dev",
+    "desc_zh": "Firecrawl 是 Y Combinator 支持的网页数据提取 API，专为开发者与 AI 应用构建。学生计划为持有有效.edu 或学术邮箱的在校学生免费提供 10,000 个 API 额度，覆盖完整功能：网页抓取（Scrape）、全站爬虫（Crawl）、站点地图（Map）、结构化内容提取（Extract），无限制、无需绑定信用卡，额度到账即用。可用于学术项目、科研、黑客马拉松及个人学习。需更多额度可发邮件至 help@firecrawl.com。",
+    "desc_en": "Firecrawl is a Y Combinator-backed web data extraction API built for developers and AI applications. The student program offers 10,000 free API credits to verified students with a valid.edu or academic email — full access to scrape, crawl, map, and extract with zero restrictions, no credit card required. Credits are added instantly. Eligible use cases include academic projects, research, hackathons, and personal learning. Need more credits? Email help@firecrawl.com.",
+    "claim_zh": "1. 使用.edu 或学术邮箱注册 Firecrawl 账号（www.firecrawl.dev）。2. 登录后进入 Settings → Billing。3. 在优惠码输入框填入 STUDENTEDU，点击兑换。4. 10,000 个免费额度立即到账，无需信用卡。",
+    "claim_en": "1. Sign up for a Firecrawl account with a.edu or academic email (www.firecrawl.dev).\n2. After logging in, go to Settings → Billing.\n3. Enter STUDENTEDU in the promo code field and click redeem.\n4. 10,000 free credits are added immediately, no credit card required."
+  },
+  {
+    "slug": "gitlab-for-education",
+    "name_zh": "GitLab 教育计划",
+    "name_en": "GitLab for Education",
+    "domain": "about.gitlab.com",
+    "desc_zh": "合格非营利学校可由全职教师或职员申请免费 GitLab Ultimate（不限席位，含每月 5 万计算分钟），用于教学和非商业科研。许可不直接发给学生。中国机构需联系极狐。",
+    "desc_en": "Qualifying nonprofit schools can get free GitLab Ultimate (unlimited seats, 50,000 compute minutes a month) for teaching and non-commercial research. Only full-time faculty or staff can apply. Licenses are not issued to students. Institutions in China should contact JiHu.",
+    "claim_zh": "1. 由本校全职教师或职员用学校邮箱打开本页的「前往官网领取」join/ 申请。\n2. 学校需受认可、以教学为主、能发学历且为非营利。通过 Proxi.id 核验。\n3. 学生不能个人领取，请让老师申请，或使用 GitLab 免费版。\n4. 中国机构官方不发此许可，联系极狐 ychen@gitlab.cn。许可一年，可按年续。",
+    "claim_en": "1. A full-time faculty member or staff member at the school applies by opening the \"Get it on the official site\" button on this pagejoin/ with a school email address.\n2. The school must be accredited, primarily teaching-focused, able to award degrees, and nonprofit. Verification is done through Proxi.id.\n3. Students cannot obtain it individually; ask a teacher to apply, or use GitLab Free.\n4. The license is not officially issued to institutions in China; contact JiHu at ychen@gitlab.cn. The license lasts one year and can be renewed annually."
+  },
+  {
+    "slug": "arduino-for-github-students",
+    "name_zh": "Arduino Cloud 学生包",
+    "name_en": "Arduino for GitHub Students",
+    "domain": "arduino.cc",
+    "desc_zh": "GitHub Student Developer Pack 学生可领 6 个月 Arduino Cloud Maker，以及认证考试约 5 折和部分开发板折扣（如 Micro 约 7 折、Due 约 5 折）。",
+    "desc_en": "GitHub Student Developer Pack members can claim 6 months of Arduino Cloud Maker, about 50% off Arduino Certification, and hardware discounts such as about 30% off Micro and 50% off Due.",
+    "claim_zh": "1. 先通过 GitHub Student Developer Pack。\n2. 打开本页的「前往官网领取」，用 GitHub 登录领取优惠码。\n3. 软件为 6 个月 Cloud Maker。硬件折扣在 Arduino 商店结账时填写优惠码。",
+    "claim_en": "1. First get approved for the GitHub Student Developer Pack.\n2. Open the \"Get it on the official site\" button on this page and sign in with GitHub to claim the discount code.\n3. Software is 6 months of Cloud Maker. For hardware discounts, enter the discount code at checkout in the Arduino Store."
+  },
+  {
+    "slug": "new-relic-for-students",
+    "name_zh": "New Relic 学生账户",
+    "name_en": "New Relic for Students",
+    "domain": "newrelic.com",
+    "desc_zh": "通过 GitHub Education 验证的学生可免费使用 New Relic。学生账户含每月 500GB 和 3 个完整平台用户。GitHub 教育页写价值约 $300/月。",
+    "desc_en": "Students verified through GitHub Education get New Relic free. The student account includes 500 GB a month and three full platform users. GitHub Education lists it at about a $300 monthly value.",
+    "claim_zh": "1. 先注册免费 New Relic 账号，并完成 GitHub Education 学生验证。\n2. 在 New Relic 右上角 Help → New Relic for Students → GitHub Education，授权 GitHub。\n3. 确认学生身份后才会加上额外数据量和用户数。在读期间有效。",
+    "claim_en": "1. First register for a free New Relic account and complete GitHub Education student verification.\n2. In the top-right corner of New Relic, go to Help → New Relic for Students → GitHub Education, and authorize GitHub.\n3. The extra data volume and number of users are only added after your student status is confirmed. Valid while enrolled."
+  },
+  {
+    "slug": "polypane-for-github-students",
+    "name_zh": "Polypane 学生一年",
+    "name_en": "Polypane for GitHub Students",
+    "domain": "polypane.app",
+    "desc_zh": "GitHub 学生可免费使用一年 Polypane 个人版，用于多断点网页开发。仅限非商业用途。",
+    "desc_en": "GitHub students get Polypane's individual plan free for one year for non-commercial work. It is a browser for checking sites across breakpoints while you build.",
+    "claim_zh": "1. 先通过 GitHub Student Developer Pack。\n2. 打开本页的「前往官网领取」领取一年个人版。\n3. 官方限定非商业使用。",
+    "claim_en": "1. First get approved through the GitHub Student Developer Pack.\n2. Open the \"Get it on the official site\" button on this page to claim one year of the Personal plan.\n3. Officially limited to non-commercial use."
+  },
+  {
+    "slug": "thunder-compute-student-gpu-credit",
+    "name_zh": "Thunder Compute 学生 GPU 额度",
+    "name_en": "Thunder Compute Student GPU Credit",
+    "domain": "thundercompute.com",
+    "desc_zh": "美国大学在读学生用学校邮箱注册，自动获得 $20 Thunder Compute 额度，可用于 A6000 或 L40 GPU。用完后按正常按量计费。",
+    "desc_en": "Students at a US university who sign up with a school email get $20 in Thunder Compute credit automatically, usable on A6000 or L40 GPUs. After it runs out, normal pay-as-you-go billing applies.",
+    "claim_zh": "1. 用美国大学邮箱在本页的「前往官网领取」注册。\n2. 域名核验通过后自动到账 $20，无需另外申请。\n3. 额度可用于课程、科研或个人项目；用完后按量付费。滥用可能被收回。",
+    "claim_en": "1. Sign up at the \"Get it on the official site\" button on this page with a US university email.\n2. Once the domain is verified, $20 is credited automatically; no separate application is needed.\n3. The credit can be used for coursework, research, or personal projects; after it runs out, you pay as you go. Abuse may result in the credit being revoked."
+  },
+  {
+    "slug": "ilovepdf-tool-suite",
+    "name_zh": "iLovePDF 教育一年",
+    "name_en": "iLovePDF Education One Year",
+    "domain": "ilovepdf.com",
+    "desc_zh": "用教育邮箱注册 iLovePDF，可以免费开通一年高级会员，用来合并、压缩、转换和签署 PDF。一年结束后要付费才能继续用高级功能。",
+    "desc_en": "Register for iLovePDF with an educational email address to unlock a free one-year premium membership for merging, compressing, converting, and signing PDFs. After the one-year period, you'll need to pay to continue using premium features.",
+    "claim_zh": "1. 用教育邮箱点击本页的「前往官网领取」注册。\n2. 登录后确认高级会员已打开，并记下到期日。",
+    "claim_en": "1. Use your educational email address to click \"Go to Official Website to Claim\" on this page and register.\n2. After logging in, confirm that your premium membership has been activated and note the expiration date."
+  },
+  {
+    "slug": "microsoft-office-365-student-edition",
+    "name_zh": "Microsoft 365 教育版",
+    "name_en": "Microsoft 365 Education",
+    "domain": "microsoft.com",
+    "desc_zh": "很多学校已经买了 Microsoft 365，用学校账号登录就能用 Word、Excel、PowerPoint 和 OneDrive。学校买了带 Copilot 的订阅才会有 Copilot。没有校园授权的学生，可以在微软学生页买 Microsoft 365 个人版学生价（大约半价，含 Copilot）。以前那 12 个月免费已经结束。",
+    "desc_en": "Many schools have already purchased Microsoft 365. You can use Word, Excel, PowerPoint, and OneDrive by signing in with your school account. Copilot is only available if the school has purchased a subscription that includes it. Students without campus licensing can purchase Microsoft 365 Personal at the student price (approximately half price, including Copilot) on the Microsoft Student page. The previous 12-month free trial has ended.",
+    "claim_zh": "1. 先用学校账号打开 office.com，看本校是否已经开通。\n2. 没有校园授权再点击本页的「前往官网领取」，用学校邮箱验证学生身份。\n3. 结账前确认是学生价。一年免费已经结束，以页面显示为准。",
+    "claim_en": "1. First, open office.com with your school account to check if your school has already activated it.\n2. If there is no campus licensing, click \"Go to the official website to claim\" on this page and verify your student status using your school email.\n3. Confirm that you are getting the student price before checkout. The one-year free trial has ended; please refer to the information displayed on the page."
+  },
+  {
+    "slug": "camscanner-student-edition",
+    "name_zh": "扫描全能王学生版",
+    "name_en": "CamScanner Student Edition",
+    "domain": "camscanner.com",
+    "desc_zh": "扫描全能王的学生认证通过后，可以使用高级扫描功能，例如去手写、转 Word 和更多云同步。免费时长以认证成功后的会员到期日为准。",
+    "desc_en": "After verifying your student status in CamScanner, you can use advanced scanning features such as handwriting removal, conversion to Word, and more cloud synchronization. The free period is based on the expiration date of your membership after successful verification.",
+    "claim_zh": "1. 登录后点击本页的「前往官网领取」，进入学生认证。\n2. 按页面上传学生证或学信网证明。通过后再看高级会员的到期日。",
+    "claim_en": "1. After logging in, click \"Go to Official Website to Claim\" on this page to start the student verification process.\n2. Upload your student ID or Xuexin.com verification document as instructed on the page. Check the expiration date of your premium membership after verification is complete."
+  },
+  {
+    "slug": "raycast-pro-50-off-for-students",
+    "name_zh": "Raycast Pro 学生五折",
+    "name_en": "Raycast Pro 50% Off for Students",
+    "domain": "raycastapp.typeform.com",
+    "desc_zh": "认证学生可申请 Raycast Pro 五折（不含更高档 AI 加购）。填写官方表单，审核通过后用优惠码开通。",
+    "desc_en": "Verified students get 50% off Raycast Pro (not higher AI add-ons). Apply via the official form; redeem the promo code after approval.",
+    "claim_zh": "1. 打开申请表本页的「前往官网领取」（官网说明见 www.raycast.com/pricing）。\n2. 填写学校、学生邮箱、在读信息；如需可附在读证明。\n3. 审核通过后邮件会收到优惠码。在 Raycast 或官网升级 Pro 时填入即可。\n\n注意：折扣只适用于 Pro，不含更高档 AI 加购。",
+    "claim_en": "1. Open the application form the \"Get it on the official site\" button on this page (official details at www.raycast.com/pricing).\n2. Fill in your school, student email, and enrollment details; attach proof of enrollment if needed.\n3. After approval, you'll receive a discount code by email. Enter it when upgrading to Pro in Raycast or on the website.\n\nNote: The discount applies only to Pro and does not include higher-tier AI add-ons."
+  },
+  {
+    "slug": "rolesharp-student-premium-6-months",
+    "name_zh": "RoleSharp 学生 Premium（6 个月）",
+    "name_en": "RoleSharp Student Premium (6 Months)",
+    "domain": "rolesharp.com",
+    "desc_zh": "用学校邮箱验证后，可免费使用 6 个月 RoleSharp Student Premium：每月 2 份定制简历、求职信、面试准备和无水印 PDF。不需要银行卡，到期自动回到免费版。",
+    "desc_en": "Verify a university email to get 6 months of RoleSharp Student Premium free: 2 tailored resumes a month, cover letters, interview prep, and watermark-free PDFs. No card. The account returns to Free when the term ends.",
+    "claim_zh": "1. 打开本页的「前往官网领取」，填写学校邮箱（.edu、.edu.xx、.ac.xx；Gmail 等会被拒绝）。\n2. 点邮件里的确认链接（24 小时内），Premium 立即生效 6 个月。\n3. 每个学生邮箱只能领一次。到期不扣费。之后可选付费通行证，校友首单有一次 8 折。",
+    "claim_en": "1. Open the \"Get it on the official site\" button on this page and enter your school email (.edu,.edu.xx,.ac.xx; Gmail, etc. will be rejected).\n2. Click the confirmation link in the email (within 24 hours); Premium takes effect immediately for 6 months.\n3. Each student email can only be used once. No charge at expiry. After that, an optional paid pass is available; alumni get a one-time 20% off their first order."
+  },
+  {
+    "slug": "roundpie-for-github-students",
+    "name_zh": "RoundPie 学生 Lite",
+    "name_en": "RoundPie for GitHub Students",
+    "domain": "theroundpie.com",
+    "desc_zh": "GitHub Student Developer Pack 学生可免费使用 RoundPie Lite：最多 3 个任务工具集成、近 6 个月记录。在 Pack 有效期内可续。",
+    "desc_en": "GitHub Student Developer Pack members get RoundPie Lite free: up to 3 task-tool integrations and 6 months of activity history. It can be extended while the Pack membership stays active.",
+    "claim_zh": "1. 注册 RoundPie，打开个人资料页。\n2. 连接 GitHub Student Developer Pack，升级到免费 Lite。每个 GitHub 学生账号只能升级一个 RoundPie 账号。\n3. 不含团队管理和 Jira、Asana 等企业集成。Ultimate 学生另有 5 折，需联系官方。",
+    "claim_en": "1. Sign up for RoundPie and open your profile page.\n2. Connect GitHub Student Developer Pack and upgrade to free Lite. Each GitHub student account can only upgrade one RoundPie account.\n3. Does not include team management and enterprise integrations such as Jira and Asana. Ultimate students get an additional 50% off; contact the official."
+  },
+  {
+    "slug": "fabrie",
+    "name_zh": "Fabrie 学生优惠",
+    "name_en": "Fabrie Student Discount",
+    "domain": "fabrie.cn",
+    "desc_zh": "Fabrie 是在线协作白板。学生可以申请教育优惠，具体折扣和时长以价格页当前活动为准。",
+    "desc_en": "Fabrie is an online collaborative whiteboard. Students can apply for an educational discount. The specific discount and duration are subject to the current promotion on the pricing page.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，用学校邮箱登录。\n2. 在价格页找到学生方案并按提示验证。通过前不要买普通席位。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page and log in with your school email.\n2. Find the student plan on the pricing page and follow the prompts to verify. Do not purchase a regular plan before verification is complete."
+  },
+  {
+    "slug": "netease-cloud-music-vinyl-membership",
+    "name_zh": "网易云音乐学生价",
+    "name_en": "NetEase Cloud Music Student Price",
+    "domain": "y.music.163.com",
+    "desc_zh": "网易云音乐对学生有黑胶会员优惠。2023 年的开学活动页可能已经换季，当前是包月还是包年、价格多少，以活动页结算为准。",
+    "desc_en": "NetEase Cloud Music offers a Black Vinyl membership discount for students. The 2023 back-to-school promotion page may have been updated; whether it's a monthly or annual plan and the current price should be confirmed on the official promotion page at checkout.",
+    "claim_zh": "1. 点击本页的「前往官网领取」，用网易云账号登录。\n2. 完成学生认证后看当前学生价，再决定是否开通。不要按旧帖子里的价格付款。",
+    "claim_en": "1. Click \"Go to Official Website to Claim\" on this page and log in with your NetEase Cloud Music account.\n2. After completing student verification, check the current student price before deciding whether to subscribe. Do not pay based on prices mentioned in older posts."
+  }
+]
