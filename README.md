@@ -63,22 +63,11 @@
 
 **[查看全部 267 个项目 →](nav/README.md)**
 
-## ⚡ 快速领取 / Quick Links
-
-| 福利 | 福利类型 | 适用人群 | 官网链接 |
-| --- | --- | --- | --- |
-| [GitHub 学生开发者包](offers/github-student-developer-pack.md) | 免费 | 学生 | [领取 →](https://education.github.com/pack) |
-| [JetBrains 学生免费许可](offers/jetbrains-free-student-license.md) | 免费 | 所有人（含师生） | [领取 →](https://www.jetbrains.com/shop/eform/students) |
-| [Figma 教育版](offers/figma-education.md) | 免费 | 所有人（含师生） | [领取 →](https://www.figma.com/education/) |
-| [Canva 教育版](offers/canva-design-tool.md) | 免费 | 所有人（含师生） | [领取 →](https://www.canva.com/education/) |
-| [Azure for Students](offers/azure-for-students.md) | 额度 / 赠送金 | 学生 | [领取 →](https://azure.microsoft.com/zh-cn/free/students/) |
-| [Google Gemini 学生一年](offers/google-gemini-for-students.md) | 免费 | 学生 | [领取 →](https://gemini.google/students/) |
-| [Notion 教育版](offers/notion-ai-notes.md) | 免费 | 所有人（含师生） | [领取 →](https://www.notion.com/help/notion-for-education) |
-| [Spotify Premium 学生版](offers/spotify-premium-student.md) | 折扣 | 学生 | [领取 →](https://www.spotify.com/student/) |
-
 ## 🛒 购买建议 / Purchase Reference
 
 > 仅整理 `buy.edumails.cn` 公开列出的 6 个入口，以及各站公开可见的售后、商品线和学术文件说明。**不构成推荐、价格承诺或平台背书。**
+
+> **说明**：以下网址为目前市场上认可度较高、经营时间长、售后服务质量较高的站点；本仓库与这些站点**无利益相关**，信息仅作公开整理与参考。
 
 > ⚠️ 购买或使用非本人学籍的 edu 邮箱申请学生优惠，可能违反服务商条款并导致封号；伪造或买卖学术文件可能涉及违法。请只使用真实、合法、属于本人的学籍与材料。
 
