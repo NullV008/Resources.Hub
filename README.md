@@ -3,7 +3,7 @@
 
 > Global Student Resources & Education Discounts Hub · 全球学生 / 教师优惠与免费资源完整索引
 
-[![Offers](https://img.shields.io/badge/offers-301-blue)](data/offers.json) [![Categories](https://img.shields.io/badge/categories-9-green)](docs/categories/) [![Nav](https://img.shields.io/badge/nav-267-purple)](nav/README.md) [![Buy](https://img.shields.io/badge/buy-6-orange)](docs/buy-recommendations.md) [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)](LICENSE)
+[![Offers](https://img.shields.io/badge/offers-301-blue)](data/offers.json) [![Categories](https://img.shields.io/badge/categories-9-green)](docs/categories/) [![Nav](https://img.shields.io/badge/nav-267-purple)](nav/README.md) [![Buy](https://img.shields.io/badge/buy-6-orange)](docs/buy-recommendations.md) [![Verify](https://img.shields.io/badge/verify-eduverify.net-brightgreen)](https://eduverify.net/) [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)](LICENSE)
 
 ## 📊 概览 / Overview
 
@@ -18,6 +18,7 @@
 | 含领取步骤 / With claim steps | 301 |
 | [nav 前台页面 / Nav pages](nav/README.md) | 267 |
 | 购买参考入口 / Purchase entries | 6 |
+| 邮箱核验工具 / Email verification | [eduverify.net](https://eduverify.net/) |
 | 语言 / Languages | 简体中文 · English |
 
 > 💡 本仓库收录每项福利的**完整信息**（领取步骤、福利类型、适用人群、最近核实时间、官网领取链接），可直接查看，无需跳转任何第三方网站。
@@ -93,6 +94,23 @@
 > 建站时间取域名 RDAP / WHOIS 的注册时间；`vip.stulink.cn`、`us.mailschool.me` 使用根域名 `stulink.cn`、`mailschool.me` 的注册时间，仅作参考。
 
 详见 **[购买建议与风险提示 →](docs/buy-recommendations.md)**（含入口选择、字段口径、购买前核对清单）。
+
+## 🔎 教育邮箱真伪性查询 / Email Verification
+
+> 查询网站：**[eduverify.net](https://eduverify.net/)** — 全球学校邮箱查询系统 · 院校邮箱域名真实性核验。
+
+| 项目 | 说明 |
+| --- | --- |
+| 查询入口 | [https://eduverify.net/](https://eduverify.net/) |
+| 查询对象 | 教育邮箱地址或院校邮箱域名（以页面输入框为准） |
+| 数据来源 | 全球院校名录、美国院校权威核验（[ope.ed.gov/dapip](https://ope.ed.gov/dapip/#/agency-list)）、全球院校补充核验、学术域名库、美国职业培训认证名录 |
+| 判定方式 | 三分类口径 + 判定结论说明 |
+
+**[打开 eduverify.net 查询 →](https://eduverify.net/)**
+
+> 查询结果只代表院校/域名数据匹配情况，不等于邮箱一定由学校官方签发，也不保证能通过某项学生优惠。最终以学校官网、学籍材料和目标服务商审核为准。
+
+详见 **[查询说明与核验清单 →](docs/edu-verification.md)**。
 
 ## 📚 全部福利 / All Offers
 
@@ -488,12 +506,14 @@
 - [`data/buy_recommendations.json`](data/buy_recommendations.json) — 6 个购买参考入口（建站时间、售后、主营邮箱类型、学术文件）
 - [`docs/categories/`](docs/categories/) — 9 个分类清单
 - [`docs/buy-recommendations.md`](docs/buy-recommendations.md) — 购买建议与风险提示
+- [`docs/edu-verification.md`](docs/edu-verification.md) — 教育邮箱真伪性查询说明与核验清单
 - [`offers/`](offers/) — 301 篇完整详情页
 
 ## ⚠️ 免责声明 / Disclaimer
 
 - 本仓库仅为信息索引，与任何福利提供方无隶属关系。
 - 「购买建议」模块只整理公开入口与公开说明，不构成推荐、价格承诺或平台背书。
+- 教育邮箱真伪性查询结果仅供参考，不代表学校官方认证结论，也不保证能通过任何学生优惠审核。
 - 购买或使用非本人学籍的 edu 邮箱申请学生优惠，可能违反服务商条款并导致封号；学术文件必须真实、合法、属于本人。
 - 优惠的可用性、地区限制、资格条件会随时变化；申请前请务必前往官方页面核实。
 - 欢迎通过 Issue / PR 指正错误信息。
