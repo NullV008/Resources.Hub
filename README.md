@@ -3,7 +3,7 @@
 
 > Global Student Resources & Education Discounts Hub · 全球学生 / 教师优惠与免费资源完整索引
 
-[![Offers](https://img.shields.io/badge/offers-301-blue)](data/offers.json) [![Categories](https://img.shields.io/badge/categories-9-green)](docs/categories/) [![Nav](https://img.shields.io/badge/nav-267-purple)](data/nav_offers.json) [![Buy](https://img.shields.io/badge/buy-6-orange)](docs/buy-recommendations.md) [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)](LICENSE)
+[![Offers](https://img.shields.io/badge/offers-301-blue)](data/offers.json) [![Categories](https://img.shields.io/badge/categories-9-green)](docs/categories/) [![Nav](https://img.shields.io/badge/nav-267-purple)](nav/README.md) [![Buy](https://img.shields.io/badge/buy-6-orange)](docs/buy-recommendations.md) [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)](LICENSE)
 
 ## 📊 概览 / Overview
 
@@ -16,7 +16,7 @@
 | 分类数 / Categories | **9** |
 | 含官网领取链接 / With official links | 301 |
 | 含领取步骤 / With claim steps | 301 |
-| nav 项目数据 / Nav records | 267 |
+| [nav 前台页面 / Nav pages](nav/README.md) | 267 |
 | 购买参考入口 / Purchase entries | 6 |
 | 语言 / Languages | 简体中文 · English |
 
@@ -35,6 +35,32 @@
 | 🔒 安全与隐私 / Security & Privacy | 21 | [查看 →](docs/categories/security.md) |
 | 🎬 娱乐与影音 / Entertainment | 15 | [查看 →](docs/categories/entertainment.md) |
 | 🛒 购物与生活 / Shopping & Living | 13 | [查看 →](docs/categories/shopping.md) |
+
+## 🧭 edu 邮箱项目导航 / Nav Projects
+
+> 267 个 `nav.edumails.cn` 项目已全部做成**前台 Markdown 详情页**，每篇包含：官网链接、教程演示、适配邮箱、环境要求、领取步骤、标签。缺失时按默认值展示。
+
+| 项目 | 数值 |
+| --- | ---: |
+| 项目总数 / Projects | **267** |
+| 教程演示有实际内容 / Actual tutorials | 142 |
+| 教程演示默认值 / Default tutorials | 125 |
+| 适配邮箱有实际内容 / Actual mailboxes | 129 |
+| 适配邮箱默认值 / Default mailboxes | 138 |
+| 前台详情页 / Detail pages | 267 |
+
+> 默认值：**教程演示：edumails.cn待更新** · **适配邮箱：edumailshop.com**
+
+| 示例项目 | 教程演示 | 适配邮箱 |
+| --- | --- | --- |
+| [GitHub Student 学生包](nav/51.md) | [edumails.cn/2025github.html](https://edumails.cn/2025github.html) | [高端美国edu教育邮箱A型【镇店之宝3号】](https://edumailshop.com/shop/138.html) |
+| [Xmind 思维导图教育优惠](nav/652.md) | edumails.cn待更新 | [高端美国edu教育邮箱A型【镇店之宝3号】](https://edumailshop.com/shop/138.html) |
+| [Dify 教育专业版](nav/63.md) | [edumails.cn/dify-ai.html](https://www.edumails.cn/dify-ai.html) | [高端国外高等教育邮箱【镇店之宝8号】](https://edumailshop.com/shop/243.html) |
+| [JetBrains 学生免费许可](nav/45.md) | [edumails.cn/jetbrains.html](https://www.edumails.cn/jetbrains.html) | 专业高级型Jetbrains全家桶授权账号 |
+| [Notion 教育版](nav/49.md) | [edumails.cn/notion-help.html](https://www.edumails.cn/notion-help.html) | [高端国外高等教育邮箱【镇店之宝8号】](https://edumailshop.com/shop/243.html) |
+| [Amazon Prime 学生会员](nav/206.md) | [edumails.cn/amazon-prime-student.html](https://edumails.cn/amazon-prime-student.html) | edumailshop.com |
+
+**[查看全部 267 个项目 →](nav/README.md)**
 
 ## ⚡ 快速领取 / Quick Links
 
@@ -457,6 +483,8 @@
 - [`data/offers.json`](data/offers.json) — 301 条福利结构化数据（中英双语 + 领取步骤 + 官网链接 + 核实日期）
 - [`data/offers.csv`](data/offers.csv) — 福利表格版本
 - [`data/nav_offers.json`](data/nav_offers.json) — 267 条 nav 项目数据（含教程演示、适配邮箱、官网链接、标签）
+- [`nav/README.md`](nav/README.md) — 267 个 nav 项目总索引（前台可见）
+- [`nav/`](nav/) — 267 篇 nav 前台详情页（教程演示、适配邮箱、环境要求、领取步骤）
 - [`data/buy_recommendations.json`](data/buy_recommendations.json) — 6 个购买参考入口（建站时间、售后、主营邮箱类型、学术文件）
 - [`docs/categories/`](docs/categories/) — 9 个分类清单
 - [`docs/buy-recommendations.md`](docs/buy-recommendations.md) — 购买建议与风险提示
