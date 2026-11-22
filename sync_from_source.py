@@ -382,6 +382,17 @@ def main():
         f.write("\n".join(report))
 
     log(f"done: {len(offers)} offers, {len(added)} added, {len(removed)} removed")
+
+    if os.environ.get("SYNC_PUSH") == "1":
+        subprocess.run(["git", "add", "-A"], cwd=ROOT, check=True)
+        changed = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=ROOT)
+        if changed.returncode != 0:
+            subprocess.run(["git", "commit", "-m", "chore: auto sync offer catalog"],
+                           cwd=ROOT, check=True)
+            subprocess.run(["git", "-c", "http.version=HTTP/1.1",
+                            "push", "origin", "HEAD:main"], cwd=ROOT, check=True)
+        else:
+            log("no changes to commit")
     return 0
 
 
