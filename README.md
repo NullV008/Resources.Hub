@@ -57,9 +57,9 @@
 | [GitHub Student 学生包](nav/51.md) | [edumails.cn/2025github.html](https://edumails.cn/2025github.html) | [高端美国edu教育邮箱A型【镇店之宝3号】](https://edumailshop.com/shop/138.html) |
 | [Xmind 思维导图教育优惠](nav/652.md) | edumails.cn待更新 | [高端美国edu教育邮箱A型【镇店之宝3号】](https://edumailshop.com/shop/138.html) |
 | [Dify 教育专业版](nav/63.md) | [edumails.cn/dify-ai.html](https://www.edumails.cn/dify-ai.html) | [高端国外高等教育邮箱【镇店之宝8号】](https://edumailshop.com/shop/243.html) |
-| [JetBrains 学生免费许可](nav/45.md) | [edumails.cn/jetbrains.html](https://www.edumails.cn/jetbrains.html) | 专业高级型Jetbrains全家桶授权账号 |
+| [JetBrains 学生免费许可](nav/45.md) | [edumails.cn/jetbrains.html](https://www.edumails.cn/jetbrains.html) | [专业高级型Jetbrains全家桶授权账号](https://edumailshop.com/shop/160.html) |
 | [Notion 教育版](nav/49.md) | [edumails.cn/notion-help.html](https://www.edumails.cn/notion-help.html) | [高端国外高等教育邮箱【镇店之宝8号】](https://edumailshop.com/shop/243.html) |
-| [Amazon Prime 学生会员](nav/206.md) | [edumails.cn/amazon-prime-student.html](https://edumails.cn/amazon-prime-student.html) | edumailshop.com |
+| [Amazon Prime 学生会员](nav/206.md) | [edumails.cn/amazon-prime-student.html](https://edumails.cn/amazon-prime-student.html) | [edumailshop.com](https://edumailshop.com) |
 
 **[查看全部 267 个项目 →](nav/README.md)**
 
@@ -491,11 +491,13 @@
 - [`data/offers.csv`](data/offers.csv) — 福利表格版本
 - [`data/nav_offers.json`](data/nav_offers.json) — 267 条 nav 项目数据（含教程演示、适配邮箱、官网链接、标签）
 - [`nav/README.md`](nav/README.md) — 267 个 nav 项目总索引（前台可见）
-- [`nav/`](nav/) — 267 篇 nav 前台详情页（教程演示、适配邮箱、环境要求、领取步骤）
+- [`nav/`](nav/) — nav 前台详情页（教程演示、适配邮箱、环境要求、领取步骤）
 - [`data/buy_recommendations.json`](data/buy_recommendations.json) — 6 个购买参考入口（建站时间、售后、主营邮箱类型、学术文件）
-- [`docs/categories/`](docs/categories/) — 9 个分类清单
+- [`docs/categories/`](docs/categories/) — 分类清单
 - [`docs/buy-recommendations.md`](docs/buy-recommendations.md) — 购买建议与风险提示
 - [`docs/edu-verification.md`](docs/edu-verification.md) — 教育邮箱真伪性查询说明与核验清单
+- [`docs/auto-sync.md`](docs/auto-sync.md) — 自动同步机制与定时任务说明
+- [`docs/sync-status.md`](docs/sync-status.md) — 最近一次同步结果
 - [`offers/`](offers/) — 301 篇完整详情页
 
 ## ⚠️ 免责声明 / Disclaimer

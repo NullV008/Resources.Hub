@@ -4,6 +4,8 @@ __pycache__/
 
 # Internal build scripts and raw crawl artifacts are kept locally only.
 /*.py
+!/build_final.py
+!/sync_from_source.py
 /data/*
 !/data/offers.json
 !/data/offers.csv
