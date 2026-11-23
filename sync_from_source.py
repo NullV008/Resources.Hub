@@ -28,6 +28,8 @@ import os
 import re
 import subprocess
 import sys
+import urllib.error
+import urllib.request
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
@@ -232,6 +234,45 @@ def load_previous():
     return {}, "none", []
 
 
+def git_output(args):
+    return subprocess.run(args, cwd=ROOT, capture_output=True, text=True).stdout.strip()
+
+
+def github_token():
+    """Read the stored credential without ever printing it."""
+    r = subprocess.run(["git", "credential", "fill"], cwd=ROOT,
+                       input="protocol=https\nhost=github.com\n\n",
+                       capture_output=True, text=True)
+    for line in r.stdout.splitlines():
+        if line.startswith("password="):
+            return line.split("=", 1)[1]
+    return ""
+
+
+def open_pull_request(branch, today):
+    remote = git_output(["git", "remote", "get-url", "origin"])
+    slug = re.sub(r"^https?://github\.com/", "", remote).removesuffix(".git")
+    token = github_token()
+    if not token or "/" not in slug:
+        return ""
+    payload = json.dumps({
+        "title": f"chore: auto sync offer catalog ({today})",
+        "head": branch,
+        "base": "main",
+        "body": "自动同步结果，请查看 `docs/sync-status.md` 中的新增/移除项目后决定是否合并。",
+    }).encode()
+    req = urllib.request.Request(
+        f"https://api.github.com/repos/{slug}/pulls", data=payload, method="POST",
+        headers={"Authorization": "Bearer " + token, "User-Agent": "workbuddy-sync",
+                 "Accept": "application/vnd.github+json", "Content-Type": "application/json"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            return json.loads(resp.read().decode()).get("html_url", "")
+    except urllib.error.HTTPError as exc:
+        log(f"pull request creation failed: HTTP {exc.code}")
+        return ""
+
+
 def main():
     today = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
     prev, prev_name, prev_order = load_previous()
@@ -386,13 +427,17 @@ def main():
     if os.environ.get("SYNC_PUSH") == "1":
         subprocess.run(["git", "add", "-A"], cwd=ROOT, check=True)
         changed = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=ROOT)
-        if changed.returncode != 0:
-            subprocess.run(["git", "commit", "-m", "chore: auto sync offer catalog"],
-                           cwd=ROOT, check=True)
-            subprocess.run(["git", "-c", "http.version=HTTP/1.1",
-                            "push", "origin", "HEAD:main"], cwd=ROOT, check=True)
-        else:
+        if changed.returncode == 0:
             log("no changes to commit")
+            return 0
+        branch = "auto-sync/" + dt.datetime.now(dt.timezone.utc).strftime("%Y%m%d-%H%M%S")
+        subprocess.run(["git", "checkout", "-b", branch], cwd=ROOT, check=True)
+        subprocess.run(["git", "commit", "-m", "chore: auto sync offer catalog"],
+                       cwd=ROOT, check=True)
+        subprocess.run(["git", "-c", "http.version=HTTP/1.1",
+                        "push", "origin", f"HEAD:{branch}"], cwd=ROOT, check=True)
+        url = open_pull_request(branch, today)
+        log(f"pull request: {url or 'created (URL unavailable)'}")
     return 0
 
 

@@ -9,26 +9,28 @@
 3. **补齐详情**：抓取详情页，提取领取步骤和最近核实日期；抓取失败时沿用上次已核实内容。
 4. **解析官网链接**：通过官方跳转端点解析真实领取地址。
 5. **重建前台**：重新生成 `data/offers.json`、`data/offers.csv`、`docs/categories/*.md`、`offers/*.md` 和 `README.md`。
-6. **提交推送**：如果生成结果有变化，定时任务自动提交并推送到 `main` 分支。
+6. **提交审核**：有变化时创建独立分支并开启 Pull Request，由仓库管理员审核后合并，不直接写入 `main`。
 
 数量统计（例如福利总数、分类数、nav 项目数、购买入口数）全部由数据长度动态生成；上游从 301 个增加到 302 个时，徽章、概览表、分类数量、README 正文和数据文件描述会同步变成 302，无需手动修改。
 
+## 分支保护
+
+`main` 已开启分支保护：禁止直接推送和强制推送，所有改动必须通过 Pull Request，且需要 **1 位审核者批准**、分支保持最新后才能合并。管理员同样受此规则约束。
+
 ## 当前定时任务
 
-已配置 WorkBuddy 定时任务：**每天 08:00（北京时间）** 自动执行同步脚本，并在有改动时提交推送到 GitHub。
+已配置 WorkBuddy 定时任务：**每天 08:00（北京时间）** 自动执行同步。
 
-任务流程：运行 `python3 sync_from_source.py` → 检查文件变化 → `git commit` → `git push origin main`；若上游不可用或数据异常，脚本会中止且不推送任何内容。
+任务流程：运行 `SYNC_PUSH=1 python3 sync_from_source.py` → 有改动时创建 `auto-sync/<时间戳>` 分支 → 推送分支并创建 Pull Request → 等待你审核合并。上游不可用或数据异常时脚本会中止，不会推送内容。
 
 ## GitHub Actions（可选）
 
-本地已准备好工作流文件 `.github/workflows/sync.yml`，每天 UTC 03:30 运行，也支持手动触发。当前推送使用的 Classic PAT 未勾选 `workflow` 权限，GitHub 拒绝写入该文件，因此它尚未在仓库中生效。
+本地已准备好工作流文件 `.github/workflows/sync.yml`，每天 UTC 03:30 运行，同样以 Pull Request 方式提交；也支持手动触发。当前推送使用的 Classic PAT 未勾选 `workflow` 权限，GitHub 拒绝写入该文件，因此它尚未在仓库中生效。
 
 启用方式二选一：
 
 1. 给 PAT 增加 `workflow` scope 后重新推送该文件；或
 2. 在 GitHub 网页端手动新建文件 `.github/workflows/sync.yml`，粘贴本地同名文件内容后提交。
-
-启用后可在 **Actions → Sync offer catalog → Run workflow** 手动触发。
 
 ## 安全约束
 
@@ -42,7 +44,7 @@
 python3 sync_from_source.py
 ```
 
-如需在本地同步后直接提交推送：
+如需在本地同步后创建待审核 PR：
 
 ```bash
 SYNC_PUSH=1 python3 sync_from_source.py
