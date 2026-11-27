@@ -19,10 +19,13 @@
 
 ## 📋 领取步骤
 
-1. 打开本页的「前往官网领取」了解学生/学术写作场景。
-2. 学生页本身不标折扣数字。官方帮助写明：学生、教师、教授符合条件可享 Premium 最高约 20% 教育折扣（help.languagetool.org/hc/en-us/articles/39254510973335-What-subscriptions-does-LanguageTool-offer）。
-3. 去 Premium 订阅，结账可试 EDUCATION 优惠码：languagetool.org/premium?coupon=EDUCATION
-4. 浏览器插件或 Word / Google Docs / LibreOffice 扩展登录同一账号即可。免费版只改基础拼写标点。
+- 打开本页的「前往官网领取」了解学生/学术写作场景。
+
+- 学生页本身不标折扣数字。官方帮助写明：学生、教师、教授符合条件可享 Premium 最高约 20% 教育折扣（help.languagetool.org/hc/en-us/articles/39254510973335-What-subscriptions-does-LanguageTool-offer）。
+
+- 去 Premium 订阅，结账可试 EDUCATION 优惠码：languagetool.org/premium?coupon=EDUCATION
+
+- 浏览器插件或 Word / Google Docs / LibreOffice 扩展登录同一账号即可。免费版只改基础拼写标点。
 
 ## 📝 福利简介
 

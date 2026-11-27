@@ -19,10 +19,15 @@
 
 ## 📋 领取步骤
 
-1. 打开本页的「前往官网领取」，按学段选择 Post-Secondary 或 Secondary。
-2. 注册或登录 Unity ID（不必用学校邮箱）。
-3. 用 SheerID 提交学籍信息；多数即时通过，补充材料会发邮件。
-4. 查收许可密钥，在 Unity Hub 激活学生许可。
+- 打开本页的「前往官网领取」，按学段选择 Post-Secondary 或 Secondary。
+
+- 注册或登录 Unity ID（不必用学校邮箱）。
+
+- 用 SheerID 提交学籍信息；多数即时通过，补充材料会发邮件。
+
+- 查收许可密钥，在 Unity Hub 激活学生许可。
+
+计划一年有效，到期或到期前 60 天可续；仅绑定一个 Unity ID。课堂机房请走学校 Education Grant，不要用学生计划批量装机。
 
 ## 📝 福利简介
 

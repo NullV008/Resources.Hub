@@ -19,11 +19,15 @@
 
 ## 📋 领取步骤
 
-1. 访问 builder.aws.com 并登录/注册 AWS Builder Center 账号（可用现有 AWS 账号登录）。
-2. 在个人资料页找到 Student Status（学生状态）入口，点击进行 SheerID 学生身份验证，通常几分钟内完成（需年满 18 岁、在认可高校在读）。
-3. 验证通过后，完善 Builder Center 个人资料：上传头像并填写 About 简介，完成后立即解锁 12 个月 AWS Skill Builder 高级会员（价值 $449）。
-4. 在 Builder Center 保持活跃赢取徽章：发表文章、评论、参与 Wishlist 等操作可累积徽章。
-5. 达到 7 个徽章解锁 $10 云积分；14 个徽章再得 $20；21 个徽章兑换 $100 的 AWS Foundational 认证考试代金券。
+- 访问 builder.aws.com 并登录/注册 AWS Builder Center 账号（可用现有 AWS 账号登录）。
+
+- 在个人资料页找到 Student Status（学生状态）入口，点击进行 SheerID 学生身份验证，通常几分钟内完成（需年满 18 岁、在认可高校在读）。
+
+- 验证通过后，完善 Builder Center 个人资料：上传头像并填写 About 简介，完成后立即解锁 12 个月 AWS Skill Builder 高级会员（价值 $449）。
+
+- 在 Builder Center 保持活跃赢取徽章：发表文章、评论、参与 Wishlist 等操作可累积徽章。
+
+- 达到 7 个徽章解锁 $10 云积分；14 个徽章再得 $20；21 个徽章兑换 $100 的 AWS Foundational 认证考试代金券。
 
 注意：该计划为 2026 返校季限时推出，具体权益与有效期以官方页面为准。
 

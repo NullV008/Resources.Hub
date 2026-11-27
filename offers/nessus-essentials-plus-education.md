@@ -19,7 +19,8 @@
 
 ## 📋 领取步骤
 
-打开页面，按学生或教师身份完成资格验证。通过后下载 Nessus Essentials Plus。有问题可写 [email protected]。
+打开页面，按学生或教师身份完成资格验证。
+通过后下载 Nessus Essentials Plus。有问题可写 education@tenable.com。
 
 ## 📝 福利简介
 

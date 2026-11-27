@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先加入 GitHub Student Developer Pack。
-2. 打开本页的「前往官网领取」，点 Get the Student Offer。
-3. 需用免费方案的团队领取，不能和入门试用叠加。失去 Pack 资格后会降回免费版。
+- 先加入 GitHub Student Developer Pack。
+
+- 打开本页的「前往官网领取」，点 Get the Student Offer。
+
+- 需用免费方案的团队领取，不能和入门试用叠加。失去 Pack 资格后会降回免费版。
 
 ## 📝 福利简介
 

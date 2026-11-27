@@ -19,10 +19,13 @@
 
 ## 📋 领取步骤
 
-1. 先加入 GitHub Student Developer Pack 并完成学生验证。
-2. 用 GitHub 注册 GitKraken，或把已有账号绑到 GitHub。
-3. 在 Pack 仪表盘点 GitKraken，或打开本页的「前往官网领取」领取 6 个月。
-4. 到期仍是学生可续学生价；GitHub 教育资格失效后优惠可能消失。
+- 先加入 GitHub Student Developer Pack 并完成学生验证。
+
+- 用 GitHub 注册 GitKraken，或把已有账号绑到 GitHub。
+
+- 在 Pack 仪表盘点 GitKraken，或打开本页的「前往官网领取」领取 6 个月。
+
+- 到期仍是学生可续学生价；GitHub 教育资格失效后优惠可能消失。
 
 ## 📝 福利简介
 

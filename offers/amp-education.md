@@ -7,7 +7,7 @@
 | 📂 分类 / Category | 开发者工具 / Developer Tools |
 | 🎁 福利类型 / Benefit | 折扣 / Discount（50% off） |
 | 👥 适用人群 / Audience | 所有人（含师生） / Everyone (incl. students & teachers) |
-| ✅ 最近核实 / Last verified | 2026-11-08 |
+| ✅ 最近核实 / Last verified | 2026-11-06 |
 | 🔖 状态 / Status | Active |
 | 🌐 官网 / Official site | ampcode.com |
 
@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 点击本页的「前往官网领取」，登录 Amp。
-2. 按页面表格提交学生或教师身份。通过后 Megawatt 显示为每月 $10。
-3. 如果已经在付费，折扣从下次续费开始，不会退之前的费用。活动可以随时调整或停止。
+- 点击本页的「前往官网领取」，登录 Amp。
+
+- 按页面表格提交学生或教师身份。通过后 Megawatt 显示为每月 $10。
+
+- 如果已经在付费，折扣从下次续费开始，不会退之前的费用。活动可以随时调整或停止。
 
 ## 📝 福利简介
 

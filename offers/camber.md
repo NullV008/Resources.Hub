@@ -19,8 +19,9 @@
 
 ## 📋 领取步骤
 
-1. 先完成 GitHub Education 学生认证。
-2. 打开本页的「前往官网领取」，用 GitHub 注册。
+- 先完成 GitHub Education 学生认证。
+
+- 打开本页的「前往官网领取」，用 GitHub 注册。
 
 ## 📝 福利简介
 

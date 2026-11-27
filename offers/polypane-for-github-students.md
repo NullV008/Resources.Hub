@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先通过 GitHub Student Developer Pack。
-2. 打开本页的「前往官网领取」领取一年个人版。
-3. 官方限定非商业使用。
+- 先通过 GitHub Student Developer Pack。
+
+- 打开本页的「前往官网领取」领取一年个人版。
+
+- 官方限定非商业使用。
 
 ## 📝 福利简介
 

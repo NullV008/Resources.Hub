@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先通过 GitHub Student Developer Pack 学生验证。
-2. 打开本页的「前往官网领取」，按 Pack 入口领取。
-3. 权益为 1 个永久免费单元。问题可写 support@zyte.com。
+- 先通过 GitHub Student Developer Pack 学生验证。
+
+- 打开本页的「前往官网领取」，按 Pack 入口领取。
+
+- 权益为 1 个永久免费单元。问题可写 support@zyte.com。
 
 ## 📝 福利简介
 

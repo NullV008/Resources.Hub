@@ -19,10 +19,13 @@
 
 ## 📋 领取步骤
 
-1. 先通过 GitHub Education 认证，获得 GitHub 学生开发者包
-2. 在 App Store 安装或更新 Working Copy（iPhone / iPad）
-3. 在设备上打开本页的「前往官网领取」，点击页面上的验证链接
-4. 用学生 GitHub 账号登录，即可免费使用全部 Pro 功能
+- 先通过 GitHub Education 认证，获得 GitHub 学生开发者包
+
+- 在 App Store 安装或更新 Working Copy（iPhone / iPad）
+
+- 在设备上打开本页的「前往官网领取」，点击页面上的验证链接
+
+- 用学生 GitHub 账号登录，即可免费使用全部 Pro 功能
 
 ## 📝 福利简介
 

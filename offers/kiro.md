@@ -19,11 +19,15 @@
 
 ## 📋 领取步骤
 
-1. 使用大学邮箱注册 AWS Builder ID（本页的「前往官网领取」）
-2. 登录后进入账户使用页面，若学校在支持列表中会看到"You are eligible for Kiro Students"横幅
-3. 点击 Verify 按钮，通过 SheerID 完成学生身份验证（需提供姓名、生日、大学信息）
-4. 验证成功后立即获得每月 1,000 积分，有效期一年
-5. 当前支持学校：ASU、Cal Poly、CMU、Georgia Tech、NYU、U of Toronto、U of Waterloo 等
+- 使用大学邮箱注册 AWS Builder ID（本页的「前往官网领取」）
+
+- 登录后进入账户使用页面，若学校在支持列表中会看到"You are eligible for Kiro Students"横幅
+
+- 点击 Verify 按钮，通过 SheerID 完成学生身份验证（需提供姓名、生日、大学信息）
+
+- 验证成功后立即获得每月 1,000 积分，有效期一年
+
+- 当前支持学校：ASU、Cal Poly、CMU、Georgia Tech、NYU、U of Toronto、U of Waterloo 等
 
 ## 📝 福利简介
 

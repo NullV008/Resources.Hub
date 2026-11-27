@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 确认 GitHub Education 权益有效。
-2. 打开本页的「前往官网领取」，用 GitHub 关联并开通学生计划。
-3. 若进了付费试用，到 Settings → Billing 再选 Student Plan。离开 Pack 后不再符合。
+- 确认 GitHub Education 权益有效。
+
+- 打开本页的「前往官网领取」，用 GitHub 关联并开通学生计划。
+
+- 若进了付费试用，到 Settings → Billing 再选 Student Plan。离开 Pack 后不再符合。
 
 ## 📝 福利简介
 

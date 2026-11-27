@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先完成 [GitHub Education](https://education.github.com/pack) 学生认证。
-2. 打开本页的「前往官网领取」，点击 Sign up with GitHub。
-3. 用已认证的 GitHub 账号登录，学生方案会自动开通。
+- 先完成 GitHub Education 学生认证。
+
+- 打开本页的「前往官网领取」，点击 Sign up with GitHub。
+
+- 用已认证的 GitHub 账号登录，学生方案会自动开通。
 
 ## 📝 福利简介
 

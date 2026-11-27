@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 在本页的「前往官网领取」提交姓名、.edu 邮箱、项目和学生证。
-2. 审核邮件通过后，从 Mac App Store 下载 Highland 2。
-3. 菜单里选 Upgrade to Pro，再用同一学校邮箱升级到学生版。一年后打印会带水印，除非付费升级。教师可写 [email protected]。
+- 在本页的「前往官网领取」提交姓名、.edu 邮箱、项目和学生证。
+
+- 审核邮件通过后，从 Mac App Store 下载 Highland 2。
+
+- 菜单里选 Upgrade to Pro，再用同一学校邮箱升级到学生版。一年后打印会带水印，除非付费升级。教师可写 support@quoteunquoteapps.com。
 
 ## 📝 福利简介
 

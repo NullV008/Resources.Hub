@@ -7,7 +7,7 @@
 | 📂 分类 / Category | 购物与生活 / Shopping & Living |
 | 🎁 福利类型 / Benefit | 折扣 / Discount（97% off） |
 | 👥 适用人群 / Audience | 学生 / Students |
-| ✅ 最近核实 / Last verified | 2026-11-04 |
+| ✅ 最近核实 / Last verified | 2026-09-26 |
 | 🔖 状态 / Status | Active |
 | 🌐 官网 / Official site | elevate.store |
 
@@ -19,7 +19,7 @@
 
 ## 📋 领取步骤
 
-访问 [本页的](https://xn--8pvn55a0tz/)「前往官网领取」，点击 "Get Pack Now" 注册账号即可获取所有优惠码。使用.store 域名用户可解锁专属双倍折扣。
+访问 本页的「前往官网领取」，点击 "Get Pack Now" 注册账号即可获取所有优惠码。使用.store 域名用户可解锁专属双倍折扣。
 
 ## 📝 福利简介
 

@@ -19,7 +19,7 @@
 
 ## 📋 领取步骤
 
-1. 访问 本页的「前往官网领取」，选择所需套餐（VPN Plus / Mail Plus / Proton Unlimited）。2. 点击对应的"Get deal"按钮，跳转至 Student Beans 验证页面。3. 注册或登录 Student Beans 账号，验证在读学生状态。4. 验证通过后折扣自动应用，完成付款即可。首年结束后将按正常价格续费，可在此前取消。
+- 访问 本页的「前往官网领取」，选择所需套餐（VPN Plus / Mail Plus / Proton Unlimited）。2. 点击对应的"Get deal"按钮，跳转至 Student Beans 验证页面。3. 注册或登录 Student Beans 账号，验证在读学生状态。4. 验证通过后折扣自动应用，完成付款即可。首年结束后将按正常价格续费，可在此前取消。
 
 ## 📝 福利简介
 

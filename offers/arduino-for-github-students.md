@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先通过 GitHub Student Developer Pack。
-2. 打开本页的「前往官网领取」，用 GitHub 登录领取优惠码。
-3. 软件为 6 个月 Cloud Maker。硬件折扣在 Arduino 商店结账时填写优惠码。
+- 先通过 GitHub Student Developer Pack。
+
+- 打开本页的「前往官网领取」，用 GitHub 登录领取优惠码。
+
+- 软件为 6 个月 Cloud Maker。硬件折扣在 Arduino 商店结账时填写优惠码。
 
 ## 📝 福利简介
 

@@ -19,7 +19,7 @@
 
 ## 📋 领取步骤
 
-使用学术邮箱（.edu、.ac.uk 等）在 [intelx.io](https://intelx.io/) 注册账号并完成邮箱验证，系统将自动升级为 Academia 许可。升级成功后在账号页面可看到"Congratulations! Your account was automatically upgraded"提示。如域名未被自动识别，请联系 Intelligence X 团队手动添加。
+使用学术邮箱（.edu、.ac.uk 等）在 intelx.io 注册账号并完成邮箱验证，系统将自动升级为 Academia 许可。升级成功后在账号页面可看到"Congratulations! Your account was automatically upgraded"提示。如域名未被自动识别，请联系 Intelligence X 团队手动添加。
 
 ## 📝 福利简介
 

@@ -19,7 +19,7 @@
 
 ## 📋 领取步骤
 
-1. 使用.edu 或学术邮箱注册 Firecrawl 账号（www.firecrawl.dev）。2. 登录后进入 Settings → Billing。3. 在优惠码输入框填入 STUDENTEDU，点击兑换。4. 10,000 个免费额度立即到账，无需信用卡。
+- 使用.edu 或学术邮箱注册 Firecrawl 账号（www.firecrawl.dev）。2. 登录后进入 Settings → Billing。3. 在优惠码输入框填入 STUDENTEDU，点击兑换。4. 10,000 个免费额度立即到账，无需信用卡。
 
 ## 📝 福利简介
 

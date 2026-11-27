@@ -3,19 +3,19 @@
 
 > Global Student Resources & Education Discounts Hub · 全球学生 / 教师优惠与免费资源完整索引
 
-[![Offers](https://img.shields.io/badge/offers-301-blue)](data/offers.json) [![Categories](https://img.shields.io/badge/categories-9-green)](docs/categories/) [![Nav](https://img.shields.io/badge/nav-267-purple)](nav/README.md) [![Buy](https://img.shields.io/badge/buy-6-orange)](docs/buy-recommendations.md) [![Verify](https://img.shields.io/badge/verify-eduverify.net-brightgreen)](https://eduverify.net/) [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)](LICENSE)
+[![Offers](https://img.shields.io/badge/offers-314-blue)](data/offers.json) [![Categories](https://img.shields.io/badge/categories-9-green)](docs/categories/) [![Nav](https://img.shields.io/badge/nav-267-purple)](nav/README.md) [![Buy](https://img.shields.io/badge/buy-6-orange)](docs/buy-recommendations.md) [![Verify](https://img.shields.io/badge/verify-eduverify.net-brightgreen)](https://eduverify.net/) [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)](LICENSE)
 
 ## 📊 概览 / Overview
 
 | 项目 | 数值 |
 | --- | --- |
-| 福利总数 / Offers | **301** |
-| 有效 / Active | 287 |
+| 福利总数 / Offers | **328** |
+| 有效 / Active | 314 |
 | 已结束 / Ended | 13 |
 | 已暂停 / Paused | 1 |
 | 分类数 / Categories | **9** |
-| 含官网领取链接 / With official links | 301 |
-| 含领取步骤 / With claim steps | 301 |
+| 含官网领取链接 / With official links | 328 |
+| 含领取步骤 / With claim steps | 328 |
 | [nav 前台页面 / Nav pages](nav/README.md) | 267 |
 | 购买参考入口 / Purchase entries | 6 |
 | 邮箱核验工具 / Email verification | [eduverify.net](https://eduverify.net/) |
@@ -27,15 +27,15 @@
 
 | 分类 Category | 数量 | 详情 |
 | --- | ---: | --- |
-| 🤖 AI 助手 / AI Assistants | 43 | [查看 →](docs/categories/ai.md) |
-| 🛠️ 开发者工具 / Developer Tools | 56 | [查看 →](docs/categories/dev.md) |
+| 🤖 AI 助手 / AI Assistants | 47 | [查看 →](docs/categories/ai.md) |
+| 🛠️ 开发者工具 / Developer Tools | 63 | [查看 →](docs/categories/dev.md) |
 | ☁️ 云计算与托管 / Cloud & Hosting | 32 | [查看 →](docs/categories/cloud.md) |
-| ⚡ 效率工具 / Productivity | 58 | [查看 →](docs/categories/productivity.md) |
-| 🎨 设计与创意 / Design & Creative | 28 | [查看 →](docs/categories/design.md) |
-| 📚 学习与科研 / Learning & Research | 35 | [查看 →](docs/categories/learning.md) |
-| 🔒 安全与隐私 / Security & Privacy | 21 | [查看 →](docs/categories/security.md) |
+| ⚡ 效率工具 / Productivity | 63 | [查看 →](docs/categories/productivity.md) |
+| 🎨 设计与创意 / Design & Creative | 31 | [查看 →](docs/categories/design.md) |
+| 📚 学习与科研 / Learning & Research | 40 | [查看 →](docs/categories/learning.md) |
+| 🔒 安全与隐私 / Security & Privacy | 23 | [查看 →](docs/categories/security.md) |
 | 🎬 娱乐与影音 / Entertainment | 15 | [查看 →](docs/categories/entertainment.md) |
-| 🛒 购物与生活 / Shopping & Living | 13 | [查看 →](docs/categories/shopping.md) |
+| 🛒 购物与生活 / Shopping & Living | 14 | [查看 →](docs/categories/shopping.md) |
 
 ## 🧭 edu 邮箱项目导航 / Nav Projects
 
@@ -103,9 +103,9 @@
 
 ## 📚 全部福利 / All Offers
 
-### 🤖 AI 助手 / AI Assistants (43)
+### 🤖 AI 助手 / AI Assistants (47)
 
-<details><summary>展开 / Expand (43)</summary>
+<details><summary>展开 / Expand (47)</summary>
 
 | 福利 / Offer | 站点 | 类型 | 人群 | 核实日期 | 状态 |
 | --- | --- | --- | --- | --- | --- |
@@ -152,12 +152,16 @@
 | [Claude 非营利组织优惠](offers/claude-for-nonprofits.md) | claude.com | 折扣 | 学生 | 2026-09-26 | Active |
 | [OpenAI 非营利组织优惠](offers/openai-for-nonprofits.md) | help.openai.com | 折扣 | 学生 | 2026-09-26 | Active |
 | [Scira Pro 学校邮箱价](offers/scira-pro-school-email-price.md) | scira.ai | 折扣 | 学生 | 2026-09-26 | Active |
+| [Wiro 学生 $200 额度](offers/wiro-student-credits.md) | wiro.ai | 额度 / 赠送金 | 学生 | 2026-11-23 | Active |
+| [Kimi for Science 国内额度](offers/kimi-for-science.md) | kimi.com | 额度 / 赠送金 | 所有人（含师生） | 2026-11-27 | Active |
+| [Kimi for Science 国际额度](offers/kimi-for-science-international.md) | kimi.ai | 额度 / 赠送金 | 所有人（含师生） | 2026-11-27 | Active |
+| [Langfuse 学术 Cloud 额度](offers/langfuse-research.md) | langfuse.com | 额度 / 赠送金 | 所有人（含师生） | 2026-11-27 | Active |
 
 </details>
 
-### 🛠️ 开发者工具 / Developer Tools (56)
+### 🛠️ 开发者工具 / Developer Tools (63)
 
-<details><summary>展开 / Expand (56)</summary>
+<details><summary>展开 / Expand (63)</summary>
 
 | 福利 / Offer | 站点 | 类型 | 人群 | 核实日期 | 状态 |
 | --- | --- | --- | --- | --- | --- |
@@ -165,7 +169,7 @@
 | [GitHub 非营利组织折扣](offers/github-nonprofit.md) | github.com | 免费 | 所有人（含师生） | 2026-11-14 | Active |
 | [Twilio Impact Access](offers/twilio-impact-access.md) | twilio.org | 额度 / 赠送金 | 所有人（含师生） | 2026-11-14 | Active |
 | [GitLab Ultimate 非营利许可](offers/gitlab-nonprofit.md) | about.gitlab.com | 免费 | 所有人（含师生） | 2026-11-13 | Active |
-| [Amp Megawatt 教育五折](offers/amp-education.md) | ampcode.com | 折扣 | 所有人（含师生） | 2026-11-08 | Active |
+| [Amp Megawatt 教育五折](offers/amp-education.md) | ampcode.com | 折扣 | 所有人（含师生） | 2026-11-06 | Active |
 | [DevCycle 学生一年免费](offers/devcycle.md) | devcycle.com | 免费 | 学生 | 2026-11-04 | Active |
 | [SQLGate 学生一年免费](offers/sqlgate.md) | sqlgate.com | 免费 | 学生 | 2026-11-04 | Active |
 | [testmail.app 教育与开源支持](offers/testmail.md) | testmail.app | 免费 | 所有人（含师生） | 2026-11-04 | Active |
@@ -213,10 +217,17 @@
 | [New Relic 学生账户](offers/new-relic-for-students.md) | newrelic.com | 免费 | 学生 | 2026-09-26 | Active |
 | [Mapbox 教育账户](offers/mapbox-for-education.md) | mapbox.com | 免费 | 学生 | 2026-09-26 | Active |
 | [PopSQL 学生 Business](offers/popsql-for-github-students.md) | popsql.com | 免费 | 学生 | 2026-09-26 | Active |
-| [Requestly Professional 学生一年](offers/requestly-professional-for-github-students.md) | requestly.com | 免费 | 学生 | 2026-09-26 | Active |
+| [Requestly 学生专业版](offers/requestly-professional-for-github-students.md) | requestly.com | 免费 | 学生 | 2026-09-26 | Active |
 | [Pageclip 学生 Basic](offers/pageclip-for-github-students.md) | pageclip.co | 免费 | 学生 | 2026-09-26 | Active |
 | [POEditor 学生一年 Plus](offers/poeditor-for-github-students.md) | poeditor.com | 免费 | 学生 | 2026-09-26 | Active |
 | [Polypane 学生一年](offers/polypane-for-github-students.md) | polypane.app | 免费 | 学生 | 2026-09-26 | Active |
+| [Clerk Pro 学生免费](offers/clerk-github-student-pack.md) | clerk.com | 免费 | 学生 | 2026-11-23 | Active |
+| [Codecov 学生教师免费](offers/codecov-for-education.md) | about.codecov.io | 免费 | 所有人（含师生） | 2026-11-27 | Active |
+| [CodeScene 学生账号](offers/codescene-github-students.md) | codescene.com | 免费 | 学生 | 2026-11-27 | Active |
+| [ConfigCat Pro 学生免费](offers/configcat-github-students.md) | configcat.com | 免费 | 学生 | 2026-11-27 | Active |
+| [Imgbot 学生免费压缩](offers/imgbot-github-students.md) | imgbot.net | 免费 | 学生 | 2026-11-27 | Active |
+| [Vaadin Pro 学生许可](offers/vaadin-student-program.md) | vaadin.com | 免费 | 学生 | 2026-11-27 | Active |
+| [Xojo Pro 学生许可](offers/xojo-pro-github-students.md) | xojo.com | 免费 | 学生 | 2026-11-27 | Active |
 
 </details>
 
@@ -261,9 +272,9 @@
 
 </details>
 
-### ⚡ 效率工具 / Productivity (58)
+### ⚡ 效率工具 / Productivity (63)
 
-<details><summary>展开 / Expand (58)</summary>
+<details><summary>展开 / Expand (63)</summary>
 
 | 福利 / Offer | 站点 | 类型 | 人群 | 核实日期 | 状态 |
 | --- | --- | --- | --- | --- | --- |
@@ -325,12 +336,17 @@
 | [Loom 教育场景](offers/loom-for-education.md) | loom.com | 折扣 | 学生 | 2026-09-26 | Active |
 | [Linear 教育折扣](offers/linear-education-program.md) | linear.app | 折扣 | 所有人（含师生） | 2026-09-26 | Active |
 | [RoundPie 学生 Lite](offers/roundpie-for-github-students.md) | theroundpie.com | 免费 | 学生 | 2026-09-26 | Active |
+| [Appfigures 学生一年](offers/appfigures-github-students.md) | appfigures.com | 免费 | 学生 | 2026-11-27 | Active |
+| [HazeOver 学生 Mac 许可](offers/hazeover-github-students.md) | hazeover.com | 免费 | 学生 | 2026-11-27 | Active |
+| [RoundPie 学生 Lite](offers/roundpie-github-students.md) | theroundpie.com | 免费 | 学生 | 2026-11-27 | Active |
+| [Simple Analytics 学生一年](offers/simple-analytics-github-students.md) | dashboard.simpleanalytics.com | 免费 | 学生 | 2026-11-27 | Active |
+| [Wordtune 学生减免 30%](offers/wordtune-student-discount.md) | wordtune.com | 折扣 | 学生 | 2026-11-27 | Active |
 
 </details>
 
-### 🎨 设计与创意 / Design & Creative (28)
+### 🎨 设计与创意 / Design & Creative (31)
 
-<details><summary>展开 / Expand (28)</summary>
+<details><summary>展开 / Expand (31)</summary>
 
 | 福利 / Offer | 站点 | 类型 | 人群 | 核实日期 | 状态 |
 | --- | --- | --- | --- | --- | --- |
@@ -356,18 +372,21 @@
 | [Descript 教育/非营利折扣（Hobbyist 价）](offers/descript-education-and-nonprofit-plan.md) | help.descript.com | 折扣 | 所有人（含师生） | 2026-09-26 | Active |
 | [Maxon One 学生教育授权（C4D/ZBrush 等）](offers/maxon-one-student-educational-license.md) | maxon.net | 免费 | 学生 | 2026-09-26 | Active |
 | [Runway 学生/教师订阅 25% 折扣](offers/runway-25-off-for-students-and-educators.md) | runway.com | 折扣 | 所有人（含师生） | 2026-09-26 | Active |
-| [Ableton Live 学生/教师五折](offers/ableton-live-50-off-for-students-and-teachers.md) | ableton.com | 折扣 | 所有人（含师生） | 2026-11-04 | Active |
+| [Ableton Live 学生/教师五折](offers/ableton-live-50-off-for-students-and-teachers.md) | ableton.com | 折扣 | 所有人（含师生） | 2026-09-25 | Active |
 | [UXPin 学生免费](offers/uxpin-for-students.md) | uxpin.com | 试用 | 学生 | 2026-09-26 | Active |
 | [Jitter 教育计划](offers/jitter-for-education.md) | help.jitter.video | 免费 | 所有人（含师生） | 2026-09-26 | Active |
 | [Icons8 学生 3 个月](offers/icons8-for-github-students.md) | icons8.com | 免费 | 学生 | 2026-09-26 | Active |
 | [Lumion 教育许可](offers/lumion-educational-licenses.md) | lumion.com | 免费 | 所有人（含师生） | 2026-09-25 | Active |
 | [Portfoliobox 学生作品集 1 折](offers/portfoliobox-90-student-discount.md) | portfoliobox.com | 折扣 | 学生 | 2026-09-26 | Active |
+| [Bootstrap Studio 学生版](offers/bootstrap-studio-student.md) | bootstrapstudio.io | 免费 | 学生 | 2026-11-27 | Active |
+| [ToDiagram Pro 学生免费](offers/todiagram-github-students.md) | todiagram.com | 免费 | 学生 | 2026-11-27 | Active |
+| [Visme Starter 学生三个月](offers/visme-github-students.md) | visme.co | 免费 | 学生 | 2026-11-27 | Active |
 
 </details>
 
-### 📚 学习与科研 / Learning & Research (35)
+### 📚 学习与科研 / Learning & Research (40)
 
-<details><summary>展开 / Expand (35)</summary>
+<details><summary>展开 / Expand (40)</summary>
 
 | 福利 / Offer | 站点 | 类型 | 人群 | 核实日期 | 状态 |
 | --- | --- | --- | --- | --- | --- |
@@ -406,17 +425,22 @@
 | [Exploratory 学术计划](offers/exploratory-academic-plan.md) | exploratory.io | 免费 | 所有人（含师生） | 2026-09-26 | Active |
 | [Educative GitHub 学生 6 个月](offers/educative-for-github-students.md) | educative.io | 免费 | 学生 | 2026-09-26 | Active |
 | [Scrimba Pro 学生 1 个月](offers/scrimba-pro-for-github-students.md) | scrimba.com | 免费 | 学生 | 2026-09-26 | Active |
+| [CARTO 学生账号](offers/carto-student-account.md) | app.carto.com | 免费 | 学生 | 2026-11-27 | Active |
+| [DataCamp 学生三个月](offers/datacamp-github-students.md) | datacamp.com | 免费 | 学生 | 2026-11-27 | Active |
+| [Deepnote 教育计划](offers/deepnote-education.md) | deepnote.com | 免费 | 所有人（含师生） | 2026-11-27 | Active |
+| [GoRails 学生一年](offers/gorails-github-students.md) | gorails.com | 免费 | 学生 | 2026-11-27 | Active |
+| [Master.dev 学生半年](offers/master-dev-github-students.md) | master.dev | 免费 | 学生 | 2026-11-27 | Active |
 
 </details>
 
-### 🔒 安全与隐私 / Security & Privacy (21)
+### 🔒 安全与隐私 / Security & Privacy (23)
 
-<details><summary>展开 / Expand (21)</summary>
+<details><summary>展开 / Expand (23)</summary>
 
 | 福利 / Offer | 站点 | 类型 | 人群 | 核实日期 | 状态 |
 | --- | --- | --- | --- | --- | --- |
 | [Cloudflare Project Galileo](offers/cloudflare-galileo.md) | cloudflare.com | 免费 | 所有人（含师生） | 2026-11-14 | Active |
-| [360 Total Security 开学季 Premium](offers/360-back-to-school.md) | website.360totalsecurity.com | 免费 | 学生 | 2026-11-08 | Active |
+| [360 Total Security 开学季 Premium](offers/360-back-to-school.md) | website.360totalsecurity.com | 免费 | 学生 | 2026-11-05 | Active |
 | [Doppler 学生密钥管理](offers/doppler.md) | doppler.com | 免费 | 学生 | 2026-11-04 | Active |
 | [PentesterLab 学生方案](offers/pentesterlab-student.md) | pentesterlab.com | 折扣 | 学生 | 2026-09-26 | Active |
 | [Nessus Essentials Plus 教育许可](offers/nessus-essentials-plus-education.md) | tenable.com | 免费 | 所有人（含师生） | 2026-09-26 | Active |
@@ -436,6 +460,8 @@
 | [Proton 学生专属隐私套餐折扣](offers/proton-student-discount.md) | proton.me | 折扣 | 学生 | 2026-09-26 | Active |
 | [1Password 学生免费一年订阅（Student Beans 渠道）](offers/1password-free-1-year-subscription-via-student-beans.md) | studentbeans.com | 免费 | 学生 | 2026-09-26 | Active |
 | [Caido 教育许可（一年）](offers/caido-education-plan.md) | caido.io | 免费 | 所有人（含师生） | 2026-09-26 | Active |
+| [Astra Pro 学生半年](offers/astra-github-students.md) | getastra.com | 免费 | 学生 | 2026-11-27 | Active |
+| [Datadog Pro 学生两年](offers/datadog-github-students.md) | datadoghq.com | 免费 | 学生 | 2026-11-27 | Active |
 
 </details>
 
@@ -463,9 +489,9 @@
 
 </details>
 
-### 🛒 购物与生活 / Shopping & Living (13)
+### 🛒 购物与生活 / Shopping & Living (14)
 
-<details><summary>展开 / Expand (13)</summary>
+<details><summary>展开 / Expand (14)</summary>
 
 | 福利 / Offer | 站点 | 类型 | 人群 | 核实日期 | 状态 |
 | --- | --- | --- | --- | --- | --- |
@@ -476,18 +502,19 @@
 | [Amazon Prime 年轻成人/学生会员](offers/amazon-prime-for-young-adults-prime-student-9.md) | amazon.com | 折扣 | 学生 | 2026-09-26 | Active |
 | [YNAB 学生一年免费](offers/ynab-budgeting-software.md) | ynab.com | 免费 | 学生 | 2026-11-05 | Active |
 | [Voxi UK eSIM](offers/voxi-uk-esim.md) | voxi.co.uk | 免费 | 学生 | 2026-09-26 | Active |
-| [Alex Genadinik 学生优惠包](offers/alex-genadinik-student-pack.md) | elevate.store | 折扣 | 学生 | 2026-11-04 | Active |
+| [Alex Genadinik 学生优惠包](offers/alex-genadinik-student-pack.md) | elevate.store | 折扣 | 学生 | 2026-09-26 | Active |
 | [Back Market 学生/教师翻新数码折扣](offers/back-market-student-and-educator-discount.md) | backmarket.com | 折扣 | 所有人（含师生） | 2026-09-26 | Active |
 | [Meta Quest 教育购买计划（学生 9 折）](offers/meta-education-purchase-program-for-students-and-amp-educato.md) | meta.com | 折扣 | 所有人（含师生） | 2026-09-26 | Active |
 | [Panda Mobile 留学生美国手机套餐](offers/panda-mobile-international-student-phone-plan.md) | pandamobile.com | 折扣 | 学生 | 2026-09-26 | Active |
 | [Singtel hi! YAY! 学生预付费套餐](offers/singtel-hi-yay-student-prepaid.md) | singtel.com | 免费 | 学生 | 2026-09-26 | Active |
 | [AT&T Signature Savings 学生折扣](offers/at-and-t-signature-savings-for-students.md) | att.com | 折扣 | 学生 | 2026-09-26 | Active |
+| [Adafruit IO+ 学生一年](offers/adafruit-github-students.md) | adafruit.com | 免费 | 学生 | 2026-11-27 | Active |
 
 </details>
 
 ## 📦 数据文件 / Data
 
-- [`data/offers.json`](data/offers.json) — 301 条福利结构化数据（中英双语 + 领取步骤 + 官网链接 + 核实日期）
+- [`data/offers.json`](data/offers.json) — 328 条福利结构化数据（中英双语 + 领取步骤 + 官网链接 + 核实日期）
 - [`data/offers.csv`](data/offers.csv) — 福利表格版本
 - [`data/nav_offers.json`](data/nav_offers.json) — 267 条 nav 项目数据（含教程演示、适配邮箱、官网链接、标签）
 - [`nav/README.md`](nav/README.md) — 267 个 nav 项目总索引（前台可见）
@@ -498,7 +525,7 @@
 - [`docs/edu-verification.md`](docs/edu-verification.md) — 教育邮箱真伪性查询说明与核验清单
 - [`docs/auto-sync.md`](docs/auto-sync.md) — 自动同步机制与定时任务说明
 - [`docs/sync-status.md`](docs/sync-status.md) — 最近一次同步结果
-- [`offers/`](offers/) — 301 篇完整详情页
+- [`offers/`](offers/) — 328 篇完整详情页
 
 ## ⚠️ 免责声明 / Disclaimer
 

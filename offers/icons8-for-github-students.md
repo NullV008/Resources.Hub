@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先通过 GitHub Student Developer Pack。
-2. 打开本页的「前往官网领取」领取 3 个月订阅。
-3. 时长以 GitHub Education 合作页为准。
+- 先通过 GitHub Student Developer Pack。
+
+- 打开本页的「前往官网领取」领取 3 个月订阅。
+
+- 时长以 GitHub Education 合作页为准。
 
 ## 📝 福利简介
 

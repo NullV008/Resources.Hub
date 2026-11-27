@@ -19,10 +19,13 @@
 
 ## 📋 领取步骤
 
-1. 先开通 GitHub Student Developer Pack（学历项目在读、可核验学生身份、有 GitHub 账号、年满 13 岁）。
-2. 打开本页的「前往官网领取」，用 GitHub 登录后点 Request your access code。
-3. 把 Atlas 优惠码加到所选 Organization（每码只能用一次）。未使用约 90 天过期，建议要兑换时再生成。
-4. 兑换 Atlas 额度通常需绑定信用卡或 PayPal；额度按用量扣。完成学习路径后可领免费认证券。
+- 先开通 GitHub Student Developer Pack（学历项目在读、可核验学生身份、有 GitHub 账号、年满 13 岁）。
+
+- 打开本页的「前往官网领取」，用 GitHub 登录后点 Request your access code。
+
+- 把 Atlas 优惠码加到所选 Organization（每码只能用一次）。未使用约 90 天过期，建议要兑换时再生成。
+
+- 兑换 Atlas 额度通常需绑定信用卡或 PayPal；额度按用量扣。完成学习路径后可领免费认证券。
 
 ## 📝 福利简介
 

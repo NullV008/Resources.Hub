@@ -5,7 +5,7 @@
 | 项目 | 内容 |
 | --- | --- |
 | 📂 分类 / Category | 开发者工具 / Developer Tools |
-| 🎁 福利类型 / Benefit | 免费 / Free |
+| 🎁 福利类型 / Benefit | 免费 / Free（1 year free） |
 | 👥 适用人群 / Audience | 学生 / Students |
 | ✅ 最近核实 / Last verified | 2026-09-26 |
 | 🔖 状态 / Status | Active |
@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先加入 GitHub Student Developer Pack。
-2. 打开本页的「前往官网领取」，用 GitHub 注册领取。
-3. 官方说明为 Live-1 并行会话、一年。
+- 先加入 GitHub Student Developer Pack。
+
+- 打开本页的「前往官网领取」，用 GitHub 注册领取。
+
+- 官方说明为 Live-1 并行会话、一年。
 
 ## 📝 福利简介
 

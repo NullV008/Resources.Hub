@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先注册免费 New Relic 账号，并完成 GitHub Education 学生验证。
-2. 在 New Relic 右上角 Help → New Relic for Students → GitHub Education，授权 GitHub。
-3. 确认学生身份后才会加上额外数据量和用户数。在读期间有效。
+- 先注册免费 New Relic 账号，并完成 GitHub Education 学生验证。
+
+- 在 New Relic 右上角 Help → New Relic for Students → GitHub Education，授权 GitHub。
+
+- 确认学生身份后才会加上额外数据量和用户数。在读期间有效。
 
 ## 📝 福利简介
 

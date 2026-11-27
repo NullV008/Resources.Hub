@@ -19,7 +19,7 @@
 
 ## 📋 领取步骤
 
-1. 访问 本页的「前往官网领取」，点击"Request credits"申请 200 个免费 Google Skills 学习积分。2. 访问 Google Skills Arcade（go.qwiklabs.com/arcade）参与免费游戏化实验挑战赢取实物奖励。3. 完成技能徽章系列实验，获得可发布至 LinkedIn 的数字证书。4. 在 gdsc.community.dev 查找并加入本校 Google Developer Student Club。
+- 访问 本页的「前往官网领取」，点击"Request credits"申请 200 个免费 Google Skills 学习积分。2. 访问 Google Skills Arcade（go.qwiklabs.com/arcade）参与免费游戏化实验挑战赢取实物奖励。3. 完成技能徽章系列实验，获得可发布至 LinkedIn 的数字证书。4. 在 gdsc.community.dev 查找并加入本校 Google Developer Student Club。
 
 ## 📝 福利简介
 

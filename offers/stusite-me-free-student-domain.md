@@ -19,10 +19,13 @@
 
 ## 📋 领取步骤
 
-1. 打开 dash.stusite.me 注册账号
-2. 用.edu 邮箱验证（Basic：1 个域名，90 天），或上传在学证明（5 个域名，365 天）
-3. 选择想要的.stusite.me 域名
-4. 在控制面板添加 A 或 CNAME 记录，指向 GitHub Pages、Vercel 等
+- 打开 dash.stusite.me 注册账号
+
+- 用.edu 邮箱验证（Basic：1 个域名，90 天），或上传在学证明（5 个域名，365 天）
+
+- 选择想要的.stusite.me 域名
+
+- 在控制面板添加 A 或 CNAME 记录，指向 GitHub Pages、Vercel 等
 
 ## 📝 福利简介
 

@@ -1,6 +1,6 @@
 # 🤖 AI 助手 / AI Assistants
 
-> 共 **43** 项福利 · [返回首页](../../README.md)
+> 共 **47** 项福利 · [返回首页](../../README.md)
 
 | # | 福利 / Offer | 官网 | 福利类型 | 适用人群 | 最近核实 | 状态 |
 | ---: | --- | --- | --- | --- | --- | --- |
@@ -47,6 +47,10 @@
 | 41 | [Claude 非营利组织优惠](../../offers/claude-for-nonprofits.md) | claude.com | 折扣 | 学生 | 2026-09-26 | Active |
 | 42 | [OpenAI 非营利组织优惠](../../offers/openai-for-nonprofits.md) | help.openai.com | 折扣 | 学生 | 2026-09-26 | Active |
 | 43 | [Scira Pro 学校邮箱价](../../offers/scira-pro-school-email-price.md) | scira.ai | 折扣 | 学生 | 2026-09-26 | Active |
+| 44 | [Wiro 学生 $200 额度](../../offers/wiro-student-credits.md) | wiro.ai | 额度 / 赠送金 | 学生 | 2026-11-23 | Active |
+| 45 | [Kimi for Science 国内额度](../../offers/kimi-for-science.md) | kimi.com | 额度 / 赠送金 | 所有人（含师生） | 2026-11-27 | Active |
+| 46 | [Kimi for Science 国际额度](../../offers/kimi-for-science-international.md) | kimi.ai | 额度 / 赠送金 | 所有人（含师生） | 2026-11-27 | Active |
+| 47 | [Langfuse 学术 Cloud 额度](../../offers/langfuse-research.md) | langfuse.com | 额度 / 赠送金 | 所有人（含师生） | 2026-11-27 | Active |
 
 ---
 

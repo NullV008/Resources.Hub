@@ -19,7 +19,7 @@
 
 ## 📋 领取步骤
 
-在页面点击免费获取，下载 Tableau Desktop Public Edition。  
+在页面点击免费获取，下载 Tableau Desktop Public Edition。
 注册 Tableau Public 账号。作品只能发布到 Tableau Public。
 
 ## 📝 福利简介

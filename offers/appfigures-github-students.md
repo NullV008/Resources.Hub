@@ -1,0 +1,40 @@
+# Appfigures 学生一年
+
+> Appfigures Student Annual Plan
+
+| 项目 | 内容 |
+| --- | --- |
+| 📂 分类 / Category | 效率工具 / Productivity |
+| 🎁 福利类型 / Benefit | 免费 / Free（1 year free） |
+| 👥 适用人群 / Audience | 学生 / Students |
+| ✅ 最近核实 / Last verified | 2026-11-27 |
+| 🔖 状态 / Status | Active |
+| 🌐 官网 / Official site | appfigures.com |
+
+## 🚀 官网领取链接
+
+[**点击前往官方领取 →**](https://appfigures.com)
+
+`https://appfigures.com`
+
+## 📋 领取步骤
+
+1. 打开官网页面，注册或登录账号。
+2. 找到学生 / 教师 / 教育优惠入口，按页面要求提交有效的在读或任教证明。
+3. 审核通过后，按官方指引领取并查看使用条件。
+
+## 📝 福利简介
+
+GitHub 学生包可免费用一年 Appfigures 通用应用分析和 ASO 工具，含商店数据和市场检索。
+
+## Description
+
+GitHub students can get a free one-year subscription to Appfigures, a universal app analytics and ASO tool, including store data and market research.
+
+## 🏷️ 标签 / Tags
+
+`Appfigures` `ASO` `App Store`
+
+---
+
+← [返回 效率工具 分类](../docs/categories/productivity.md) · [返回首页](../README.md)

@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先通过 GitHub Student Developer Pack。
-2. 打开本页的「前往官网领取」领取 Business。
-3. 需要帮助写 students@popsql.com。
+- 先通过 GitHub Student Developer Pack。
+
+- 打开本页的「前往官网领取」领取 Business。
+
+- 需要帮助写 students@popsql.com。
 
 ## 📝 福利简介
 

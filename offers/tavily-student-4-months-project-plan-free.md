@@ -19,9 +19,13 @@
 
 ## 📋 领取步骤
 
-1. 注册 Tavily 账号：tavily.com
-2. 用学校邮箱发信至 [email protected]，或向客服提供学生证，完成学生身份验证。
-3. 通过后会收到优惠码。打开账号 Billing 页，在 Project Plan 点 Upgrade，填入优惠码即可开通。
+- 注册 Tavily 账号：tavily.com
+
+- 用学校邮箱发信至 support@tavily.com，或向客服提供学生证，完成学生身份验证。
+
+- 通过后会收到优惠码。打开账号 Billing 页，在 Project Plan 点 Upgrade，填入优惠码即可开通。
+
+说明：Project 含每月 4000 API credits，为期 4 个月。适用于课程、科研、黑客松等。详见本页的「前往官网领取」
 
 ## 📝 福利简介
 

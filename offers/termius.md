@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 打开 GitHub Student Developer Pack 面板，确认状态是 Activated，而不是刚通过审核的 Approved。
-2. 打开 Termius 教育页，用同一个 GitHub 账号绑定。
-3. 如果刚刚激活，等最多 72 小时再试。
+- 打开 GitHub Student Developer Pack 面板，确认状态是 Activated，而不是刚通过审核的 Approved。
+
+- 打开 Termius 教育页，用同一个 GitHub 账号绑定。
+
+- 如果刚刚激活，等最多 72 小时再试。
 
 ## 📝 福利简介
 

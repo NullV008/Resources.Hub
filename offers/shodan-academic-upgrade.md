@@ -19,7 +19,7 @@
 
 ## 📋 领取步骤
 
-使用.edu、.ac.uk 等学术邮箱在 [www.shodan.io](https://www.shodan.io/) 注册账号，系统将自动升级为 Academic 会员。若未自动升级，请从注册邮箱发送邮件至 academic@shodan.io 申请人工验证。学校不含学术域名的情况同样可通过该邮箱提交验证。
+使用.edu、.ac.uk 等学术邮箱在 www.shodan.io 注册账号，系统将自动升级为 Academic 会员。若未自动升级，请从注册邮箱发送邮件至 academic@shodan.io 申请人工验证。学校不含学术域名的情况同样可通过该邮箱提交验证。
 
 ## 📝 福利简介
 

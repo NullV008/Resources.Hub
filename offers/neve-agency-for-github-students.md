@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先完成 GitHub Education 学生验证。
-2. 打开本页的「前往官网领取」，用 GitHub 登录领取。
-3. 许可为一年 Agency，不限站点。
+- 先完成 GitHub Education 学生验证。
+
+- 打开本页的「前往官网领取」，用 GitHub 登录领取。
+
+- 许可为一年 Agency，不限站点。
 
 ## 📝 福利简介
 

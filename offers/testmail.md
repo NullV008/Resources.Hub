@@ -19,8 +19,9 @@
 
 ## 📋 领取步骤
 
-1. 学生先完成 [GitHub Education](https://education.github.com/pack) 认证，再从学生包里的 Testmail 入口开通 Essential。
-2. 教师、开源维护者或非营利组织发邮件到 support@testmail.app，说明教育或公益用途。
+- 学生先完成 GitHub Education 认证，再从学生包里的 Testmail 入口开通 Essential。
+
+- 教师、开源维护者或非营利组织发邮件到 support@testmail.app，说明教育或公益用途。
 
 ## 📝 福利简介
 

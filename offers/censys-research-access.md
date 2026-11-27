@@ -19,7 +19,7 @@
 
 ## 📋 领取步骤
 
-1. 在 censys.com 注册账号（推荐使用.edu 邮箱加快审核）。2. 向 Censys 提交研究访问申请（Research Access Request），需包含：研究项目描述（3-4 句）、个人背景介绍（2-3 句，含公开主页/Google Scholar 链接）、所需访问类型（BigQuery / 原始数据下载 / API 额度）、数据时效需求、非商业用途确认、同意服务条款，以及 Censys 账号用户名。3. 团队会在数天内回复。注意：禁止使用 ChatGPT 等 LLM 撰写申请，否则将被拒绝。
+- 在 censys.com 注册账号（推荐使用.edu 邮箱加快审核）。2. 向 Censys 提交研究访问申请（Research Access Request），需包含：研究项目描述（3-4 句）、个人背景介绍（2-3 句，含公开主页/Google Scholar 链接）、所需访问类型（BigQuery / 原始数据下载 / API 额度）、数据时效需求、非商业用途确认、同意服务条款，以及 Censys 账号用户名。3. 团队会在数天内回复。注意：禁止使用 ChatGPT 等 LLM 撰写申请，否则将被拒绝。
 
 ## 📝 福利简介
 

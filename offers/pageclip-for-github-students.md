@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先通过 GitHub Student Developer Pack。
-2. 打开本页的「前往官网领取」注册领取 Basic。
-3. GitHub 教育页写明学生期间免费。
+- 先通过 GitHub Student Developer Pack。
+
+- 打开本页的「前往官网领取」注册领取 Basic。
+
+- GitHub 教育页写明学生期间免费。
 
 ## 📝 福利简介
 

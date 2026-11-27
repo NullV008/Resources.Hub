@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 用学校邮箱注册 Bitbucket。域名在认证院校名单内会自动变成学术许可。
-2. 没有自动开通时，按页面申请并补充学校信息。
-3. 在 Settings → Plan Details 里确认 Current Plan 为 Academic。
+- 用学校邮箱注册 Bitbucket。域名在认证院校名单内会自动变成学术许可。
+
+- 没有自动开通时，按页面申请并补充学校信息。
+
+- 在 Settings → Plan Details 里确认 Current Plan 为 Academic。
 
 ## 📝 福利简介
 

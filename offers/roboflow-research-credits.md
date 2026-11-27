@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 用学术邮箱登录一个工作区。不要把不能公开的数据放进去。
-2. 打开设置里的 Plan & Billing，拉到「Using Roboflow for research or education?」，点 Request Access。看不到按钮就先取消付费试用，再点击本页的「前往官网领取」看说明。
-3. 选科研计划并确认升级。课堂定制需求按页面说明联系官方，并写明师生项目。
+- 用学术邮箱登录一个工作区。不要把不能公开的数据放进去。
+
+- 打开设置里的 Plan & Billing，拉到「Using Roboflow for research or education?」，点 Request Access。看不到按钮就先取消付费试用，再点击本页的「前往官网领取」看说明。
+
+- 选科研计划并确认升级。课堂定制需求按页面说明联系官方，并写明师生项目。
 
 ## 📝 福利简介
 

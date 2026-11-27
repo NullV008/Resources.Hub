@@ -19,7 +19,7 @@
 
 ## 📋 领取步骤
 
-1. 使用学校邮箱（如 xxx@university.edu）在 otter.ai 注册免费 Basic 账号。2. 登录后点击左上角头像 → "Upgrade plan"。3. 在方案栏下方点击"Student & Teacher Discount"链接。4. 按提示完成付款（仅支持信用卡），折扣将自动在结算时应用。如邮箱域名不含.edu，可联系 Otter 支持团队提交学校认证文件进行人工审核。注意：须先退出 Workspace 才能使用此折扣。
+- 使用学校邮箱（如 xxx@university.edu）在 otter.ai 注册免费 Basic 账号。2. 登录后点击左上角头像 → "Upgrade plan"。3. 在方案栏下方点击"Student & Teacher Discount"链接。4. 按提示完成付款（仅支持信用卡），折扣将自动在结算时应用。如邮箱域名不含.edu，可联系 Otter 支持团队提交学校认证文件进行人工审核。注意：须先退出 Workspace 才能使用此折扣。
 
 ## 📝 福利简介
 

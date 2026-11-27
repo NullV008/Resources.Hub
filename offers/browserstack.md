@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先完成 [GitHub Education](https://education.github.com/pack) 学生认证。
-2. 打开本页的「前往官网领取」，点击 Sign Up with GitHub。
-3. 用已认证的 GitHub 账号授权登录，领取 Live 和 Automate Mobile 一年免费许可。
+- 先完成 GitHub Education 学生认证。
+
+- 打开本页的「前往官网领取」，点击 Sign Up with GitHub。
+
+- 用已认证的 GitHub 账号授权登录，领取 Live 和 Automate Mobile 一年免费许可。
 
 ## 📝 福利简介
 

@@ -1,6 +1,6 @@
 # 🛠️ 开发者工具 / Developer Tools
 
-> 共 **56** 项福利 · [返回首页](../../README.md)
+> 共 **63** 项福利 · [返回首页](../../README.md)
 
 | # | 福利 / Offer | 官网 | 福利类型 | 适用人群 | 最近核实 | 状态 |
 | ---: | --- | --- | --- | --- | --- | --- |
@@ -8,7 +8,7 @@
 | 2 | [GitHub 非营利组织折扣](../../offers/github-nonprofit.md) | github.com | 免费 | 所有人（含师生） | 2026-11-14 | Active |
 | 3 | [Twilio Impact Access](../../offers/twilio-impact-access.md) | twilio.org | 额度 / 赠送金 | 所有人（含师生） | 2026-11-14 | Active |
 | 4 | [GitLab Ultimate 非营利许可](../../offers/gitlab-nonprofit.md) | about.gitlab.com | 免费 | 所有人（含师生） | 2026-11-13 | Active |
-| 5 | [Amp Megawatt 教育五折](../../offers/amp-education.md) | ampcode.com | 折扣 | 所有人（含师生） | 2026-11-08 | Active |
+| 5 | [Amp Megawatt 教育五折](../../offers/amp-education.md) | ampcode.com | 折扣 | 所有人（含师生） | 2026-11-06 | Active |
 | 6 | [DevCycle 学生一年免费](../../offers/devcycle.md) | devcycle.com | 免费 | 学生 | 2026-11-04 | Active |
 | 7 | [SQLGate 学生一年免费](../../offers/sqlgate.md) | sqlgate.com | 免费 | 学生 | 2026-11-04 | Active |
 | 8 | [testmail.app 教育与开源支持](../../offers/testmail.md) | testmail.app | 免费 | 所有人（含师生） | 2026-11-04 | Active |
@@ -56,10 +56,17 @@
 | 50 | [New Relic 学生账户](../../offers/new-relic-for-students.md) | newrelic.com | 免费 | 学生 | 2026-09-26 | Active |
 | 51 | [Mapbox 教育账户](../../offers/mapbox-for-education.md) | mapbox.com | 免费 | 学生 | 2026-09-26 | Active |
 | 52 | [PopSQL 学生 Business](../../offers/popsql-for-github-students.md) | popsql.com | 免费 | 学生 | 2026-09-26 | Active |
-| 53 | [Requestly Professional 学生一年](../../offers/requestly-professional-for-github-students.md) | requestly.com | 免费 | 学生 | 2026-09-26 | Active |
+| 53 | [Requestly 学生专业版](../../offers/requestly-professional-for-github-students.md) | requestly.com | 免费 | 学生 | 2026-09-26 | Active |
 | 54 | [Pageclip 学生 Basic](../../offers/pageclip-for-github-students.md) | pageclip.co | 免费 | 学生 | 2026-09-26 | Active |
 | 55 | [POEditor 学生一年 Plus](../../offers/poeditor-for-github-students.md) | poeditor.com | 免费 | 学生 | 2026-09-26 | Active |
 | 56 | [Polypane 学生一年](../../offers/polypane-for-github-students.md) | polypane.app | 免费 | 学生 | 2026-09-26 | Active |
+| 57 | [Clerk Pro 学生免费](../../offers/clerk-github-student-pack.md) | clerk.com | 免费 | 学生 | 2026-11-23 | Active |
+| 58 | [Codecov 学生教师免费](../../offers/codecov-for-education.md) | about.codecov.io | 免费 | 所有人（含师生） | 2026-11-27 | Active |
+| 59 | [CodeScene 学生账号](../../offers/codescene-github-students.md) | codescene.com | 免费 | 学生 | 2026-11-27 | Active |
+| 60 | [ConfigCat Pro 学生免费](../../offers/configcat-github-students.md) | configcat.com | 免费 | 学生 | 2026-11-27 | Active |
+| 61 | [Imgbot 学生免费压缩](../../offers/imgbot-github-students.md) | imgbot.net | 免费 | 学生 | 2026-11-27 | Active |
+| 62 | [Vaadin Pro 学生许可](../../offers/vaadin-student-program.md) | vaadin.com | 免费 | 学生 | 2026-11-27 | Active |
+| 63 | [Xojo Pro 学生许可](../../offers/xojo-pro-github-students.md) | xojo.com | 免费 | 学生 | 2026-11-27 | Active |
 
 ---
 

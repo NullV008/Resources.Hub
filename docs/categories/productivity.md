@@ -1,6 +1,6 @@
 # ⚡ 效率工具 / Productivity
 
-> 共 **58** 项福利 · [返回首页](../../README.md)
+> 共 **63** 项福利 · [返回首页](../../README.md)
 
 | # | 福利 / Offer | 官网 | 福利类型 | 适用人群 | 最近核实 | 状态 |
 | ---: | --- | --- | --- | --- | --- | --- |
@@ -62,6 +62,11 @@
 | 56 | [Loom 教育场景](../../offers/loom-for-education.md) | loom.com | 折扣 | 学生 | 2026-09-26 | Active |
 | 57 | [Linear 教育折扣](../../offers/linear-education-program.md) | linear.app | 折扣 | 所有人（含师生） | 2026-09-26 | Active |
 | 58 | [RoundPie 学生 Lite](../../offers/roundpie-for-github-students.md) | theroundpie.com | 免费 | 学生 | 2026-09-26 | Active |
+| 59 | [Appfigures 学生一年](../../offers/appfigures-github-students.md) | appfigures.com | 免费 | 学生 | 2026-11-27 | Active |
+| 60 | [HazeOver 学生 Mac 许可](../../offers/hazeover-github-students.md) | hazeover.com | 免费 | 学生 | 2026-11-27 | Active |
+| 61 | [RoundPie 学生 Lite](../../offers/roundpie-github-students.md) | theroundpie.com | 免费 | 学生 | 2026-11-27 | Active |
+| 62 | [Simple Analytics 学生一年](../../offers/simple-analytics-github-students.md) | dashboard.simpleanalytics.com | 免费 | 学生 | 2026-11-27 | Active |
+| 63 | [Wordtune 学生减免 30%](../../offers/wordtune-student-discount.md) | wordtune.com | 折扣 | 学生 | 2026-11-27 | Active |
 
 ---
 

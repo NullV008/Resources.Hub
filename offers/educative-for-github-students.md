@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 用学校邮箱的 GitHub 账号通过 Student Developer Pack。
-2. 打开本页的「前往官网领取」，在同一浏览器登录 Educative 和 GitHub 后领取。
-3. 课程在 My Courses 里。审核可能从 1 小时到数周。
+- 用学校邮箱的 GitHub 账号通过 Student Developer Pack。
+
+- 打开本页的「前往官网领取」，在同一浏览器登录 Educative 和 GitHub 后领取。
+
+- 课程在 My Courses 里。审核可能从 1 小时到数周。
 
 ## 📝 福利简介
 

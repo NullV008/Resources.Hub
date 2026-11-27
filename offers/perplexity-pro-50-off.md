@@ -19,7 +19,7 @@
 
 ## 📋 领取步骤
 
-1. 打开本页的「前往官网领取」登录后进入 Upgrade / Select your plan。2. 限时五折：年付约 $9/月，包含深度研究、可选顶级模型、更高用量与记忆、文档和应用生成，以及扩展 Computer。3. 升级可见 +US$40 free Computer credits（4000 bonus credits，限时/新订阅福利，用完后 Pro 通常不再按月赠送额度）。4. 学生/教师若仍有 Education 通道，可在账号内走身份验证，最终价格以结算页为准。
+- 打开本页的「前往官网领取」登录后进入 Upgrade / Select your plan。2. 限时五折：年付约 $9/月，包含深度研究、可选顶级模型、更高用量与记忆、文档和应用生成，以及扩展 Computer。3. 升级可见 +US$40 free Computer credits（4000 bonus credits，限时/新订阅福利，用完后 Pro 通常不再按月赠送额度）。4. 学生/教师若仍有 Education 通道，可在账号内走身份验证，最终价格以结算页为准。
 
 ## 📝 福利简介
 

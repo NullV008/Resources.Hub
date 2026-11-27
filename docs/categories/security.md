@@ -1,11 +1,11 @@
 # 🔒 安全与隐私 / Security & Privacy
 
-> 共 **21** 项福利 · [返回首页](../../README.md)
+> 共 **23** 项福利 · [返回首页](../../README.md)
 
 | # | 福利 / Offer | 官网 | 福利类型 | 适用人群 | 最近核实 | 状态 |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 1 | [Cloudflare Project Galileo](../../offers/cloudflare-galileo.md) | cloudflare.com | 免费 | 所有人（含师生） | 2026-11-14 | Active |
-| 2 | [360 Total Security 开学季 Premium](../../offers/360-back-to-school.md) | website.360totalsecurity.com | 免费 | 学生 | 2026-11-08 | Active |
+| 2 | [360 Total Security 开学季 Premium](../../offers/360-back-to-school.md) | website.360totalsecurity.com | 免费 | 学生 | 2026-11-05 | Active |
 | 3 | [Doppler 学生密钥管理](../../offers/doppler.md) | doppler.com | 免费 | 学生 | 2026-11-04 | Active |
 | 4 | [PentesterLab 学生方案](../../offers/pentesterlab-student.md) | pentesterlab.com | 折扣 | 学生 | 2026-09-26 | Active |
 | 5 | [Nessus Essentials Plus 教育许可](../../offers/nessus-essentials-plus-education.md) | tenable.com | 免费 | 所有人（含师生） | 2026-09-26 | Active |
@@ -25,6 +25,8 @@
 | 19 | [Proton 学生专属隐私套餐折扣](../../offers/proton-student-discount.md) | proton.me | 折扣 | 学生 | 2026-09-26 | Active |
 | 20 | [1Password 学生免费一年订阅（Student Beans 渠道）](../../offers/1password-free-1-year-subscription-via-student-beans.md) | studentbeans.com | 免费 | 学生 | 2026-09-26 | Active |
 | 21 | [Caido 教育许可（一年）](../../offers/caido-education-plan.md) | caido.io | 免费 | 所有人（含师生） | 2026-09-26 | Active |
+| 22 | [Astra Pro 学生半年](../../offers/astra-github-students.md) | getastra.com | 免费 | 学生 | 2026-11-27 | Active |
+| 23 | [Datadog Pro 学生两年](../../offers/datadog-github-students.md) | datadoghq.com | 免费 | 学生 | 2026-11-27 | Active |
 
 ---
 

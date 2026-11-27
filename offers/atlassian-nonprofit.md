@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 点击本页的「前往官网领取」，查看资格和价格，再申请 Social Impact License。
-2. 用 Goodstack 核验组织。通过后开通或转换 Atlassian Cloud 站点并套用许可。
-3. 超过 25 人的席位按折扣价计费。需要上手指导，页面上可以预约 Ask an Atlassian。
+- 点击本页的「前往官网领取」，查看资格和价格，再申请 Social Impact License。
+
+- 用 Goodstack 核验组织。通过后开通或转换 Atlassian Cloud 站点并套用许可。
+
+- 超过 25 人的席位按折扣价计费。需要上手指导，页面上可以预约 Ask an Atlassian。
 
 ## 📝 福利简介
 

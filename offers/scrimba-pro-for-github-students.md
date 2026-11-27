@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先加入 GitHub Student Developer Pack。
-2. 打开本页的「前往官网领取」领取 1 个月 Pro。
-3. 到期后是否续费以 Scrimba 账户为准。
+- 先加入 GitHub Student Developer Pack。
+
+- 打开本页的「前往官网领取」领取 1 个月 Pro。
+
+- 到期后是否续费以 Scrimba 账户为准。
 
 ## 📝 福利简介
 

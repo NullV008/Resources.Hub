@@ -231,7 +231,9 @@ def build_readme(clean, cat_meta):
     L.append("")
     L.append(f"> {TITLE_EN} · 全球学生 / 教师优惠与免费资源完整索引")
     L.append("")
-    L.append(f"[![Offers](https://img.shields.io/badge/offers-{len(clean)}-blue)](data/offers.json) "
+    # 前台展示数用「有效 / Active」口径，和源站列出的项目数保持一致
+    active_badge = sum(1 for o in clean if o["status"] == "Active")
+    L.append(f"[![Offers](https://img.shields.io/badge/offers-{active_badge}-blue)](data/offers.json) "
              f"[![Categories](https://img.shields.io/badge/categories-{len(cat_meta)}-green)](docs/categories/) "
              f"[![Nav](https://img.shields.io/badge/nav-{len(nav)}-purple)](nav/README.md) "
              f"[![Buy](https://img.shields.io/badge/buy-{len(buy)}-orange)](docs/buy-recommendations.md) "

@@ -19,8 +19,9 @@
 
 ## 📋 领取步骤
 
-1. 先完成 GitHub Education 学生认证。
-2. 点击本页的「前往官网领取」，用已认证的 GitHub 账号领取 1 个月 Club。
+- 先完成 GitHub Education 学生认证。
+
+- 点击本页的「前往官网领取」，用已认证的 GitHub 账号领取 1 个月 Club。
 
 ## 📝 福利简介
 

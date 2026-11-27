@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 注册 RoundPie，打开个人资料页。
-2. 连接 GitHub Student Developer Pack，升级到免费 Lite。每个 GitHub 学生账号只能升级一个 RoundPie 账号。
-3. 不含团队管理和 Jira、Asana 等企业集成。Ultimate 学生另有 5 折，需联系官方。
+- 注册 RoundPie，打开个人资料页。
+
+- 连接 GitHub Student Developer Pack，升级到免费 Lite。每个 GitHub 学生账号只能升级一个 RoundPie 账号。
+
+- 不含团队管理和 Jira、Asana 等企业集成。Ultimate 学生另有 5 折，需联系官方。
 
 ## 📝 福利简介
 

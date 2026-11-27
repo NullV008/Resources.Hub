@@ -20,7 +20,7 @@
 ## 📋 领取步骤
 
 用学术邮箱提交页面上的申请表，不要再上传附件。
-查收 [email protected] 的邮件（主题含 Free Student License），没有的话看垃圾箱。
+查收 support@astah.net 的邮件（主题含 Free Student License），没有的话看垃圾箱。
 每年 8 月前重新提交一次。
 
 ## 📝 福利简介

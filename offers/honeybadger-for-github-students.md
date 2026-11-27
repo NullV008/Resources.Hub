@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 先加入 GitHub Student Developer Pack。
-2. 打开本页的「前往官网领取」领取一年 Small 方案。
-3. 问题可写 [email protected]。
+- 先加入 GitHub Student Developer Pack。
+
+- 打开本页的「前往官网领取」领取一年 Small 方案。
+
+- 问题可写 support@honeybadger.io。
 
 ## 📝 福利简介
 

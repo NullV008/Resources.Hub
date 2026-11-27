@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 自学或用 Studio：点击本页的「前往官网领取」，建立 SAS 档案后进入云端 Studio。
-2. 课程若要用 Enterprise Guide，教师先登记课程，再把收到的说明发给学生。
-3. 需要入门可报名页面上的 Programming 1 和 Statistics 1。不要拿去给公司做生产分析。
+- 自学或用 Studio：点击本页的「前往官网领取」，建立 SAS 档案后进入云端 Studio。
+
+- 课程若要用 Enterprise Guide，教师先登记课程，再把收到的说明发给学生。
+
+- 需要入门可报名页面上的 Programming 1 和 Statistics 1。不要拿去给公司做生产分析。
 
 ## 📝 福利简介
 

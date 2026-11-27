@@ -19,7 +19,8 @@
 
 ## 📋 领取步骤
 
-北美学生版：在页面购买后按邮件提示提交学生证，用本人信用卡付款。免费 Learning Edition：到 OriginPro Learning Edition 页面，用大学邮箱申请。
+北美学生版：在页面购买后按邮件提示提交学生证，用本人信用卡付款。
+免费 Learning Edition：到 OriginPro Learning Edition 页面，用大学邮箱申请。
 
 ## 📝 福利简介
 

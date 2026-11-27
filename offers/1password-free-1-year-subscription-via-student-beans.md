@@ -19,10 +19,15 @@
 
 ## 📋 领取步骤
 
-1. 访问本页的「前往官网领取」。
-2. 点击 Student Discount，跳转至 Student Beans 验证页面。
-3. 注册或登录 Student Beans 账号，上传/验证在读学生身份信息（支持学校邮箱或证件验证）。
-4. 验证通过后按提示领取 1Password 1 年免费订阅优惠码，在 1Password 官网结算时使用。
+- 访问本页的「前往官网领取」。
+
+- 点击 Student Discount，跳转至 Student Beans 验证页面。
+
+- 注册或登录 Student Beans 账号，上传/验证在读学生身份信息（支持学校邮箱或证件验证）。
+
+- 验证通过后按提示领取 1Password 1 年免费订阅优惠码，在 1Password 官网结算时使用。
+
+注意：此渠道与 GitHub Student Developer Pack 中的 1Password 开发者版权益是两个独立渠道，可与之并存，按需选择使用。
 
 ## 📝 福利简介
 
