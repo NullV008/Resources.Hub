@@ -17,7 +17,7 @@
 | 含官网领取链接 / With official links | 328 |
 | 含领取步骤 / With claim steps | 328 |
 | [nav 前台页面 / Nav pages](nav/README.md) | 267 |
-| 购买参考入口 / Purchase entries | 6 |
+| 教育邮箱购买参考入口 / Purchase entries | 6 |
 | 邮箱核验工具 / Email verification | [eduverify.net](https://eduverify.net/) |
 | 语言 / Languages | 简体中文 · English |
 
