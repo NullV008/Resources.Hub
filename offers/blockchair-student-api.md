@@ -7,7 +7,7 @@
 | 📂 分类 / Category | 开发者工具 / Developer Tools |
 | 🎁 福利类型 / Benefit | 免费 / Free（1 year free） |
 | 👥 适用人群 / Audience | 学生 / Students |
-| ✅ 最近核实 / Last verified | 2026-09-26 |
+| ✅ 最近核实 / Last verified | 2026-11-26 |
 | 🔖 状态 / Status | Active |
 | 🌐 官网 / Official site | blockchair.com |
 

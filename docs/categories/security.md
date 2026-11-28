@@ -25,8 +25,8 @@
 | 19 | [Proton 学生专属隐私套餐折扣](../../offers/proton-student-discount.md) | proton.me | 折扣 | 学生 | 2026-09-26 | Active |
 | 20 | [1Password 学生免费一年订阅（Student Beans 渠道）](../../offers/1password-free-1-year-subscription-via-student-beans.md) | studentbeans.com | 免费 | 学生 | 2026-09-26 | Active |
 | 21 | [Caido 教育许可（一年）](../../offers/caido-education-plan.md) | caido.io | 免费 | 所有人（含师生） | 2026-09-26 | Active |
-| 22 | [Astra Pro 学生半年](../../offers/astra-github-students.md) | getastra.com | 免费 | 学生 | 2026-11-27 | Active |
-| 23 | [Datadog Pro 学生两年](../../offers/datadog-github-students.md) | datadoghq.com | 免费 | 学生 | 2026-11-27 | Active |
+| 22 | [Astra Pro 学生半年](../../offers/astra-github-students.md) | getastra.com | 免费 | 学生 | 2026-11-26 | Active |
+| 23 | [Datadog Pro 学生两年](../../offers/datadog-github-students.md) | datadoghq.com | 免费 | 学生 | 2026-11-26 | Active |
 
 ---
 

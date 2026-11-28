@@ -7,7 +7,7 @@
 | 📂 分类 / Category | AI 助手 / AI Assistants |
 | 🎁 福利类型 / Benefit | 额度 / 赠送金 / Credits（$2000 credit） |
 | 👥 适用人群 / Audience | 所有人（含师生） / Everyone (incl. students & teachers) |
-| ✅ 最近核实 / Last verified | 2026-11-27 |
+| ✅ 最近核实 / Last verified | 2026-11-25 |
 | 🔖 状态 / Status | Active |
 | 🌐 官网 / Official site | langfuse.com |
 
@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 打开官网页面，注册或登录账号。
-2. 找到学生 / 教师 / 教育优惠入口，按页面要求提交有效的在读或任教证明。
-3. 审核通过后，按官方指引领取并查看使用条件。
+- 用学校邮箱注册 Langfuse Cloud，再点击本页的「前往官网领取」，按页面填写学术额度申请。
+
+- 符合条件会寄来优惠码。到付费套餐结账时兑换。
+
+- 额度从兑换日起算 12 个月。只用免费档或自己部署开源版的，不用申请。
 
 ## 📝 福利简介
 

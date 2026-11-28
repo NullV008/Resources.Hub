@@ -7,7 +7,7 @@
 | 📂 分类 / Category | 开发者工具 / Developer Tools |
 | 🎁 福利类型 / Benefit | 免费 / Free（在读期间） |
 | 👥 适用人群 / Audience | 所有人（含师生） / Everyone (incl. students & teachers) |
-| ✅ 最近核实 / Last verified | 2026-11-27 |
+| ✅ 最近核实 / Last verified | 2026-11-26 |
 | 🔖 状态 / Status | Active |
 | 🌐 官网 / Official site | about.codecov.io |
 
@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 打开官网页面，注册或登录账号。
-2. 找到学生 / 教师 / 教育优惠入口，按页面要求提交有效的在读或任教证明。
-3. 审核通过后，按官方指引领取并查看使用条件。
+- 学生先加入 GitHub 学生包。教师按 Codecov 教育说明申请。
+
+- 点击本页的「前往官网领取」，用 GitHub 登录。学生包成员一般会自动开通。
+
+- 先从一个组织和仓库开始接 CI。
 
 ## 📝 福利简介
 

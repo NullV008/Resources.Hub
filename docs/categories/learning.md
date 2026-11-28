@@ -39,11 +39,11 @@
 | 33 | [Exploratory 学术计划](../../offers/exploratory-academic-plan.md) | exploratory.io | 免费 | 所有人（含师生） | 2026-09-26 | Active |
 | 34 | [Educative GitHub 学生 6 个月](../../offers/educative-for-github-students.md) | educative.io | 免费 | 学生 | 2026-09-26 | Active |
 | 35 | [Scrimba Pro 学生 1 个月](../../offers/scrimba-pro-for-github-students.md) | scrimba.com | 免费 | 学生 | 2026-09-26 | Active |
-| 36 | [CARTO 学生账号](../../offers/carto-student-account.md) | app.carto.com | 免费 | 学生 | 2026-11-27 | Active |
-| 37 | [DataCamp 学生三个月](../../offers/datacamp-github-students.md) | datacamp.com | 免费 | 学生 | 2026-11-27 | Active |
-| 38 | [Deepnote 教育计划](../../offers/deepnote-education.md) | deepnote.com | 免费 | 所有人（含师生） | 2026-11-27 | Active |
-| 39 | [GoRails 学生一年](../../offers/gorails-github-students.md) | gorails.com | 免费 | 学生 | 2026-11-27 | Active |
-| 40 | [Master.dev 学生半年](../../offers/master-dev-github-students.md) | master.dev | 免费 | 学生 | 2026-11-27 | Active |
+| 36 | [CARTO 学生账号](../../offers/carto-student-account.md) | app.carto.com | 免费 | 学生 | 2026-11-26 | Active |
+| 37 | [DataCamp 学生三个月](../../offers/datacamp-github-students.md) | datacamp.com | 免费 | 学生 | 2026-11-26 | Active |
+| 38 | [Deepnote 教育计划](../../offers/deepnote-education.md) | deepnote.com | 免费 | 所有人（含师生） | 2026-11-26 | Active |
+| 39 | [GoRails 学生一年](../../offers/gorails-github-students.md) | gorails.com | 免费 | 学生 | 2026-11-26 | Active |
+| 40 | [Master.dev 学生半年](../../offers/master-dev-github-students.md) | master.dev | 免费 | 学生 | 2026-11-26 | Active |
 
 ---
 

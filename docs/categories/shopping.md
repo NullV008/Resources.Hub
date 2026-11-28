@@ -17,7 +17,7 @@
 | 11 | [Panda Mobile 留学生美国手机套餐](../../offers/panda-mobile-international-student-phone-plan.md) | pandamobile.com | 折扣 | 学生 | 2026-09-26 | Active |
 | 12 | [Singtel hi! YAY! 学生预付费套餐](../../offers/singtel-hi-yay-student-prepaid.md) | singtel.com | 免费 | 学生 | 2026-09-26 | Active |
 | 13 | [AT&T Signature Savings 学生折扣](../../offers/at-and-t-signature-savings-for-students.md) | att.com | 折扣 | 学生 | 2026-09-26 | Active |
-| 14 | [Adafruit IO+ 学生一年](../../offers/adafruit-github-students.md) | adafruit.com | 免费 | 学生 | 2026-11-27 | Active |
+| 14 | [Adafruit IO+ 学生一年](../../offers/adafruit-github-students.md) | adafruit.com | 免费 | 学生 | 2026-11-26 | Active |
 
 ---
 

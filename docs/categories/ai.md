@@ -50,7 +50,7 @@
 | 44 | [Wiro 学生 $200 额度](../../offers/wiro-student-credits.md) | wiro.ai | 额度 / 赠送金 | 学生 | 2026-11-23 | Active |
 | 45 | [Kimi for Science 国内额度](../../offers/kimi-for-science.md) | kimi.com | 额度 / 赠送金 | 所有人（含师生） | 2026-11-27 | Active |
 | 46 | [Kimi for Science 国际额度](../../offers/kimi-for-science-international.md) | kimi.ai | 额度 / 赠送金 | 所有人（含师生） | 2026-11-27 | Active |
-| 47 | [Langfuse 学术 Cloud 额度](../../offers/langfuse-research.md) | langfuse.com | 额度 / 赠送金 | 所有人（含师生） | 2026-11-27 | Active |
+| 47 | [Langfuse 学术 Cloud 额度](../../offers/langfuse-research.md) | langfuse.com | 额度 / 赠送金 | 所有人（含师生） | 2026-11-25 | Active |
 
 ---
 

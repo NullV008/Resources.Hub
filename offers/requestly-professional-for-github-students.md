@@ -7,7 +7,7 @@
 | 📂 分类 / Category | 开发者工具 / Developer Tools |
 | 🎁 福利类型 / Benefit | 免费 / Free（在读期间） |
 | 👥 适用人群 / Audience | 学生 / Students |
-| ✅ 最近核实 / Last verified | 2026-09-26 |
+| ✅ 最近核实 / Last verified | 2026-11-26 |
 | 🔖 状态 / Status | Active |
 | 🌐 官网 / Official site | requestly.com |
 
@@ -19,11 +19,11 @@
 
 ## 📋 领取步骤
 
-- 先通过 GitHub Student Developer Pack。
+- 点击本页的「前往官网领取」。学校邮箱在名单里会自动开通全部功能。
 
-- 打开本页的「前往官网领取」，用 GitHub 登录领取。
+- 不在名单里的，先加入 GitHub 学生包，再用 GitHub 登录领取 Professional 一年。
 
-- 已付费用户会把剩余时间折成额度。一年后不再自动续免费，可买订阅或回到免费版。
+- 已经付费的账号，剩余时间会折成额度。学校邮箱方案跟在读走；GitHub 那条一年后不再自动续免费。
 
 ## 📝 福利简介
 

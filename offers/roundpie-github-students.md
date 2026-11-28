@@ -7,7 +7,7 @@
 | 📂 分类 / Category | 效率工具 / Productivity |
 | 🎁 福利类型 / Benefit | 免费 / Free（在读期间） |
 | 👥 适用人群 / Audience | 学生 / Students |
-| ✅ 最近核实 / Last verified | 2026-11-27 |
+| ✅ 最近核实 / Last verified | 2026-11-26 |
 | 🔖 状态 / Status | Active |
 | 🌐 官网 / Official site | theroundpie.com |
 
@@ -19,9 +19,11 @@
 
 ## 📋 领取步骤
 
-1. 打开官网页面，注册或登录账号。
-2. 找到学生 / 教师 / 教育优惠入口，按页面要求提交有效的在读或任教证明。
-3. 审核通过后，按官方指引领取并查看使用条件。
+- 先加入 GitHub 学生包，并注册 RoundPie。
+
+- 点击本页的「前往官网领取」，在个人资料里连接 GitHub 学生包，升到 Lite。
+
+- 一个 GitHub 学生账号只能升一个 RoundPie 账号。不含团队和企业集成。
 
 ## 📝 福利简介
 

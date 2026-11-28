@@ -48,25 +48,25 @@
 | 42 | [Sentry 教育计划](../../offers/sentry-for-education.md) | sentry.io | 额度 / 赠送金 | 所有人（含师生） | 2026-09-26 | Active |
 | 43 | [Bitbucket 学术账户](../../offers/bitbucket-academic-account.md) | bitbucket.org | 免费 | 所有人（含师生） | 2026-09-26 | Active |
 | 44 | [Arduino Cloud 学生包](../../offers/arduino-for-github-students.md) | arduino.cc | 折扣 | 学生 | 2026-09-26 | Active |
-| 45 | [Blockchair 学生 API](../../offers/blockchair-student-api.md) | blockchair.com | 免费 | 学生 | 2026-09-26 | Active |
+| 45 | [Blockchair 学生 API](../../offers/blockchair-student-api.md) | blockchair.com | 免费 | 学生 | 2026-11-26 | Active |
 | 46 | [DeepScan 学生 6 个月](../../offers/deepscan-for-github-students.md) | deepscan.io | 试用 | 学生 | 2026-09-26 | Active |
 | 47 | [Honeybadger 学生一年](../../offers/honeybadger-for-github-students.md) | honeybadger.io | 免费 | 学生 | 2026-09-26 | Active |
 | 48 | [LocalStack 学生计划](../../offers/localstack-for-students.md) | localstack.cloud | 免费 | 学生 | 2026-09-26 | Active |
-| 49 | [TestMu AI 学生测试云](../../offers/testmu-ai-for-github-students.md) | testmuai.com | 免费 | 学生 | 2026-09-26 | Active |
+| 49 | [TestMu AI 学生测试云](../../offers/testmu-ai-for-github-students.md) | testmuai.com | 免费 | 学生 | 2026-11-26 | Active |
 | 50 | [New Relic 学生账户](../../offers/new-relic-for-students.md) | newrelic.com | 免费 | 学生 | 2026-09-26 | Active |
 | 51 | [Mapbox 教育账户](../../offers/mapbox-for-education.md) | mapbox.com | 免费 | 学生 | 2026-09-26 | Active |
 | 52 | [PopSQL 学生 Business](../../offers/popsql-for-github-students.md) | popsql.com | 免费 | 学生 | 2026-09-26 | Active |
-| 53 | [Requestly 学生专业版](../../offers/requestly-professional-for-github-students.md) | requestly.com | 免费 | 学生 | 2026-09-26 | Active |
+| 53 | [Requestly 学生专业版](../../offers/requestly-professional-for-github-students.md) | requestly.com | 免费 | 学生 | 2026-11-26 | Active |
 | 54 | [Pageclip 学生 Basic](../../offers/pageclip-for-github-students.md) | pageclip.co | 免费 | 学生 | 2026-09-26 | Active |
-| 55 | [POEditor 学生一年 Plus](../../offers/poeditor-for-github-students.md) | poeditor.com | 免费 | 学生 | 2026-09-26 | Active |
+| 55 | [POEditor 学生一年 Plus](../../offers/poeditor-for-github-students.md) | poeditor.com | 免费 | 学生 | 2026-11-26 | Active |
 | 56 | [Polypane 学生一年](../../offers/polypane-for-github-students.md) | polypane.app | 免费 | 学生 | 2026-09-26 | Active |
 | 57 | [Clerk Pro 学生免费](../../offers/clerk-github-student-pack.md) | clerk.com | 免费 | 学生 | 2026-11-23 | Active |
-| 58 | [Codecov 学生教师免费](../../offers/codecov-for-education.md) | about.codecov.io | 免费 | 所有人（含师生） | 2026-11-27 | Active |
-| 59 | [CodeScene 学生账号](../../offers/codescene-github-students.md) | codescene.com | 免费 | 学生 | 2026-11-27 | Active |
-| 60 | [ConfigCat Pro 学生免费](../../offers/configcat-github-students.md) | configcat.com | 免费 | 学生 | 2026-11-27 | Active |
-| 61 | [Imgbot 学生免费压缩](../../offers/imgbot-github-students.md) | imgbot.net | 免费 | 学生 | 2026-11-27 | Active |
-| 62 | [Vaadin Pro 学生许可](../../offers/vaadin-student-program.md) | vaadin.com | 免费 | 学生 | 2026-11-27 | Active |
-| 63 | [Xojo Pro 学生许可](../../offers/xojo-pro-github-students.md) | xojo.com | 免费 | 学生 | 2026-11-27 | Active |
+| 58 | [Codecov 学生教师免费](../../offers/codecov-for-education.md) | about.codecov.io | 免费 | 所有人（含师生） | 2026-11-26 | Active |
+| 59 | [CodeScene 学生账号](../../offers/codescene-github-students.md) | codescene.com | 免费 | 学生 | 2026-11-26 | Active |
+| 60 | [ConfigCat Pro 学生免费](../../offers/configcat-github-students.md) | configcat.com | 免费 | 学生 | 2026-11-26 | Active |
+| 61 | [Imgbot 学生免费压缩](../../offers/imgbot-github-students.md) | imgbot.net | 免费 | 学生 | 2026-11-26 | Active |
+| 62 | [Vaadin Pro 学生许可](../../offers/vaadin-student-program.md) | vaadin.com | 免费 | 学生 | 2026-11-26 | Active |
+| 63 | [Xojo Pro 学生许可](../../offers/xojo-pro-github-students.md) | xojo.com | 免费 | 学生 | 2026-11-26 | Active |
 
 ---
 
